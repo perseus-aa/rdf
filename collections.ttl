@@ -1,0 +1,382 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix entity: <http://perseus.tufts.edu/ns/entities/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+entity:collection01 a crm:E74_Group ;
+    rdfs:label "Ackland Art Museum, University of North Carolina, Chapel Hill" .
+
+entity:collection02 a crm:E74_Group ;
+    rdfs:label "Ancona, Archeologico Museo Regionale delle Marche" .
+
+entity:collection03 a crm:E74_Group ;
+    rdfs:label "Anonymous Collection" .
+
+entity:collection04 a crm:E74_Group ;
+    rdfs:label "Archer M. Huntington Art Gallery, University of Texas at Austin" .
+
+entity:collection05 a crm:E74_Group ;
+    rdfs:label "Arezzo, Museo Civico" .
+
+entity:collection06 a crm:E74_Group ;
+    rdfs:label "Athens, Fethiye Djami" .
+
+entity:collection07 a crm:E74_Group ;
+    rdfs:label "Basel, H.A. Cahn Collection" .
+
+entity:collection08 a crm:E74_Group ;
+    rdfs:label "Beloit College, Wright Museum of Art" .
+
+entity:collection09 a crm:E74_Group ;
+    rdfs:label "Berlin, Antikenmuseen" .
+
+entity:collection10 a crm:E74_Group ;
+    rdfs:label "Brussels, Muses Royaux de Cinquantenaire" .
+
+entity:collection11 a crm:E74_Group ;
+    rdfs:label "Collection of Costas Lemonopoulos, St. Petersburg" .
+
+entity:collection12 a crm:E74_Group ;
+    rdfs:label "Collection of Dr. Warren Gilson" .
+
+entity:collection13 a crm:E74_Group ;
+    rdfs:label "Collection of Emily D. B. Vermeule" .
+
+entity:collection14 a crm:E74_Group ;
+    rdfs:label "Collection of Gay H. Cone, St. Louis" .
+
+entity:collection15 a crm:E74_Group ;
+    rdfs:label "Collection of Gilbert M. Denman, Jr., San Antonio" .
+
+entity:collection16 a crm:E74_Group ;
+    rdfs:label "Collection of Mr. and Mrs. Arthur J. Frank" .
+
+entity:collection17 a crm:E74_Group ;
+    rdfs:label "Collection of Mr. and Mrs. Arthur Q. Davis, New Orleans" .
+
+entity:collection18 a crm:E74_Group ;
+    rdfs:label "Collection of Mr. and Mrs. Cedric G. Boulter" .
+
+entity:collection19 a crm:E74_Group ;
+    rdfs:label "Collection of Mr. and Mrs. Cornelius C. Vermeule" .
+
+entity:collection20 a crm:E74_Group ;
+    rdfs:label "Collection of Mr. and Mrs. Edward L. Diefenthal, Metairie, Louisiana" .
+
+entity:collection21 a crm:E74_Group ;
+    rdfs:label "Collection of Mr. and Mrs. Jakob Rosenberg" .
+
+entity:collection22 a crm:E74_Group ;
+    rdfs:label "Collection of Mrs. Nathan Polmer, New Orleans" .
+
+entity:collection23 a crm:E74_Group ;
+    rdfs:label "Collection of Norbert Schimmel" .
+
+entity:collection24 a crm:E74_Group ;
+    rdfs:label "Collection of Tulane University" .
+
+entity:collection25 a crm:E74_Group ;
+    rdfs:label "Collection of the Cummer Museum of Art and Gardens" .
+
+entity:collection26 a crm:E74_Group ;
+    rdfs:label "David and Alfred Smart Gallery, University of Chicago" .
+
+entity:collection27 a crm:E74_Group ;
+    rdfs:label "Eichenzell, Museum Schloss Fasanerie (Hessische Haussstiftung)" .
+
+entity:collection28 a crm:E74_Group ;
+    rdfs:label "Elvehjem Museum of Art, University of Wisconsin-Madison" .
+
+entity:collection29 a crm:E74_Group ;
+    rdfs:label "Empries, Museo Arqueolgico" .
+
+entity:collection30 a crm:E74_Group ;
+    rdfs:label "Hamburg, Museum fr Kunst und Gewerbe" .
+
+entity:collection31 a crm:E74_Group ;
+    rdfs:label "John and Mabel Ringling Museum of Art, Sarasota" .
+
+entity:collection32 a crm:E74_Group ;
+    rdfs:label "Johns Hopkins University Museum, Baltimore" .
+
+entity:collection33 a crm:E74_Group ;
+    rdfs:label "Karlsruhe, Badisches Landesmuseum" .
+
+entity:collection34 a crm:E74_Group ;
+    rdfs:label "Krannert Art Museum, University of Illinois" .
+
+entity:collection35 a crm:E74_Group ;
+    rdfs:label "Lecce, Museo Provinciale Castromediano" .
+
+entity:collection36 a crm:E74_Group ;
+    rdfs:label "Leuven, Katholieke Universiteit, Didaktisch Museum, Archeologie" .
+
+entity:collection37 a crm:E74_Group ;
+    rdfs:label "London, Britsh Museum" .
+
+entity:collection38 a crm:E74_Group ;
+    rdfs:label "Madrid, Museo Arqueolgico Nacional" .
+
+entity:collection39 a crm:E74_Group ;
+    rdfs:label "Mainz University" .
+
+entity:collection40 a crm:E74_Group ;
+    rdfs:label "Mannheim, Reissmuseum" .
+
+entity:collection41 a crm:E74_Group ;
+    rdfs:label "Martin von Wagner Museum, University of Wrzburg" .
+
+entity:collection42 a crm:E74_Group ;
+    rdfs:label "Milwaukee Public Museum" .
+
+entity:collection43 a crm:E74_Group ;
+    rdfs:label "Museum of Art and Archaeology, Univ. of Missouri-Columbia" .
+
+entity:collection44 a crm:E74_Group ;
+    rdfs:label "Once Naples, Hamilton Collection" .
+
+entity:collection45 a crm:E74_Group ;
+    rdfs:label "Palermo, Museo Nazionale" .
+
+entity:collection46 a crm:E74_Group ;
+    rdfs:label "Paris, Bibliothque Nationale, Cabinet des Mdailles" .
+
+entity:collection47 a crm:E74_Group ;
+    rdfs:label "Private Collection, New Orleans" .
+
+entity:collection48 a crm:E74_Group ;
+    rdfs:label "Putnam Museum" .
+
+entity:collection49 a crm:E74_Group ;
+    rdfs:label "Tubingen University" .
+
+entity:collection50 a crm:E74_Group ;
+    rdfs:label "The Lowe Art Museum, University of Miami" .
+
+entity:collection51 a crm:E74_Group ;
+    rdfs:label "The Trustees of Dartmouth College" .
+
+entity:collection52 a crm:E74_Group ;
+    rdfs:label "The Trustees of the Dewing Numismatic Foundation" .
+
+entity:collection53 a crm:E74_Group ;
+    rdfs:label "The University Museum, University of Arkansas" .
+
+entity:collection54 a crm:E74_Group ;
+    rdfs:label "Ullastret (Gerona) Museum" .
+
+entity:collection55 a crm:E74_Group ;
+    rdfs:label "University Art Museum, University of Minnesota" .
+
+entity:collection56 a crm:E74_Group ;
+    rdfs:label "University of Reading" .
+
+entity:collection57 a crm:E74_Group ;
+    rdfs:label "Verona, Museo Archeologico al Teatro romano (Museo Civico)" .
+
+entity:collection58 a crm:E74_Group ;
+    rdfs:label "Washington University Gallery of Art" .
+
+<https://www.wikidata.org/wiki/Q1117704> a crm:E74_Group ;
+    rdfs:label "Indianapolis Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q1201549> a crm:E74_Group ;
+    rdfs:label "Detroit Institute of Arts" .
+
+<https://www.wikidata.org/wiki/Q12072937> a crm:E74_Group ;
+    rdfs:label "Williams College Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q1285902> a crm:E74_Group ;
+    rdfs:label "University of Pennsylvania Museum of Archaeology and Anthropology" .
+
+<https://www.wikidata.org/wiki/Q132783> a crm:E74_Group ;
+    rdfs:label "Hermitage Museum" .
+
+<https://www.wikidata.org/wiki/Q1372546> a crm:E74_Group ;
+    rdfs:label "Joslyn Art Museum" .
+
+<https://www.wikidata.org/wiki/Q1459878> a crm:E74_Group ;
+    rdfs:label "North Carolina Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q14715727> a crm:E74_Group ;
+    rdfs:label "Mount Holyoke College Art Museum" .
+
+<https://www.wikidata.org/wiki/Q14715853> a crm:E74_Group ;
+    rdfs:label "Smith College Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q15055388> a crm:E74_Group ;
+    rdfs:label "National Etruscan Museum" .
+
+<https://www.wikidata.org/wiki/Q153306> a crm:E74_Group ;
+    rdfs:label "National Museum in Warsaw" .
+
+<https://www.wikidata.org/wiki/Q1565911> a crm:E74_Group ;
+    rdfs:label "Museum of Fine Arts, Houston" .
+
+<https://www.wikidata.org/wiki/Q1568434> a crm:E74_Group ;
+    rdfs:label "Yale University Art Gallery" .
+
+<https://www.wikidata.org/wiki/Q15694044> a crm:E74_Group ;
+    rdfs:label "Davis Museum and Cultural Center" .
+
+<https://www.wikidata.org/wiki/Q15961522> a crm:E74_Group ;
+    rdfs:label "Tarquinia National Museum" .
+
+<https://www.wikidata.org/wiki/Q160236> a crm:E74_Group ;
+    rdfs:label "Metropolitan Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q1647706> a crm:E74_Group ;
+    rdfs:label "San Antonio Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q1672708> a crm:E74_Group ;
+    rdfs:label "Cantor Arts Center at Stanford University" .
+
+<https://www.wikidata.org/wiki/Q1700481> a crm:E74_Group ;
+    rdfs:label "Minneapolis Institute of Art" .
+
+<https://www.wikidata.org/wiki/Q1738346> a crm:E74_Group ;
+    rdfs:label "Kelsey Museum of Archaeology" .
+
+<https://www.wikidata.org/wiki/Q1743116> a crm:E74_Group ;
+    rdfs:label "Toledo Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q1760539> a crm:E74_Group ;
+    rdfs:label "Saint Louis Art Museum" .
+
+<https://www.wikidata.org/wiki/Q182955> a crm:E74_Group ;
+    rdfs:label "Vatican Museums" .
+
+<https://www.wikidata.org/wiki/Q19675> a crm:E74_Group ;
+    rdfs:label "Louvre Museum" .
+
+<https://www.wikidata.org/wiki/Q1976985> a crm:E74_Group ;
+    rdfs:label "The Nelson-Atkins Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q2063082> a crm:E74_Group ;
+    rdfs:label "New Orleans Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q210081> a crm:E74_Group ;
+    rdfs:label "Walters Art Museum" .
+
+<https://www.wikidata.org/wiki/Q2148186> a crm:E74_Group ;
+    rdfs:label "Rhode Island School of Design Museum" .
+
+<https://www.wikidata.org/wiki/Q2358398> a crm:E74_Group ;
+    rdfs:label "Archeological Civic Museum of Bologna" .
+
+<https://www.wikidata.org/wiki/Q2383284> a crm:E74_Group ;
+    rdfs:label "Museum of the Ancient Agora" .
+
+<https://www.wikidata.org/wiki/Q239303> a crm:E74_Group ;
+    rdfs:label "Art Institute of Chicago" .
+
+<https://www.wikidata.org/wiki/Q2603905> a crm:E74_Group ;
+    rdfs:label "Princeton University Art Museum" .
+
+<https://www.wikidata.org/wiki/Q27992909> a crm:E74_Group ;
+    rdfs:label "civic museum \"La Città Sotterranea\"" .
+
+<https://www.wikidata.org/wiki/Q2970522> a crm:E74_Group ;
+    rdfs:label "Cincinnati Art Museum" .
+
+<https://www.wikidata.org/wiki/Q318289> a crm:E74_Group ;
+    rdfs:label "collection Abegg foundation" .
+
+<https://www.wikidata.org/wiki/Q3329429> a crm:E74_Group ;
+    rdfs:label "Archaeological Museum of Eleusis" .
+
+<https://www.wikidata.org/wiki/Q3783572> a crm:E74_Group ;
+    rdfs:label "Harvard Art Museums" .
+
+<https://www.wikidata.org/wiki/Q3816734> a crm:E74_Group ;
+    rdfs:label "Allen Memorial Art Museum" .
+
+<https://www.wikidata.org/wiki/Q3867701> a crm:E74_Group ;
+    rdfs:label "Museo archeologico nazionale Jatta" .
+
+<https://www.wikidata.org/wiki/Q4013975> a crm:E74_Group ;
+    rdfs:label "Virginia Museum of Fine Arts" .
+
+<https://www.wikidata.org/wiki/Q403080> a crm:E74_Group ;
+    rdfs:label "Wadsworth Atheneum Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q42114772> a crm:E74_Group ;
+    rdfs:label "Archaeological Museum of Eretria" .
+
+<https://www.wikidata.org/wiki/Q4872> a crm:E74_Group ;
+    rdfs:label "Pushkin Museum of Fine Arts" .
+
+<https://www.wikidata.org/wiki/Q49133> a crm:E74_Group ;
+    rdfs:label "Museum of Fine Arts Boston" .
+
+<https://www.wikidata.org/wiki/Q4950759> a crm:E74_Group ;
+    rdfs:label "Bowdoin College Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q597355> a crm:E74_Group ;
+    rdfs:label "Dayton Art Institute" .
+
+<https://www.wikidata.org/wiki/Q6023573> a crm:E74_Group ;
+    rdfs:label "Eskenazi Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q6102069> a crm:E74_Group ;
+    rdfs:label "İzmir Archaeological Museum" .
+
+<https://www.wikidata.org/wiki/Q636400> a crm:E74_Group ;
+    rdfs:label "Ashmolean Museum" .
+
+<https://www.wikidata.org/wiki/Q636978> a crm:E74_Group ;
+    rdfs:label "Istanbul Archaeology Museums" .
+
+<https://www.wikidata.org/wiki/Q637187> a crm:E74_Group ;
+    rdfs:label "National Archaeological Museum of Athens" .
+
+<https://www.wikidata.org/wiki/Q637189> a crm:E74_Group ;
+    rdfs:label "National Archaeological Museum (Ferrara)" .
+
+<https://www.wikidata.org/wiki/Q637237> a crm:E74_Group ;
+    rdfs:label "National Archaeological Museum" .
+
+<https://www.wikidata.org/wiki/Q637248> a crm:E74_Group ;
+    rdfs:label "Naples National Archaeological Museum" .
+
+<https://www.wikidata.org/wiki/Q6373> a crm:E74_Group ;
+    rdfs:label "British Museum" .
+
+<https://www.wikidata.org/wiki/Q657415> a crm:E74_Group ;
+    rdfs:label "Cleveland Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q6803132> a crm:E74_Group ;
+    rdfs:label "Mead Art Museum" .
+
+<https://www.wikidata.org/wiki/Q6966836> a crm:E74_Group ;
+    rdfs:label "Nasher Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q707981> a crm:E74_Group ;
+    rdfs:label "Staatliche Antikensammlungen" .
+
+<https://www.wikidata.org/wiki/Q731126> a crm:E74_Group ;
+    rdfs:label "J. Paul Getty Museum" .
+
+<https://www.wikidata.org/wiki/Q745866> a crm:E74_Group ;
+    rdfs:label "Dallas Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q7681719> a crm:E74_Group ;
+    rdfs:label "Tampa Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q7895562> a crm:E74_Group ;
+    rdfs:label "University of Iowa Stanley Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q7895820> a crm:E74_Group ;
+    rdfs:label "University of Mississippi Museum" .
+
+<https://www.wikidata.org/wiki/Q840886> a crm:E74_Group ;
+    rdfs:label "Museum of Fine Arts, Budapest" .
+
+<https://www.wikidata.org/wiki/Q847508> a crm:E74_Group ;
+    rdfs:label "Worcester Art Museum" .
+
+<https://www.wikidata.org/wiki/Q865736> a crm:E74_Group ;
+    rdfs:label "Birmingham Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q95569> a crm:E74_Group ;
+    rdfs:label "Kunsthistorisches Museum" .
+
