@@ -1,0 +1,4194 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix entity: <http://perseus.tufts.edu/ns/entities/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+entity:aa_3951 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_3952 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_3953 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_3954 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3955 crm:P10_has_current_keeper entity:collection06 .
+
+entity:aa_3956 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_3957 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_3958 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_3959 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3960 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_3961 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_3962 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_3963 crm:P10_has_current_keeper entity:collection07 .
+
+entity:aa_3964 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_3965 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_3966 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_3967 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_3968 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3969 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3970 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3971 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3972 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3973 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3974 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3975 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3976 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3977 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3978 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3979 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3980 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3981 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3982 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_3983 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3984 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3985 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3986 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3987 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3988 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3989 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3990 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3991 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3992 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3993 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3994 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3995 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3996 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3997 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3998 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_3999 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4000 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4001 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4002 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4003 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4004 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4005 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4006 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4007 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4008 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4009 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4010 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4011 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4012 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4013 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4014 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4015 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4016 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4017 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4018 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4019 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4020 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4021 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4022 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4023 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4024 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4025 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4026 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4027 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4028 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4029 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4030 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4031 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4032 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4033 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4034 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4035 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4036 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4037 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4038 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4039 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4040 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4041 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4042 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4043 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4044 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4045 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4046 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4047 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4048 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4049 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2383284> .
+
+entity:aa_4050 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2383284> .
+
+entity:aa_4051 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4052 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4053 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4054 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4055 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4056 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4057 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4058 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4061 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4062 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4063 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q14715853> .
+
+entity:aa_4064 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4065 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4066 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2603905> .
+
+entity:aa_4067 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2603905> .
+
+entity:aa_4068 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2603905> .
+
+entity:aa_4069 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2603905> .
+
+entity:aa_4070 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2603905> .
+
+entity:aa_4071 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1976985> .
+
+entity:aa_4072 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1976985> .
+
+entity:aa_4073 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1976985> .
+
+entity:aa_4074 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1976985> .
+
+entity:aa_4075 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4076 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4077 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4078 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4079 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4080 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4081 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4082 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4083 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4084 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q14715727> .
+
+entity:aa_4085 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q14715727> .
+
+entity:aa_4086 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q14715727> .
+
+entity:aa_4087 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q14715727> .
+
+entity:aa_4088 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q14715727> .
+
+entity:aa_4089 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4090 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4091 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4092 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4093 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4094 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4095 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4096 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4097 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4098 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4099 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4100 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4101 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4102 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4103 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4104 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4105 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4106 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4107 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4108 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4109 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4110 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4111 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4112 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4113 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4114 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4115 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4116 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4117 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4118 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4119 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4120 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4121 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4122 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4123 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4124 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4125 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4126 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4127 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4128 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4129 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4130 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4131 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4132 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4133 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4134 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4135 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4136 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4137 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4138 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4139 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4140 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4141 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4142 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4143 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4144 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4145 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4146 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4147 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4148 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4149 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2383284> .
+
+entity:aa_4150 crm:P10_has_current_keeper entity:collection36 .
+
+entity:aa_4151 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4152 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4153 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4154 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4155 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4156 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4157 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4158 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4159 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4160 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4161 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4162 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4163 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4164 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4165 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4166 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4167 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4168 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_4169 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4170 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4171 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4172 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4173 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4174 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4175 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4176 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4177 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4178 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4179 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4180 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4181 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4182 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4183 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4184 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4185 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4186 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4187 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4188 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4189 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4190 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4191 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4192 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4193 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4194 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4195 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4196 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4197 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4198 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4199 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4200 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4201 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4202 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4203 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4204 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4205 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4206 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4207 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4208 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4209 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4210 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4211 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4212 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4213 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4214 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4215 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4216 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4217 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4218 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4219 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4220 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4221 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4222 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4223 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4224 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4225 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4226 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4227 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4228 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4229 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4230 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4231 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4232 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4233 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4234 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4235 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4236 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4237 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4238 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4239 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4240 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4241 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4242 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4243 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4244 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4245 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4246 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4247 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4248 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4249 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4250 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4251 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4252 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4253 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4254 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4255 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4256 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4257 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4258 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_4259 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_4260 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_4261 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_4262 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_4263 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_4264 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2383284> .
+
+entity:aa_4265 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2383284> .
+
+entity:aa_4266 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2383284> .
+
+entity:aa_4267 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2383284> .
+
+entity:aa_4268 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2383284> .
+
+entity:aa_4269 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2383284> .
+
+entity:aa_4270 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4271 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4272 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4273 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4274 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4275 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4276 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4277 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4278 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4279 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q847508> .
+
+entity:aa_4280 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q847508> .
+
+entity:aa_4281 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q847508> .
+
+entity:aa_4282 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4283 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4284 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4285 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4286 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4287 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4288 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4289 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4290 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4291 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4292 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4293 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4294 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4295 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4296 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4297 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4298 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4299 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4300 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4301 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4302 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4303 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4304 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4305 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4306 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4307 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4308 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4309 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4310 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4311 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4312 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4313 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4314 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4315 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4316 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4317 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4318 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4319 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4320 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4321 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4322 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4323 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4324 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4325 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4326 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4327 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4328 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4329 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4330 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4331 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4332 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4333 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4334 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4335 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4336 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4337 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4338 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4339 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4340 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4341 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4342 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4343 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4344 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4345 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4346 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4347 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4348 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4349 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4350 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4351 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4352 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4353 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4354 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4355 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4356 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4357 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4358 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4359 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4360 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4361 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4362 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4363 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4364 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637237> .
+
+entity:aa_4365 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4366 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4367 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4368 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4369 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4370 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4371 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4372 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4373 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4374 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4375 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4376 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4377 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4378 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4379 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4380 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4381 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4382 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4383 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4384 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4385 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4386 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4387 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4388 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4389 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4390 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4391 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4392 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4393 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4394 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4395 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4396 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4397 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4398 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4399 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_4400 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4401 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4402 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4403 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4404 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4405 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4406 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q847508> .
+
+entity:aa_4407 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q847508> .
+
+entity:aa_4408 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q12072937> .
+
+entity:aa_4409 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q12072937> .
+
+entity:aa_4410 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q15694044> .
+
+entity:aa_4411 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q15694044> .
+
+entity:aa_4412 crm:P10_has_current_keeper entity:collection19 .
+
+entity:aa_4413 crm:P10_has_current_keeper entity:collection19 .
+
+entity:aa_4414 crm:P10_has_current_keeper entity:collection19 .
+
+entity:aa_4415 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4416 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4417 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4418 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4419 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4420 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4421 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4422 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4423 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4424 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4425 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4426 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4427 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4428 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4429 crm:P10_has_current_keeper entity:collection26 .
+
+entity:aa_4430 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4431 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4432 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4433 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4434 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4435 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4436 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4437 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4438 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4439 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4440 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4441 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4442 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4443 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4444 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4445 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4446 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4447 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4448 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4449 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4450 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4451 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4452 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4453 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4454 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4455 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4456 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4457 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4458 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4459 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4460 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4461 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4462 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4463 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4464 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4465 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4466 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4467 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4468 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4469 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4470 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4471 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4472 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4473 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4474 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4475 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4476 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1743116> .
+
+entity:aa_4477 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4478 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4479 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4480 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4481 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4482 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4483 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4484 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4485 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4486 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4487 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4488 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4489 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4490 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4491 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4492 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4493 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4494 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4495 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4496 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4497 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4498 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4499 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4500 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4501 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4502 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4503 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4504 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4505 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4506 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4507 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4508 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4509 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4510 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4511 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4512 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4513 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4514 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4515 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4516 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4517 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4518 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4519 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4520 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4521 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4522 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4523 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4524 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4525 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4526 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4527 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4528 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4529 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4530 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4531 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4532 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4533 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4534 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4535 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4536 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4537 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4538 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4539 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4540 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4541 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4542 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4543 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4544 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4545 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4546 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4547 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4548 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4549 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4550 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4551 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4552 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4553 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4554 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4555 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4556 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4557 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7681719> .
+
+entity:aa_4558 crm:P10_has_current_keeper entity:collection58 .
+
+entity:aa_4559 crm:P10_has_current_keeper entity:collection58 .
+
+entity:aa_4560 crm:P10_has_current_keeper entity:collection58 .
+
+entity:aa_4561 crm:P10_has_current_keeper entity:collection58 .
+
+entity:aa_4562 crm:P10_has_current_keeper entity:collection58 .
+
+entity:aa_4563 crm:P10_has_current_keeper entity:collection58 .
+
+entity:aa_4564 crm:P10_has_current_keeper entity:collection58 .
+
+entity:aa_4565 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1760539> .
+
+entity:aa_4566 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1760539> .
+
+entity:aa_4567 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1760539> .
+
+entity:aa_4568 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1760539> .
+
+entity:aa_4569 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1760539> .
+
+entity:aa_4570 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q14715853> .
+
+entity:aa_4571 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q14715853> .
+
+entity:aa_4572 crm:P10_has_current_keeper entity:collection21 .
+
+entity:aa_4573 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4574 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4575 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4576 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4577 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4578 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4579 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4580 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4581 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4582 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4583 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4584 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4585 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4586 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4587 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4588 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4589 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4590 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4591 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4592 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4593 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4594 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4595 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4596 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4597 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4598 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4599 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4600 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4601 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4602 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4603 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4604 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4605 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4606 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4607 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4608 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4609 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4610 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4611 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4612 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4613 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4614 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4615 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4616 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4617 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4618 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4619 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4620 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4621 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4622 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2148186> .
+
+entity:aa_4623 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4624 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4625 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4626 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4627 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4628 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4629 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4630 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4631 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4632 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4633 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4634 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4635 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4636 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4637 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4638 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4639 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4640 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4641 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4642 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4643 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4644 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4645 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4646 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4647 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4648 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4649 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4650 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4651 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4652 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4653 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4654 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4655 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4656 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4657 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4658 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4659 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4660 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4661 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4662 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4663 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4664 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4665 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4666 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4667 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4668 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4669 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4670 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4671 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4672 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4673 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4674 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4675 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4676 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4677 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4678 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4679 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4680 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4681 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4682 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4683 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4684 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4685 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4686 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4687 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4688 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4689 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4690 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4691 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4692 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4693 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4694 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4695 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4696 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4697 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4698 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4699 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4700 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4701 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4702 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4703 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4704 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4705 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4706 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4707 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4708 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_4709 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1372546> .
+
+entity:aa_4710 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1372546> .
+
+entity:aa_4711 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1372546> .
+
+entity:aa_4712 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3816734> .
+
+entity:aa_4713 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3816734> .
+
+entity:aa_4714 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4715 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4716 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4717 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4718 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4719 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4720 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4721 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4722 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4723 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4724 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4725 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4726 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4727 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4728 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4729 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4730 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4731 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4732 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4733 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4734 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4735 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4736 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4737 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4738 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4739 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4740 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4741 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4742 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4743 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_4744 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q14715727> .
+
+entity:aa_4745 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q14715727> .
+
+entity:aa_4746 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q14715727> .
+
+entity:aa_4747 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q14715727> .
+
+entity:aa_4748 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4749 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4750 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4751 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4752 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4753 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4754 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4755 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4756 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4757 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4758 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4759 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4760 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4761 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4762 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4763 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4764 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4765 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4766 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_4767 crm:P10_has_current_keeper entity:collection55 .
+
+entity:aa_4768 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1700481> .
+
+entity:aa_4769 crm:P10_has_current_keeper entity:collection42 .
+
+entity:aa_4770 crm:P10_has_current_keeper entity:collection42 .
+
+entity:aa_4771 crm:P10_has_current_keeper entity:collection42 .
+
+entity:aa_4772 crm:P10_has_current_keeper entity:collection28 .
+
+entity:aa_4773 crm:P10_has_current_keeper entity:collection28 .
+
+entity:aa_4774 crm:P10_has_current_keeper entity:collection28 .
+
+entity:aa_4775 crm:P10_has_current_keeper entity:collection28 .
+
+entity:aa_4776 crm:P10_has_current_keeper entity:collection28 .
+
+entity:aa_4777 crm:P10_has_current_keeper entity:collection28 .
+
+entity:aa_4778 crm:P10_has_current_keeper entity:collection28 .
+
+entity:aa_4779 crm:P10_has_current_keeper entity:collection28 .
+
+entity:aa_4780 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4781 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4782 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4783 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4784 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4785 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4786 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4787 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4788 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4789 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4790 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4791 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4792 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4793 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4794 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4795 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4796 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4797 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4798 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4799 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4800 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4801 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4802 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4803 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4804 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4805 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4806 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4807 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4808 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4809 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4810 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4811 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4812 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4813 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4814 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4815 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4816 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4817 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4818 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4819 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4820 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4821 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4822 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4823 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4824 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4825 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4826 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4827 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4828 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4829 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4830 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4831 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4832 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4833 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4834 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4835 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4836 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4837 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4838 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4839 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_4840 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1976985> .
+
+entity:aa_4841 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1976985> .
+
+entity:aa_4842 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1976985> .
+
+entity:aa_4843 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1976985> .
+
+entity:aa_4844 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1976985> .
+
+entity:aa_4845 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895562> .
+
+entity:aa_4846 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1117704> .
+
+entity:aa_4847 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_4848 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q403080> .
+
+entity:aa_4849 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q403080> .
+
+entity:aa_4850 crm:P10_has_current_keeper entity:collection12 .
+
+entity:aa_4851 crm:P10_has_current_keeper entity:collection16 .
+
+entity:aa_4852 crm:P10_has_current_keeper entity:collection16 .
+
+entity:aa_4853 crm:P10_has_current_keeper entity:collection13 .
+
+entity:aa_4854 crm:P10_has_current_keeper entity:collection13 .
+
+entity:aa_4855 crm:P10_has_current_keeper entity:collection13 .
+
+entity:aa_4856 crm:P10_has_current_keeper entity:collection52 .
+
+entity:aa_4857 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1201549> .
+
+entity:aa_4858 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1201549> .
+
+entity:aa_4859 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1201549> .
+
+entity:aa_4860 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1201549> .
+
+entity:aa_4861 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1201549> .
+
+entity:aa_4862 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1201549> .
+
+entity:aa_4863 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1201549> .
+
+entity:aa_4864 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q597355> .
+
+entity:aa_4865 crm:P10_has_current_keeper entity:collection48 .
+
+entity:aa_4866 crm:P10_has_current_keeper entity:collection48 .
+
+entity:aa_4867 crm:P10_has_current_keeper entity:collection48 .
+
+entity:aa_4868 crm:P10_has_current_keeper entity:collection51 .
+
+entity:aa_4869 crm:P10_has_current_keeper entity:collection51 .
+
+entity:aa_4870 crm:P10_has_current_keeper entity:collection14 .
+
+entity:aa_4871 crm:P10_has_current_keeper entity:collection43 .
+
+entity:aa_4872 crm:P10_has_current_keeper entity:collection43 .
+
+entity:aa_4873 crm:P10_has_current_keeper entity:collection43 .
+
+entity:aa_4874 crm:P10_has_current_keeper entity:collection43 .
+
+entity:aa_4875 crm:P10_has_current_keeper entity:collection43 .
+
+entity:aa_4876 crm:P10_has_current_keeper entity:collection43 .
+
+entity:aa_4877 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4878 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4879 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4880 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4881 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4882 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4883 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4884 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4885 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4886 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_4887 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2970522> .
+
+entity:aa_4888 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2970522> .
+
+entity:aa_4889 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2970522> .
+
+entity:aa_4890 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q239303> .
+
+entity:aa_4891 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q239303> .
+
+entity:aa_4892 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q239303> .
+
+entity:aa_4893 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q239303> .
+
+entity:aa_4894 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q239303> .
+
+entity:aa_4895 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q239303> .
+
+entity:aa_4896 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q239303> .
+
+entity:aa_4897 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q239303> .
+
+entity:aa_4898 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q239303> .
+
+entity:aa_4899 crm:P10_has_current_keeper entity:collection34 .
+
+entity:aa_4900 crm:P10_has_current_keeper entity:collection34 .
+
+entity:aa_4901 crm:P10_has_current_keeper entity:collection34 .
+
+entity:aa_4902 crm:P10_has_current_keeper entity:collection34 .
+
+entity:aa_4903 crm:P10_has_current_keeper entity:collection34 .
+
+entity:aa_4904 crm:P10_has_current_keeper entity:collection34 .
+
+entity:aa_4905 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4906 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4907 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4908 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4909 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4910 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4911 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4912 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4913 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4914 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4915 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4916 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4917 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4918 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4919 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4920 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4921 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4922 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4923 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_4924 crm:P10_has_current_keeper entity:collection18 .
+
+entity:aa_4925 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4926 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4927 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4928 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4929 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4930 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4931 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4932 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4933 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4934 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4935 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4936 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4937 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4938 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4939 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4940 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4941 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4942 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4943 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4944 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4945 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4946 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4947 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4948 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4949 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4950 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4951 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4952 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4953 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4954 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4955 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4956 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4957 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_4958 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6023573> .
+
+entity:aa_4959 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6023573> .
+
+entity:aa_4960 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6023573> .
+
+entity:aa_4961 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6023573> .
+
+entity:aa_4962 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6023573> .
+
+entity:aa_4963 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6023573> .
+
+entity:aa_4964 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6023573> .
+
+entity:aa_4965 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6023573> .
+
+entity:aa_4966 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6023573> .
+
+entity:aa_4967 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6023573> .
+
+entity:aa_4968 crm:P10_has_current_keeper entity:collection08 .
+
+entity:aa_4969 crm:P10_has_current_keeper entity:collection03 .
+
+entity:aa_4970 crm:P10_has_current_keeper entity:collection03 .
+
+entity:aa_4971 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1738346> .
+
+entity:aa_4972 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1738346> .
+
+entity:aa_4973 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1738346> .
+
+entity:aa_4974 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6803132> .
+
+entity:aa_4975 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6803132> .
+
+entity:aa_4976 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4977 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4978 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4979 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4980 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4981 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4982 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4983 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_4984 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_4985 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_4986 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_4987 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4872> .
+
+entity:aa_4988 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_4989 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_4990 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_4991 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_4992 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_4993 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q160236> .
+
+entity:aa_4994 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_4995 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_4996 crm:P10_has_current_keeper entity:collection02 .
+
+entity:aa_4997 crm:P10_has_current_keeper entity:collection06 .
+
+entity:aa_4998 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_4999 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5000 crm:P10_has_current_keeper entity:collection49 .
+
+entity:aa_5001 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5002 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5003 crm:P10_has_current_keeper entity:collection57 .
+
+entity:aa_5004 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5005 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5006 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5007 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5008 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5009 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5010 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5011 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5012 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5013 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5014 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5015 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5016 crm:P10_has_current_keeper entity:collection24 .
+
+entity:aa_5017 crm:P10_has_current_keeper entity:collection23 .
+
+entity:aa_5018 crm:P10_has_current_keeper entity:collection31 .
+
+entity:aa_5019 crm:P10_has_current_keeper entity:collection31 .
+
+entity:aa_5020 crm:P10_has_current_keeper entity:collection31 .
+
+entity:aa_5021 crm:P10_has_current_keeper entity:collection31 .
+
+entity:aa_5022 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1647706> .
+
+entity:aa_5023 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4013975> .
+
+entity:aa_5024 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4013975> .
+
+entity:aa_5025 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4013975> .
+
+entity:aa_5026 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4013975> .
+
+entity:aa_5027 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4013975> .
+
+entity:aa_5028 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4013975> .
+
+entity:aa_5029 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1459878> .
+
+entity:aa_5030 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1459878> .
+
+entity:aa_5031 crm:P10_has_current_keeper entity:collection47 .
+
+entity:aa_5032 crm:P10_has_current_keeper entity:collection47 .
+
+entity:aa_5033 crm:P10_has_current_keeper entity:collection47 .
+
+entity:aa_5034 crm:P10_has_current_keeper entity:collection22 .
+
+entity:aa_5035 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2063082> .
+
+entity:aa_5036 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2063082> .
+
+entity:aa_5037 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2063082> .
+
+entity:aa_5038 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2063082> .
+
+entity:aa_5039 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2063082> .
+
+entity:aa_5040 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5041 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5042 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5043 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5044 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5045 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5046 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5047 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5048 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5049 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5050 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5051 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5052 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5053 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5054 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5055 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5056 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5057 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5058 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5059 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5060 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5061 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5062 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5063 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5064 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5065 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5066 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5067 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5068 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5069 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5070 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5071 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5072 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5073 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5074 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5075 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5076 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5077 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5078 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5079 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5080 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5081 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5082 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5083 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5084 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5085 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5086 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5087 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5088 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5089 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5090 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5091 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5092 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5093 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5094 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5095 crm:P10_has_current_keeper entity:collection50 .
+
+entity:aa_5096 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5097 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5098 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5099 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5100 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5101 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5102 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5103 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5104 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5105 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5106 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5107 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5108 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5109 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5110 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5111 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5112 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5113 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5114 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5115 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5116 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5117 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5118 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5119 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5120 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5121 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5122 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5123 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5124 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5125 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5126 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5127 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5128 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5129 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5130 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5131 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5132 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5133 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5134 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5135 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5136 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5137 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5138 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5139 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5140 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5141 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5142 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5143 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5144 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5145 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5146 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5147 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5148 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5149 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5150 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q15055388> .
+
+entity:aa_5151 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5152 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5153 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5154 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5155 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5156 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5157 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5158 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5159 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5160 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5161 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5162 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5163 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5164 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5165 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5166 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5167 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5168 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5169 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5170 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5171 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5172 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5173 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5174 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5175 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5176 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5177 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5178 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5179 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5180 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5181 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5182 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5183 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5184 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5185 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5186 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5187 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5188 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5189 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5190 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5191 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5192 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5193 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5194 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5195 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5196 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5197 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5198 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5199 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5200 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5201 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5202 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5203 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5204 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5205 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5206 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5207 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5208 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5209 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5210 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5211 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5212 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5213 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5214 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5215 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5216 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5217 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5218 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5219 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5220 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5221 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5222 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5223 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5224 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5225 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5226 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5227 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5228 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5229 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5230 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5231 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5232 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5233 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5234 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5235 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5236 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5237 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5238 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5239 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5240 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5241 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5242 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5243 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5244 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5245 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5246 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5247 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5248 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5249 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5250 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5251 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5252 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5253 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5254 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5255 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5256 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5257 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5258 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5259 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5260 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5261 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5262 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5263 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5264 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5265 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5266 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5267 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5268 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5269 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5270 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5271 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5272 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5273 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5274 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5275 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5276 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5277 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5278 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5279 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5280 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5281 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5282 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5283 crm:P10_has_current_keeper entity:collection11 .
+
+entity:aa_5284 crm:P10_has_current_keeper entity:collection25 .
+
+entity:aa_5285 crm:P10_has_current_keeper entity:collection25 .
+
+entity:aa_5286 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1565911> .
+
+entity:aa_5287 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1565911> .
+
+entity:aa_5288 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5289 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5290 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5291 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5292 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5293 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5294 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5295 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5296 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5297 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5298 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5299 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5300 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5301 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5302 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5303 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5304 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5305 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5306 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5307 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5308 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5309 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5310 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5311 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5312 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5313 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5314 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5315 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5316 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5317 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5318 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5319 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5320 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5321 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5322 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5323 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5324 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5325 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5326 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5327 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5328 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5329 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5330 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5331 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5332 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5333 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5334 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5335 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5336 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5337 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5338 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5339 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5340 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5341 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5342 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5343 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5344 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5345 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5346 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5347 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5348 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5349 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5350 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5351 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5352 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5353 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5354 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5355 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5356 crm:P10_has_current_keeper entity:collection53 .
+
+entity:aa_5357 crm:P10_has_current_keeper entity:collection53 .
+
+entity:aa_5358 crm:P10_has_current_keeper entity:collection53 .
+
+entity:aa_5359 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6966836> .
+
+entity:aa_5360 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6966836> .
+
+entity:aa_5361 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6966836> .
+
+entity:aa_5362 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6966836> .
+
+entity:aa_5363 crm:P10_has_current_keeper entity:collection20 .
+
+entity:aa_5364 crm:P10_has_current_keeper entity:collection20 .
+
+entity:aa_5365 crm:P10_has_current_keeper entity:collection20 .
+
+entity:aa_5366 crm:P10_has_current_keeper entity:collection20 .
+
+entity:aa_5367 crm:P10_has_current_keeper entity:collection20 .
+
+entity:aa_5368 crm:P10_has_current_keeper entity:collection15 .
+
+entity:aa_5369 crm:P10_has_current_keeper entity:collection15 .
+
+entity:aa_5370 crm:P10_has_current_keeper entity:collection15 .
+
+entity:aa_5371 crm:P10_has_current_keeper entity:collection17 .
+
+entity:aa_5372 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q745866> .
+
+entity:aa_5373 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q745866> .
+
+entity:aa_5374 crm:P10_has_current_keeper entity:collection01 .
+
+entity:aa_5375 crm:P10_has_current_keeper entity:collection01 .
+
+entity:aa_5376 crm:P10_has_current_keeper entity:collection01 .
+
+entity:aa_5377 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5378 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5379 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5380 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5381 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5382 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5383 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5384 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5385 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5386 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5387 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5388 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5389 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5390 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5391 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5392 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5393 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5394 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5395 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5396 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5397 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5398 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5399 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5400 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5401 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5402 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5403 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5404 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5405 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5406 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5407 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5408 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5409 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5410 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5411 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5412 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5413 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5414 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5415 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5416 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5417 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5418 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5419 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5420 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5421 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5422 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5423 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5424 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5425 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5426 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5427 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5428 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5429 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5430 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5431 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5432 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5433 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5434 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5435 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5436 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5437 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5438 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5439 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5440 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5441 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5442 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5443 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5444 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5445 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5446 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5447 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5448 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5449 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5450 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5451 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5452 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5453 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5454 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5455 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5456 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5457 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5458 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5459 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5460 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5461 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5462 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5463 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5464 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5465 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5466 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5467 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5468 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5469 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5470 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5471 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5472 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5473 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5474 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5475 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5476 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5477 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5478 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5479 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5480 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5481 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5482 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5483 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5484 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5485 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5486 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5487 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5488 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5489 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5490 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5491 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5492 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5493 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5494 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5495 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5496 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5497 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5498 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5499 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5500 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5501 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5502 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5503 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5504 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5505 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5506 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5507 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5508 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5509 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5510 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5511 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5512 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5513 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5514 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5515 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5516 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5517 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5518 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5519 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5520 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5521 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5522 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5523 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5524 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5525 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5526 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5527 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5528 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5529 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5530 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5531 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5532 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5533 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5534 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5535 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5536 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5537 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5538 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5539 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5540 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5541 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5542 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5543 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5544 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5545 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5546 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5547 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5548 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5549 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5550 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5551 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5552 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5553 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5554 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5555 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5556 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5557 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5558 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5559 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5560 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5561 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5562 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5563 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5564 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5565 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5566 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q865736> .
+
+entity:aa_5567 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5568 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5569 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5570 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5571 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5572 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5573 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5574 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5575 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5576 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5577 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5578 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5579 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5580 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5581 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5582 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5583 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5584 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5585 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5586 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5587 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5588 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5589 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5590 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5591 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5592 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5593 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5594 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5595 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5596 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5597 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5598 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5599 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5600 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5601 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5602 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5603 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5604 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5605 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5606 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5607 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5608 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5609 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5610 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5611 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_5612 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_5613 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_5614 crm:P10_has_current_keeper entity:collection32 .
+
+entity:aa_5615 crm:P10_has_current_keeper entity:collection04 .
+
+entity:aa_5616 crm:P10_has_current_keeper entity:collection04 .
+
+entity:aa_5617 crm:P10_has_current_keeper entity:collection04 .
+
+entity:aa_5618 crm:P10_has_current_keeper entity:collection04 .
+
+entity:aa_5619 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_5620 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q153306> .
+
+entity:aa_5621 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5622 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q15055388> .
+
+entity:aa_5623 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q15055388> .
+
+entity:aa_5624 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q15055388> .
+
+entity:aa_5625 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q95569> .
+
+entity:aa_5626 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q95569> .
+
+entity:aa_5627 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q95569> .
+
+entity:aa_5628 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q95569> .
+
+entity:aa_5629 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q95569> .
+
+entity:aa_5630 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q182955> .
+
+entity:aa_5631 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q15961522> .
+
+entity:aa_5632 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q132783> .
+
+entity:aa_5633 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q132783> .
+
+entity:aa_5634 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q132783> .
+
+entity:aa_5635 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q132783> .
+
+entity:aa_5636 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q132783> .
+
+entity:aa_5637 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3867701> .
+
+entity:aa_5638 crm:P10_has_current_keeper entity:collection46 .
+
+entity:aa_5639 crm:P10_has_current_keeper entity:collection46 .
+
+entity:aa_5640 crm:P10_has_current_keeper entity:collection45 .
+
+entity:aa_5641 crm:P10_has_current_keeper entity:collection45 .
+
+entity:aa_5642 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q160236> .
+
+entity:aa_5643 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q160236> .
+
+entity:aa_5644 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q160236> .
+
+entity:aa_5645 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637248> .
+
+entity:aa_5646 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637248> .
+
+entity:aa_5647 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637248> .
+
+entity:aa_5648 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637248> .
+
+entity:aa_5649 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637248> .
+
+entity:aa_5650 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637248> .
+
+entity:aa_5651 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637248> .
+
+entity:aa_5652 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5653 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5654 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5655 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5656 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5657 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5658 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5659 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5660 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5661 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5662 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5663 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5664 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5665 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5666 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5667 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5668 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5669 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5670 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5671 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5672 crm:P10_has_current_keeper entity:collection35 .
+
+entity:aa_5673 crm:P10_has_current_keeper entity:collection33 .
+
+entity:aa_5674 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1976985> .
+
+entity:aa_5675 crm:P10_has_current_keeper entity:collection30 .
+
+entity:aa_5676 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q27992909> .
+
+entity:aa_5677 crm:P10_has_current_keeper entity:collection10 .
+
+entity:aa_5678 crm:P10_has_current_keeper entity:collection10 .
+
+entity:aa_5679 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2358398> .
+
+entity:aa_5680 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5681 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5682 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5683 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5684 crm:P10_has_current_keeper entity:collection05 .
+
+entity:aa_5685 crm:P10_has_current_keeper entity:collection05 .
+
+entity:aa_5686 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5687 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q731126> .
+
+entity:aa_5688 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5689 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5690 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q132783> .
+
+entity:aa_5691 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q132783> .
+
+entity:aa_5692 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q132783> .
+
+entity:aa_5693 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3867701> .
+
+entity:aa_5694 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3867701> .
+
+entity:aa_5695 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3867701> .
+
+entity:aa_5697 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637248> .
+
+entity:aa_5698 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637248> .
+
+entity:aa_5699 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5700 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5701 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5702 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5703 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5704 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5705 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5706 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5707 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5708 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5709 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5710 crm:P10_has_current_keeper entity:collection35 .
+
+entity:aa_5711 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5712 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5713 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5714 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5715 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5716 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5717 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5718 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5719 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q160236> .
+
+entity:aa_5720 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637237> .
+
+entity:aa_5721 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637237> .
+
+entity:aa_5722 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5723 crm:P10_has_current_keeper entity:collection38 .
+
+entity:aa_5724 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2383284> .
+
+entity:aa_5725 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q95569> .
+
+entity:aa_5726 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q132783> .
+
+entity:aa_5727 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5728 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q132783> .
+
+entity:aa_5729 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3867701> .
+
+entity:aa_5730 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q153306> .
+
+entity:aa_5731 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637187> .
+
+entity:aa_5732 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q160236> .
+
+entity:aa_5733 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q182955> .
+
+entity:aa_5734 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1672708> .
+
+entity:aa_5735 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5736 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637189> .
+
+entity:aa_5737 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5738 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5739 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q182955> .
+
+entity:aa_5740 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5741 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q160236> .
+
+entity:aa_5742 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q2358398> .
+
+entity:aa_5743 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q95569> .
+
+entity:aa_5744 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1285902> .
+
+entity:aa_5745 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5746 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1976985> .
+
+entity:aa_5747 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1976985> .
+
+entity:aa_5748 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_5749 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_5750 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q4950759> .
+
+entity:aa_5751 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637187> .
+
+entity:aa_5752 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5753 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_5754 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5755 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_5756 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5757 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_5758 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5759 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5760 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5761 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5762 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5763 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5764 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5765 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5766 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5767 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5768 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5769 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5770 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5771 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5772 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5773 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5774 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5775 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5776 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5777 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5778 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5779 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5780 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5781 crm:P10_has_current_keeper entity:collection41 .
+
+entity:aa_5782 crm:P10_has_current_keeper entity:collection56 .
+
+entity:aa_5783 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q210081> .
+
+entity:aa_5784 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5785 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5786 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5787 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637187> .
+
+entity:aa_5788 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q840886> .
+
+entity:aa_5789 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5790 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q160236> .
+
+entity:aa_5791 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q19675> .
+
+entity:aa_5792 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637248> .
+
+entity:aa_5793 crm:P10_has_current_keeper entity:collection39 .
+
+entity:aa_5794 crm:P10_has_current_keeper entity:collection54 .
+
+entity:aa_5795 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5796 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q160236> .
+
+entity:aa_5797 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637248> .
+
+entity:aa_5798 crm:P10_has_current_keeper entity:collection27 .
+
+entity:aa_5799 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q132783> .
+
+entity:aa_5800 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5801 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6102069> .
+
+entity:aa_5802 crm:P10_has_current_keeper entity:collection40 .
+
+entity:aa_5803 crm:P10_has_current_keeper entity:collection29 .
+
+entity:aa_5804 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637187> .
+
+entity:aa_5805 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q160236> .
+
+entity:aa_5806 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q636978> .
+
+entity:aa_5807 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3329429> .
+
+entity:aa_5808 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637187> .
+
+entity:aa_5809 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637187> .
+
+entity:aa_5810 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637187> .
+
+entity:aa_5811 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q637187> .
+
+entity:aa_5812 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q42114772> .
+
+entity:aa_5813 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q42114772> .
+
+entity:aa_5814 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q636400> .
+
+entity:aa_5815 crm:P10_has_current_keeper entity:collection49 .
+
+entity:aa_5816 crm:P10_has_current_keeper entity:collection06 .
+
+entity:aa_5817 crm:P10_has_current_keeper entity:collection44 .
+
+entity:aa_5818 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q318289> .
+
+entity:aa_5819 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5820 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5821 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:aa_5822 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_5823 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q3783572> .
+
+entity:aa_5824 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1976985> .
+
+entity:aa_5825 crm:P10_has_current_keeper entity:collection33 .
+
+entity:aa_5826 crm:P10_has_current_keeper entity:collection37 .
+
+entity:aa_5827 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q7895820> .
+
+entity:aa_5828 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5829 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5830 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5831 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5832 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5833 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5834 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5835 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5836 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5837 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5838 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5839 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5840 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5841 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q132783> .
+
+entity:aa_5842 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_5843 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_5844 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_5845 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_5846 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_5847 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_5848 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_5849 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_5850 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_5851 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_5852 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_5853 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q1568434> .
+
+entity:aa_5854 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q657415> .
+
+entity:aa_5855 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q6373> .
+
+entity:aa_5856 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5857 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q707981> .
+
+entity:aa_5858 crm:P10_has_current_keeper entity:collection09 .
+
+entity:aa_5859 crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> .
+
+entity:collection02 a crm:E74_Group ;
+    rdfs:label "Ancona, Archeologico Museo Regionale delle Marche" .
+
+entity:collection07 a crm:E74_Group ;
+    rdfs:label "Basel, H.A. Cahn Collection" .
+
+entity:collection08 a crm:E74_Group ;
+    rdfs:label "Beloit College, Wright Museum of Art" .
+
+entity:collection11 a crm:E74_Group ;
+    rdfs:label "Collection of Costas Lemonopoulos, St. Petersburg" .
+
+entity:collection12 a crm:E74_Group ;
+    rdfs:label "Collection of Dr. Warren Gilson" .
+
+entity:collection14 a crm:E74_Group ;
+    rdfs:label "Collection of Gay H. Cone, St. Louis" .
+
+entity:collection17 a crm:E74_Group ;
+    rdfs:label "Collection of Mr. and Mrs. Arthur Q. Davis, New Orleans" .
+
+entity:collection18 a crm:E74_Group ;
+    rdfs:label "Collection of Mr. and Mrs. Cedric G. Boulter" .
+
+entity:collection21 a crm:E74_Group ;
+    rdfs:label "Collection of Mr. and Mrs. Jakob Rosenberg" .
+
+entity:collection22 a crm:E74_Group ;
+    rdfs:label "Collection of Mrs. Nathan Polmer, New Orleans" .
+
+entity:collection23 a crm:E74_Group ;
+    rdfs:label "Collection of Norbert Schimmel" .
+
+entity:collection24 a crm:E74_Group ;
+    rdfs:label "Collection of Tulane University" .
+
+entity:collection27 a crm:E74_Group ;
+    rdfs:label "Eichenzell, Museum Schloss Fasanerie (Hessische Haussstiftung)" .
+
+entity:collection29 a crm:E74_Group ;
+    rdfs:label "Empries, Museo Arqueolgico" .
+
+entity:collection30 a crm:E74_Group ;
+    rdfs:label "Hamburg, Museum fr Kunst und Gewerbe" .
+
+entity:collection36 a crm:E74_Group ;
+    rdfs:label "Leuven, Katholieke Universiteit, Didaktisch Museum, Archeologie" .
+
+entity:collection37 a crm:E74_Group ;
+    rdfs:label "London, Britsh Museum" .
+
+entity:collection38 a crm:E74_Group ;
+    rdfs:label "Madrid, Museo Arqueolgico Nacional" .
+
+entity:collection39 a crm:E74_Group ;
+    rdfs:label "Mainz University" .
+
+entity:collection40 a crm:E74_Group ;
+    rdfs:label "Mannheim, Reissmuseum" .
+
+entity:collection44 a crm:E74_Group ;
+    rdfs:label "Once Naples, Hamilton Collection" .
+
+entity:collection50 a crm:E74_Group ;
+    rdfs:label "The Lowe Art Museum, University of Miami" .
+
+entity:collection52 a crm:E74_Group ;
+    rdfs:label "The Trustees of the Dewing Numismatic Foundation" .
+
+entity:collection54 a crm:E74_Group ;
+    rdfs:label "Ullastret (Gerona) Museum" .
+
+entity:collection55 a crm:E74_Group ;
+    rdfs:label "University Art Museum, University of Minnesota" .
+
+entity:collection56 a crm:E74_Group ;
+    rdfs:label "University of Reading" .
+
+entity:collection57 a crm:E74_Group ;
+    rdfs:label "Verona, Museo Archeologico al Teatro romano (Museo Civico)" .
+
+<https://www.wikidata.org/wiki/Q1117704> a crm:E74_Group ;
+    rdfs:label "Indianapolis Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q15961522> a crm:E74_Group ;
+    rdfs:label "Tarquinia National Museum" .
+
+<https://www.wikidata.org/wiki/Q1647706> a crm:E74_Group ;
+    rdfs:label "San Antonio Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q1672708> a crm:E74_Group ;
+    rdfs:label "Cantor Arts Center at Stanford University" .
+
+<https://www.wikidata.org/wiki/Q1700481> a crm:E74_Group ;
+    rdfs:label "Minneapolis Institute of Art" .
+
+<https://www.wikidata.org/wiki/Q210081> a crm:E74_Group ;
+    rdfs:label "Walters Art Museum" .
+
+<https://www.wikidata.org/wiki/Q27992909> a crm:E74_Group ;
+    rdfs:label "civic museum \"La Città Sotterranea\"" .
+
+<https://www.wikidata.org/wiki/Q318289> a crm:E74_Group ;
+    rdfs:label "collection Abegg foundation" .
+
+<https://www.wikidata.org/wiki/Q3329429> a crm:E74_Group ;
+    rdfs:label "Archaeological Museum of Eleusis" .
+
+<https://www.wikidata.org/wiki/Q4872> a crm:E74_Group ;
+    rdfs:label "Pushkin Museum of Fine Arts" .
+
+<https://www.wikidata.org/wiki/Q597355> a crm:E74_Group ;
+    rdfs:label "Dayton Art Institute" .
+
+<https://www.wikidata.org/wiki/Q6102069> a crm:E74_Group ;
+    rdfs:label "İzmir Archaeological Museum" .
+
+<https://www.wikidata.org/wiki/Q636400> a crm:E74_Group ;
+    rdfs:label "Ashmolean Museum" .
+
+<https://www.wikidata.org/wiki/Q636978> a crm:E74_Group ;
+    rdfs:label "Istanbul Archaeology Museums" .
+
+<https://www.wikidata.org/wiki/Q637189> a crm:E74_Group ;
+    rdfs:label "National Archaeological Museum (Ferrara)" .
+
+<https://www.wikidata.org/wiki/Q7895562> a crm:E74_Group ;
+    rdfs:label "University of Iowa Stanley Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q840886> a crm:E74_Group ;
+    rdfs:label "Museum of Fine Arts, Budapest" .
+
+<https://www.wikidata.org/wiki/Q865736> a crm:E74_Group ;
+    rdfs:label "Birmingham Museum of Art" .
+
+entity:collection03 a crm:E74_Group ;
+    rdfs:label "Anonymous Collection" .
+
+entity:collection05 a crm:E74_Group ;
+    rdfs:label "Arezzo, Museo Civico" .
+
+entity:collection10 a crm:E74_Group ;
+    rdfs:label "Brussels, Muses Royaux de Cinquantenaire" .
+
+entity:collection16 a crm:E74_Group ;
+    rdfs:label "Collection of Mr. and Mrs. Arthur J. Frank" .
+
+entity:collection25 a crm:E74_Group ;
+    rdfs:label "Collection of the Cummer Museum of Art and Gardens" .
+
+entity:collection33 a crm:E74_Group ;
+    rdfs:label "Karlsruhe, Badisches Landesmuseum" .
+
+entity:collection35 a crm:E74_Group ;
+    rdfs:label "Lecce, Museo Provinciale Castromediano" .
+
+entity:collection45 a crm:E74_Group ;
+    rdfs:label "Palermo, Museo Nazionale" .
+
+entity:collection46 a crm:E74_Group ;
+    rdfs:label "Paris, Bibliothque Nationale, Cabinet des Mdailles" .
+
+entity:collection49 a crm:E74_Group ;
+    rdfs:label "Tubingen University" .
+
+entity:collection51 a crm:E74_Group ;
+    rdfs:label "The Trustees of Dartmouth College" .
+
+<https://www.wikidata.org/wiki/Q12072937> a crm:E74_Group ;
+    rdfs:label "Williams College Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q1459878> a crm:E74_Group ;
+    rdfs:label "North Carolina Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q153306> a crm:E74_Group ;
+    rdfs:label "National Museum in Warsaw" .
+
+<https://www.wikidata.org/wiki/Q1565911> a crm:E74_Group ;
+    rdfs:label "Museum of Fine Arts, Houston" .
+
+<https://www.wikidata.org/wiki/Q15694044> a crm:E74_Group ;
+    rdfs:label "Davis Museum and Cultural Center" .
+
+<https://www.wikidata.org/wiki/Q2358398> a crm:E74_Group ;
+    rdfs:label "Archeological Civic Museum of Bologna" .
+
+<https://www.wikidata.org/wiki/Q3816734> a crm:E74_Group ;
+    rdfs:label "Allen Memorial Art Museum" .
+
+<https://www.wikidata.org/wiki/Q403080> a crm:E74_Group ;
+    rdfs:label "Wadsworth Atheneum Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q42114772> a crm:E74_Group ;
+    rdfs:label "Archaeological Museum of Eretria" .
+
+<https://www.wikidata.org/wiki/Q6803132> a crm:E74_Group ;
+    rdfs:label "Mead Art Museum" .
+
+<https://www.wikidata.org/wiki/Q745866> a crm:E74_Group ;
+    rdfs:label "Dallas Museum of Art" .
+
+entity:collection01 a crm:E74_Group ;
+    rdfs:label "Ackland Art Museum, University of North Carolina, Chapel Hill" .
+
+entity:collection06 a crm:E74_Group ;
+    rdfs:label "Athens, Fethiye Djami" .
+
+entity:collection13 a crm:E74_Group ;
+    rdfs:label "Collection of Emily D. B. Vermeule" .
+
+entity:collection15 a crm:E74_Group ;
+    rdfs:label "Collection of Gilbert M. Denman, Jr., San Antonio" .
+
+entity:collection19 a crm:E74_Group ;
+    rdfs:label "Collection of Mr. and Mrs. Cornelius C. Vermeule" .
+
+entity:collection42 a crm:E74_Group ;
+    rdfs:label "Milwaukee Public Museum" .
+
+entity:collection47 a crm:E74_Group ;
+    rdfs:label "Private Collection, New Orleans" .
+
+entity:collection48 a crm:E74_Group ;
+    rdfs:label "Putnam Museum" .
+
+entity:collection53 a crm:E74_Group ;
+    rdfs:label "The University Museum, University of Arkansas" .
+
+<https://www.wikidata.org/wiki/Q1372546> a crm:E74_Group ;
+    rdfs:label "Joslyn Art Museum" .
+
+<https://www.wikidata.org/wiki/Q14715853> a crm:E74_Group ;
+    rdfs:label "Smith College Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q1738346> a crm:E74_Group ;
+    rdfs:label "Kelsey Museum of Archaeology" .
+
+<https://www.wikidata.org/wiki/Q182955> a crm:E74_Group ;
+    rdfs:label "Vatican Museums" .
+
+<https://www.wikidata.org/wiki/Q2970522> a crm:E74_Group ;
+    rdfs:label "Cincinnati Art Museum" .
+
+<https://www.wikidata.org/wiki/Q637237> a crm:E74_Group ;
+    rdfs:label "National Archaeological Museum" .
+
+entity:collection04 a crm:E74_Group ;
+    rdfs:label "Archer M. Huntington Art Gallery, University of Texas at Austin" .
+
+entity:collection31 a crm:E74_Group ;
+    rdfs:label "John and Mabel Ringling Museum of Art, Sarasota" .
+
+<https://www.wikidata.org/wiki/Q15055388> a crm:E74_Group ;
+    rdfs:label "National Etruscan Museum" .
+
+<https://www.wikidata.org/wiki/Q6966836> a crm:E74_Group ;
+    rdfs:label "Nasher Museum of Art" .
+
+entity:collection20 a crm:E74_Group ;
+    rdfs:label "Collection of Mr. and Mrs. Edward L. Diefenthal, Metairie, Louisiana" .
+
+<https://www.wikidata.org/wiki/Q1760539> a crm:E74_Group ;
+    rdfs:label "Saint Louis Art Museum" .
+
+<https://www.wikidata.org/wiki/Q2063082> a crm:E74_Group ;
+    rdfs:label "New Orleans Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q2603905> a crm:E74_Group ;
+    rdfs:label "Princeton University Art Museum" .
+
+<https://www.wikidata.org/wiki/Q3867701> a crm:E74_Group ;
+    rdfs:label "Museo archeologico nazionale Jatta" .
+
+<https://www.wikidata.org/wiki/Q847508> a crm:E74_Group ;
+    rdfs:label "Worcester Art Museum" .
+
+entity:collection34 a crm:E74_Group ;
+    rdfs:label "Krannert Art Museum, University of Illinois" .
+
+entity:collection43 a crm:E74_Group ;
+    rdfs:label "Museum of Art and Archaeology, Univ. of Missouri-Columbia" .
+
+<https://www.wikidata.org/wiki/Q4013975> a crm:E74_Group ;
+    rdfs:label "Virginia Museum of Fine Arts" .
+
+entity:collection58 a crm:E74_Group ;
+    rdfs:label "Washington University Gallery of Art" .
+
+<https://www.wikidata.org/wiki/Q1201549> a crm:E74_Group ;
+    rdfs:label "Detroit Institute of Arts" .
+
+<https://www.wikidata.org/wiki/Q95569> a crm:E74_Group ;
+    rdfs:label "Kunsthistorisches Museum" .
+
+entity:collection28 a crm:E74_Group ;
+    rdfs:label "Elvehjem Museum of Art, University of Wisconsin-Madison" .
+
+<https://www.wikidata.org/wiki/Q637187> a crm:E74_Group ;
+    rdfs:label "National Archaeological Museum of Athens" .
+
+<https://www.wikidata.org/wiki/Q14715727> a crm:E74_Group ;
+    rdfs:label "Mount Holyoke College Art Museum" .
+
+<https://www.wikidata.org/wiki/Q239303> a crm:E74_Group ;
+    rdfs:label "Art Institute of Chicago" .
+
+<https://www.wikidata.org/wiki/Q160236> a crm:E74_Group ;
+    rdfs:label "Metropolitan Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q2383284> a crm:E74_Group ;
+    rdfs:label "Museum of the Ancient Agora" .
+
+<https://www.wikidata.org/wiki/Q6023573> a crm:E74_Group ;
+    rdfs:label "Eskenazi Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q637248> a crm:E74_Group ;
+    rdfs:label "Naples National Archaeological Museum" .
+
+<https://www.wikidata.org/wiki/Q132783> a crm:E74_Group ;
+    rdfs:label "Hermitage Museum" .
+
+<https://www.wikidata.org/wiki/Q1976985> a crm:E74_Group ;
+    rdfs:label "The Nelson-Atkins Museum of Art" .
+
+entity:collection26 a crm:E74_Group ;
+    rdfs:label "David and Alfred Smart Gallery, University of Chicago" .
+
+<https://www.wikidata.org/wiki/Q4950759> a crm:E74_Group ;
+    rdfs:label "Bowdoin College Museum of Art" .
+
+entity:collection32 a crm:E74_Group ;
+    rdfs:label "Johns Hopkins University Museum, Baltimore" .
+
+entity:collection41 a crm:E74_Group ;
+    rdfs:label "Martin von Wagner Museum, University of Wrzburg" .
+
+<https://www.wikidata.org/wiki/Q1568434> a crm:E74_Group ;
+    rdfs:label "Yale University Art Gallery" .
+
+<https://www.wikidata.org/wiki/Q1743116> a crm:E74_Group ;
+    rdfs:label "Toledo Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q657415> a crm:E74_Group ;
+    rdfs:label "Cleveland Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q7895820> a crm:E74_Group ;
+    rdfs:label "University of Mississippi Museum" .
+
+<https://www.wikidata.org/wiki/Q2148186> a crm:E74_Group ;
+    rdfs:label "Rhode Island School of Design Museum" .
+
+entity:collection09 a crm:E74_Group ;
+    rdfs:label "Berlin, Antikenmuseen" .
+
+<https://www.wikidata.org/wiki/Q7681719> a crm:E74_Group ;
+    rdfs:label "Tampa Museum of Art" .
+
+<https://www.wikidata.org/wiki/Q1285902> a crm:E74_Group ;
+    rdfs:label "University of Pennsylvania Museum of Archaeology and Anthropology" .
+
+<https://www.wikidata.org/wiki/Q19675> a crm:E74_Group ;
+    rdfs:label "Louvre Museum" .
+
+<https://www.wikidata.org/wiki/Q707981> a crm:E74_Group ;
+    rdfs:label "Staatliche Antikensammlungen" .
+
+<https://www.wikidata.org/wiki/Q3783572> a crm:E74_Group ;
+    rdfs:label "Harvard Art Museums" .
+
+<https://www.wikidata.org/wiki/Q731126> a crm:E74_Group ;
+    rdfs:label "J. Paul Getty Museum" .
+
+<https://www.wikidata.org/wiki/Q6373> a crm:E74_Group ;
+    rdfs:label "British Museum" .
+
+<https://www.wikidata.org/wiki/Q49133> a crm:E74_Group ;
+    rdfs:label "Museum of Fine Arts Boston" .
+
