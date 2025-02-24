@@ -1,0 +1,3007 @@
+@prefix aa: <http://perseus.tufts.edu/ns/aa/> .
+@prefix aat: <http://vocab.getty.edu/aat/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+aa:aa_1730 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 01.7545" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.019 m., W. 0.015 m., Th. 0.01 m." ;
+    aa:donor "Gift by Contribution" ;
+    aa:end_date "-465" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Rock crystal" ;
+    aa:material_description "Clear" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 35" ;
+    aa:start_date "-500" ;
+    aa:style "Archaic" ;
+    aa:summary "Galloping bull" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 01.7545" ;
+    crm:P48_has_preferred_identifier "Boston 01.7545" .
+
+aa:aa_1731 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1193" ;
+    aa:culture "Persian" ;
+    aa:dimensions "L. 0.025 m., W. 0.013 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-480" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sapphirine chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Cylinder Seal" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 8" ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:summary "Persian king in two-horse chariot, with disk of the sun and leonine griffin" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1193" ;
+    crm:P48_has_preferred_identifier "Boston 21.1193" .
+
+aa:aa_1732 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1194" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.02 m., W. 0.015 m., Th. 0.006 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 27" ;
+    aa:style "Archaic" ;
+    aa:summary "Archer" ;
+    aa:type "Gem" ;
+    aa:unitary_date "-500" ;
+    aa:unitary_mod "ca." ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1194" ;
+    crm:P48_has_preferred_identifier "Boston 21.1194" .
+
+aa:aa_1733 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1195" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.014 m., W. 0.011 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-480" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 30" ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "A young warrior bending over to pick up his helmet" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1195" ;
+    crm:P48_has_preferred_identifier "Boston 21.1195" .
+
+aa:aa_1734 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1196" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.017 m., W. 0.013 m., Th. 0.007 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 34" ;
+    aa:style "Archaic" ;
+    aa:summary "Crouching lion; above him, an eagle flying with a serpent in his talons" ;
+    aa:type "Gem" ;
+    aa:unitary_date "-480" ;
+    aa:unitary_mod "ca." ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1196" ;
+    crm:P48_has_preferred_identifier "Boston 21.1196" .
+
+aa:aa_1735 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1197" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.016 m., W. 0.01 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-500" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Clear" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Pseudo-scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 35 ter." ;
+    aa:start_date "-550" ;
+    aa:style "Archaic" ;
+    aa:summary "One of Herakles' adventures; the hero is depicted with Athena, in her aegis, a man, possibly Nereus, and a woman" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1197" ;
+    crm:P48_has_preferred_identifier "Boston 21.1197" .
+
+aa:aa_1736 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1198" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.015 m., W. 0.011 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-500" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Murky" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 36" ;
+    aa:start_date "-520" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, a naked youth led off by two winged females; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1198" ;
+    crm:P48_has_preferred_identifier "Boston 21.1198" .
+
+aa:aa_1737 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1199" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.014 m., W. 0.01 m., Th. 0.007 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-480" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 37" ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, Ajax dead, fallen on his sword, with winged female figure covering him with a cloth; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1199" ;
+    crm:P48_has_preferred_identifier "Boston 21.1199" .
+
+aa:aa_1738 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1200" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.016 m., W. 0.012 m., Th. 0.008 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-480" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 38" ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, dead youth borne by two winged figures, one female and one male; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1200" ;
+    crm:P48_has_preferred_identifier "Boston 21.1200" .
+
+aa:aa_1739 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1201" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.016 m., W. 0.015 m., Th. 0.007 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-475" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Translucent" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 40" ;
+    aa:start_date "-500" ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, an athlete pouring sand on his thigh; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1201" ;
+    crm:P48_has_preferred_identifier "Boston 21.1201" .
+
+aa:aa_1740 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1202" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.013 m., W. 0.011 m., Th. 0.008 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-475" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Partially translucent" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 42" ;
+    aa:start_date "-500" ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, Herakles lying on a raft supported by half-submerged amphorae, holding the end of a sail, his bows and arrows, and club; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1202" ;
+    crm:P48_has_preferred_identifier "Boston 21.1202" .
+
+aa:aa_1741 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1203" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.016 m., W. 0.013 m., Th. 0.01 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-450" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Opaque" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 46" ;
+    aa:start_date "-500" ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, Jason, with petasos, sword and shield, swallowed by the dragon, or perhaps issuing from its mouth; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1203" ;
+    crm:P48_has_preferred_identifier "Boston 21.1203" .
+
+aa:aa_1742 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1204" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.028 m., W. 0.022 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Gold" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 54" ;
+    aa:start_date "-420" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Rider striking with a lance at a spotted fallow deer" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1204" ;
+    crm:P48_has_preferred_identifier "Boston 21.1204" .
+
+aa:aa_1743 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1205" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.024 m., W. 0.019 m. " ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-300" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 61" ;
+    aa:start_date "-400" ;
+    aa:style "Free Style" ;
+    aa:summary "Theseus and the sow of Krommyon" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1205" ;
+    crm:P48_has_preferred_identifier "Boston 21.1205" .
+
+aa:aa_1744 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1206" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.0 m., W. 0.0 m., Th. 0.00 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-425" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 66" ;
+    aa:start_date "-450" ;
+    aa:style "Free Style" ;
+    aa:summary "Heron standing on one leg" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1206" ;
+    crm:P48_has_preferred_identifier "Boston 21.1206" .
+
+aa:aa_1745 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1207" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.018 m., W. 0.014 m., Th. 0.006 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 72" ;
+    aa:start_date "-450" ;
+    aa:style "Free Style" ;
+    aa:summary "Goat walking" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1207" ;
+    crm:P48_has_preferred_identifier "Boston 21.1207" .
+
+aa:aa_1746 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1208" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.02 m., W. 0.015 m., Th. 0.009 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Agate" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 73" ;
+    aa:start_date "-420" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Standing goat" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1208" ;
+    crm:P48_has_preferred_identifier "Boston 21.1208" .
+
+aa:aa_1747 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1209" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.022 m., W. 0.017 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 74" ;
+    aa:start_date "-420" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "A deer grazing" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1209" ;
+    crm:P48_has_preferred_identifier "Boston 21.1209" .
+
+aa:aa_1748 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1210" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.024 m., W. 0.019 m., Th. 0.01 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Rock crystal" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 75" ;
+    aa:start_date "-420" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "A deer grazing" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1210" ;
+    crm:P48_has_preferred_identifier "Boston 21.1210" .
+
+aa:aa_1749 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1211" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.017 m., W. 0.014 m., Th. 0.007 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Agate" ;
+    aa:material_description "Black streaked with grey" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 76" ;
+    aa:start_date "-420" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Bull-calf" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1211" ;
+    crm:P48_has_preferred_identifier "Boston 21.1211" .
+
+aa:aa_1750 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1212" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.024 m., W. 0.019 m., Th. 0.009 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-380" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Various" ;
+    aa:material_description "Yellow jasper mottled with chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 80" ;
+    aa:start_date "-420" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Pantheress crouching " ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1212" ;
+    crm:P48_has_preferred_identifier "Boston 21.1212" .
+
+aa:aa_1751 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1213" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.029 m., W. 0.024 m. " ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Garnet" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 102" ;
+    aa:style "Hellenistic" ;
+    aa:summary "Aphrodite arming" ;
+    aa:type "Gem" ;
+    aa:unitary_date "-200" ;
+    aa:unitary_mod "ca." ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1213" ;
+    crm:P48_has_preferred_identifier "Boston 21.1213" .
+
+aa:aa_1752 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1214" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.016 m., W. 0.012 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:material_description "Bluish flecked with white" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 103" ;
+    aa:style "Hellenistic" ;
+    aa:summary "Sea-pantheress attacking a polypus" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1214" ;
+    crm:P48_has_preferred_identifier "Boston 21.1214" .
+
+aa:aa_1753 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1215" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.017 m., W. 0.012 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 109" ;
+    aa:summary "Archaic Apollo with fawn" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1215" ;
+    crm:P48_has_preferred_identifier "Boston 21.1215" .
+
+aa:aa_1754 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1216" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.014 m., W. 0.012 m., Th. 0.006 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 113" ;
+    aa:summary "Head of Io" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1216" ;
+    crm:P48_has_preferred_identifier "Boston 21.1216" .
+
+aa:aa_1755 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1217" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.017 m., W. 0.014 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Translucent" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 118" ;
+    aa:summary "Portrait of a middle-aged Roman man" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1217" ;
+    crm:P48_has_preferred_identifier "Boston 21.1217" .
+
+aa:aa_1756 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1218" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.033 m., W. 0.015 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 119" ;
+    aa:summary "Portrait of an elderly Roman man" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1218" ;
+    crm:P48_has_preferred_identifier "Boston 21.1218" .
+
+aa:aa_1757 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1219" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.012 m., W. 0.018 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Amethyst" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 122" ;
+    aa:summary "Portrait of Lucius Verus" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1219" ;
+    crm:P48_has_preferred_identifier "Boston 21.1219" .
+
+aa:aa_1758 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1220" ;
+    aa:dimensions "L. 0.022 m., W. 0.018 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sardonyx" ;
+    aa:material_description "White on pale brown" ;
+    aa:period "Early Imperial" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Cameo" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 130" ;
+    aa:summary "Young satyr seated on rock" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1220" ;
+    crm:P48_has_preferred_identifier "Boston 21.1220" .
+
+aa:aa_1759 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 21.1221" ;
+    aa:dimensions "L. 0.029 m., W. 0.023 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sardonyx" ;
+    aa:material_description "Milky white on dark brown" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Cameo" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 132" ;
+    aa:summary "Seated Orestes and standing Pylades" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 21.1221" ;
+    crm:P48_has_preferred_identifier "Boston 21.1221" .
+
+aa:aa_1760 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.576" ;
+    aa:culture "Mycenaean" ;
+    aa:dimensions "D. 0.032 m., Th. 0.016 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Murky" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 3" ;
+    aa:summary "A lioness standing on a bull" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.576" ;
+    crm:P48_has_preferred_identifier "Boston 23.576" .
+
+aa:aa_1761 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.577" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.019 m., W. 0.013 m., Th. 0.009 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-540" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sardonyx" ;
+    aa:material_description "Discolored" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 17" ;
+    aa:start_date "-560" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, silen astride a sphinx, seizing her by the hair; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.577" ;
+    crm:P48_has_preferred_identifier "Boston 23.577" .
+
+aa:aa_1762 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.578" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.019 m., W. 0.013 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-480" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 29" ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "A griffin holding a youth, dead or overcome, between its paws" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.578" ;
+    crm:P48_has_preferred_identifier "Boston 23.578" .
+
+aa:aa_1763 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.579" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.013 m., W. 0.009 m., Th. 0.008 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-475" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Murky" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 45" ;
+    aa:start_date "-500" ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, Eros flying down with a taenia in his hands; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.579" ;
+    crm:P48_has_preferred_identifier "Boston 23.579" .
+
+aa:aa_1764 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.580" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.021 m., W. 0.017 m., Th. 0.006 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-425" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Jasper" ;
+    aa:material_description "Yellow mottled with red" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 50" ;
+    aa:start_date "-450" ;
+    aa:style "Free Style" ;
+    aa:summary "Portrait head of a bearded man. Above, artist's signature" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.580" ;
+    crm:P48_has_preferred_identifier "Boston 23.580" .
+
+aa:aa_1765 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.581" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.021 m., W. 0.015 m., Th. 0.009 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 52" ;
+    aa:start_date "-420" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "On the flat, a head of a negress; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.581" ;
+    crm:P48_has_preferred_identifier "Boston 23.581" .
+
+aa:aa_1766 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.582" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.036 m., W. 0.021 m., Th. 0.012 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-393" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 55" ;
+    aa:start_date "-413" ;
+    aa:style "Free Style" ;
+    aa:summary "Two-horse chariot wheeling around" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.582" ;
+    crm:P48_has_preferred_identifier "Boston 23.582" .
+
+aa:aa_1767 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.583" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.02 m., W. 0.017 m., Th. 0.009 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-300" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Blood" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 57" ;
+    aa:start_date "-400" ;
+    aa:style "Free Style" ;
+    aa:summary "The Palladion" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.583" ;
+    crm:P48_has_preferred_identifier "Boston 23.583" .
+
+aa:aa_1768 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.584" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.021 m., W. 0.016 m., Th. 0.007 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Agate" ;
+    aa:material_description "Banded" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 64" ;
+    aa:start_date "-450" ;
+    aa:style "Free Style" ;
+    aa:summary "A zebu walking" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.584" ;
+    crm:P48_has_preferred_identifier "Boston 23.584" .
+
+aa:aa_1769 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.585" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.029 m., W. 0.019 m., Th. 0.005 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sapphirine chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 79" ;
+    aa:style "Free Style" ;
+    aa:summary "Plunging bull" ;
+    aa:type "Gem" ;
+    aa:unitary_date "-400" ;
+    aa:unitary_mod "ca." ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.585" ;
+    crm:P48_has_preferred_identifier "Boston 23.585" .
+
+aa:aa_1770 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.586" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.017 m., W. 0.013 m., Th. 0.006 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-350" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Hyacinthine " ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 81" ;
+    aa:start_date "-400" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Carrier pigeon" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.586" ;
+    crm:P48_has_preferred_identifier "Boston 23.586" .
+
+aa:aa_1771 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.587 " ;
+    aa:culture "Etruscan/Italiote" ;
+    aa:dimensions "L. 0.013 m., W. 0.01 m., Th. 0.008 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Murky" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 87" ;
+    aa:style "Free Style" ;
+    aa:summary "On the flat, a youth touching an oracular, open-mouthed, grotesque head set on a rock; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    aa:unitary_date "-420" ;
+    aa:unitary_mod "After ca." ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.587 " ;
+    crm:P48_has_preferred_identifier "Boston 23.587 " .
+
+aa:aa_1772 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.588" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.013 m., W. 0.009 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 106" ;
+    aa:summary "Head of a boy satyr smiling" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.588" ;
+    crm:P48_has_preferred_identifier "Boston 23.588" .
+
+aa:aa_1773 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.589" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.022 m., W. 0.017 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Jasper" ;
+    aa:material_description "Yellow" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 115" ;
+    aa:summary "Lion walking" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.589" ;
+    crm:P48_has_preferred_identifier "Boston 23.589" .
+
+aa:aa_1774 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.590" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.019 m., W. 0.016 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:material_description "Brown" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 120" ;
+    aa:summary "Portrait of an aged Roman man" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.590" ;
+    crm:P48_has_preferred_identifier "Boston 23.590" .
+
+aa:aa_1775 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.591" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.016 m., W. 0.012 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Jasper" ;
+    aa:material_description "Black" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 121" ;
+    aa:summary "Portrait of a young man" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.591" ;
+    crm:P48_has_preferred_identifier "Boston 23.591" .
+
+aa:aa_1776 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.592" ;
+    aa:dimensions "L. 0.049 m., W. 0.04 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sardonyx" ;
+    aa:period "Hellenistic" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Cameo" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 127" ;
+    aa:style "Egyptianizing" ;
+    aa:summary "Head of a Ptolemaic queen" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.592" ;
+    crm:P48_has_preferred_identifier "Boston 23.592" .
+
+aa:aa_1777 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.593" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.016 m., W. 0.011 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-440" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Gold" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 48" ;
+    aa:start_date "-460" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Hermes wearing a chlamys, with phiale and kerykeion, standing with his elbow resting on an Ionic pillar" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.593" ;
+    crm:P48_has_preferred_identifier "Boston 23.593" .
+
+aa:aa_1778 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.594" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.010 m., W. 0.018 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Gold" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 53" ;
+    aa:start_date "-450" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Erotostasia: Aphrodite weighing two Erotes" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.594" ;
+    crm:P48_has_preferred_identifier "Boston 23.594" .
+
+aa:aa_1779 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.595" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.013 m., W. 0.01 m., Th. 0.006 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-540" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Jasper" ;
+    aa:material_description "Black and red" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 15" ;
+    aa:start_date "-560" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, a silen and a nymph dancing; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.595" ;
+    crm:P48_has_preferred_identifier "Boston 23.595" .
+
+aa:aa_1780 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.596" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.014 m., W. 0.01 m., Th. 0.006 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-400" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sapphirine chalcedony" ;
+    aa:material_description "Cloudy" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 51" ;
+    aa:start_date "-420" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Woman's head" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.596" ;
+    crm:P48_has_preferred_identifier "Boston 23.596" .
+
+aa:aa_1781 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.597" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.039 m., W. 0.023 m., Th. 0.011 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-350" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sapphirine chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 60" ;
+    aa:start_date "-400" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Coitus" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.597" ;
+    crm:P48_has_preferred_identifier "Boston 23.597" .
+
+aa:aa_1782 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.598" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.023 m., W. 0.018 m., Th. 0.009 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-300" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:material_description "Discolored" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 63" ;
+    aa:start_date "-350" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "On the convex, an eagle with a thunderbolt; on the flat, coitus" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.598" ;
+    crm:P48_has_preferred_identifier "Boston 23.598" .
+
+aa:aa_1783 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.599" ;
+    aa:culture "Italiote" ;
+    aa:dimensions "L. 0.016 m., W. 0.012 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-200" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 90" ;
+    aa:start_date "-300" ;
+    aa:style "Free Style" ;
+    aa:summary "Maschalismos: a man and a youth dismembering the trunk of a youth" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.599" ;
+    crm:P48_has_preferred_identifier "Boston 23.599" .
+
+aa:aa_1784 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.600" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.021 m., W. 0.016 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Agate" ;
+    aa:material_description "Moss" ;
+    aa:period "Late Hellenistic" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 104" ;
+    aa:style "Hellenistic" ;
+    aa:summary "Marsyas and Olympos" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.600" ;
+    crm:P48_has_preferred_identifier "Boston 23.600" .
+
+aa:aa_1785 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 23.601" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.019 m., W. 0.013 m." ;
+    aa:donor "Gift of Edward Perry Warren" ;
+    aa:end_date "-300" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Bronze" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 59" ;
+    aa:start_date "-400" ;
+    aa:style "Free Style" ;
+    aa:summary "Dog-bodied Eros" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 23.601" ;
+    crm:P48_has_preferred_identifier "Boston 23.601" .
+
+aa:aa_1786 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.655" ;
+    aa:culture "Cretan" ;
+    aa:dimensions "D. 0.024 m., Th. 0.01 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Translucent" ;
+    aa:period "Late Minoan I-II" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 1" ;
+    aa:summary "Two lions biting a stag" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.655" ;
+    crm:P48_has_preferred_identifier "Boston 27.655" .
+
+aa:aa_1787 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.656" ;
+    aa:culture "Cretan" ;
+    aa:dimensions "D. 0.024 m., Th. 0.01 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:period "Late Minoan I-III" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 2" ;
+    aa:summary "Lion attacking a bull" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.656" ;
+    crm:P48_has_preferred_identifier "Boston 27.656" .
+
+aa:aa_1788 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.657" ;
+    aa:culture "Cretan" ;
+    aa:dimensions "L. 0.021 m., W. 0.017 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:material_description "Streaked" ;
+    aa:period "Middle Minoan III-Late Minoan" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 5" ;
+    aa:summary "Cow licking and suckling her calf" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.657" ;
+    crm:P48_has_preferred_identifier "Boston 27.657" .
+
+aa:aa_1789 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.658" ;
+    aa:culture "Mycenaean" ;
+    aa:dimensions "L. 0.027 m., W. 0.016 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Rock crystal" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 4" ;
+    aa:summary "Crouched bulls with tree between" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.658" ;
+    crm:P48_has_preferred_identifier "Boston 27.658" .
+
+aa:aa_1790 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.659" ;
+    aa:culture "Phoenician" ;
+    aa:dimensions "L. 0.016 m., W. 0.012 m., Th. 0.009 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-480" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Jasper" ;
+    aa:material_description "Green" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 11" ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:summary "On the flat, a winged, bearded monster composed of lion's body and legs, and human head, body and arms; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.659" ;
+    crm:P48_has_preferred_identifier "Boston 27.659" .
+
+aa:aa_1791 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.660" ;
+    aa:culture "Greco-Phoenician" ;
+    aa:dimensions "L. 0.016 m., W. 0.013 m., Th. 0.009 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-480" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Jasper" ;
+    aa:material_description "Green" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 13" ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:summary "On the flat, a naked youth running with a cock on his left arm and a bow and arrows in his right hand; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.660" ;
+    crm:P48_has_preferred_identifier "Boston 27.660" .
+
+aa:aa_1792 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.667" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.016 m., W. 0.011 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-540" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Translucent" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 16" ;
+    aa:start_date "-560" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, a silen running with oinochoe and kantharos; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.667" ;
+    crm:P48_has_preferred_identifier "Boston 27.667" .
+
+aa:aa_1793 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.668" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.000 m., W. 0.000 m., Th. 0.00 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-540" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Agate" ;
+    aa:material_description "Black, white and grey banded" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 14" ;
+    aa:start_date "-560" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, the struggle for the tripod: Apollo pursues Herakles, with club and lionskin; they both grasp the tripod; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.668" ;
+    crm:P48_has_preferred_identifier "Boston 27.668" .
+
+aa:aa_1794 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.669" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.013 m., W. 0.01 m., Th. 0.07 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-540" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Streaked with white" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 18" ;
+    aa:start_date "-560" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, a bearded man running, with a lyre in his left hand and a cock in his right; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.669" ;
+    crm:P48_has_preferred_identifier "Boston 27.669" .
+
+aa:aa_1795 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.670" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.013 m., W. 0.009 m., Th. 0.007 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-500" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Translucent" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 21" ;
+    aa:start_date "-550" ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, Herakles, with bow-case, club, and lionskin, leading one of Diomedes' horses; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.670" ;
+    crm:P48_has_preferred_identifier "Boston 27.670" .
+
+aa:aa_1796 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.671" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.018 m., W. 0.011 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-500" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 20" ;
+    aa:start_date "-550" ;
+    aa:style "Archaic" ;
+    aa:summary "A young male figure, with incurving wings on shoulders, head and heels" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.671" ;
+    crm:P48_has_preferred_identifier "Boston 27.671" .
+
+aa:aa_1797 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.672" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.018 m., W. 0.015 m., Th. 0.008 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-500" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 19" ;
+    aa:start_date "-550" ;
+    aa:style "Archaic" ;
+    aa:summary "A winged female figure, probably a Gorgon or an Erinys, running with a snake in her hand" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.672" ;
+    crm:P48_has_preferred_identifier "Boston 27.672" .
+
+aa:aa_1798 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.673" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.016 m., W. 0.012 m., Th. 0.009 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-500" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Steatite" ;
+    aa:material_description "Light greenish" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 24" ;
+    aa:start_date "-525" ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, a Silen tuning his lyre; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.673" ;
+    crm:P48_has_preferred_identifier "Boston 27.673" .
+
+aa:aa_1799 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.674" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.016 m., W. 0.013 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-500" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 22" ;
+    aa:start_date "-525" ;
+    aa:style "Archaic" ;
+    aa:summary "Herakles and the Nemean lion" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.674" ;
+    crm:P48_has_preferred_identifier "Boston 27.674" .
+
+aa:aa_1800 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.675" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.016 m., W. 0.008 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-500" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Gold" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 25" ;
+    aa:start_date "-520" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "Light-armed warrior" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.675" ;
+    crm:P48_has_preferred_identifier "Boston 27.675" .
+
+aa:aa_1801 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.676" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.018 m., W. 0.015 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-500" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:material_description "Rosy brown" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 26" ;
+    aa:start_date "-520" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "Athena walking, with spear and shield" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.676" ;
+    crm:P48_has_preferred_identifier "Boston 27.676" .
+
+aa:aa_1802 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.677" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.0171 m., W. 0.019 m., Th. 0.009 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sapphirine chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 28" ;
+    aa:style "Archaic" ;
+    aa:summary "Naked youth holding the bridle of a restive horse" ;
+    aa:type "Gem" ;
+    aa:unitary_date "-500" ;
+    aa:unitary_mod "ca." ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.677" ;
+    crm:P48_has_preferred_identifier "Boston 27.677" .
+
+aa:aa_1803 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.680" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.000 m., W. 0.000 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-480" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 32" ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "Eros flying with a sprig in either hand" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.680" ;
+    crm:P48_has_preferred_identifier "Boston 27.680" .
+
+aa:aa_1804 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.681" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.016 m., W. 0.012 m., Th. 0.007 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-466" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Clear" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 35" ;
+    aa:start_date "-500" ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, a bull rousing himself; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.681" ;
+    crm:P48_has_preferred_identifier "Boston 27.681" .
+
+aa:aa_1805 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.682" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.017 m., W. 0.016 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-480" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Brownish" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 31" ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "Achilles and a wounded Penthesilea" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.682" ;
+    crm:P48_has_preferred_identifier "Boston 27.682" .
+
+aa:aa_1806 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.686" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.021 m., W. 0.017 m., Th. 0.009 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Various" ;
+    aa:material_description "Yellow jasper, mottled with chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 49" ;
+    aa:style "Free Style" ;
+    aa:summary "Apollo moving towards a tripod" ;
+    aa:type "Gem" ;
+    aa:unitary_date "-460" ;
+    aa:unitary_mod "After ca." ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.686" ;
+    crm:P48_has_preferred_identifier "Boston 27.686" .
+
+aa:aa_1807 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.689" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.016 m., W. 0.012 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-450" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:material_description "Bluish mottled with white" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 35 bis." ;
+    aa:start_date "-500" ;
+    aa:style "Archaic" ;
+    aa:summary "Ewe getting up from the ground" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.689" ;
+    crm:P48_has_preferred_identifier "Boston 27.689" .
+
+aa:aa_1808 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.691" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.018 m., W. 0.014 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-460" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 47" ;
+    aa:start_date "-470" ;
+    aa:style "Free Style" ;
+    aa:summary "Apollo with sceptre, hawk, and spray of laurel, accompanied by a roebuck" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.691" ;
+    crm:P48_has_preferred_identifier "Boston 27.691" .
+
+aa:aa_1809 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.692" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.016 m., W. 0.012 m., Th. 0.007 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 70" ;
+    aa:start_date "-450" ;
+    aa:style "Free Style" ;
+    aa:summary "Wild sow with two young" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.692" ;
+    crm:P48_has_preferred_identifier "Boston 27.692" .
+
+aa:aa_1810 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.693" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.016 m., W. 0.013 m., Th. 0.008 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:material_description "Bleached" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 68" ;
+    aa:start_date "-450" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "A hazelnut" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.693" ;
+    crm:P48_has_preferred_identifier "Boston 27.693" .
+
+aa:aa_1811 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.694" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.028 m., W. 0.012 m., Th. 0.01 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Agate" ;
+    aa:material_description "Banded" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Sliced barrel intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 65" ;
+    aa:start_date "-450" ;
+    aa:style "Free Style" ;
+    aa:summary "Crouching lioness" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.694" ;
+    crm:P48_has_preferred_identifier "Boston 27.694" .
+
+aa:aa_1812 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.696" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.02 m., W. 0.011 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Cylinder Seal" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 71" ;
+    aa:start_date "-420" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "A boar walking" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.696" ;
+    crm:P48_has_preferred_identifier "Boston 27.696" .
+
+aa:aa_1813 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.697" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.025 m., W. 0.021 m., Th. 0.01 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Rock crystal" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 49 bis." ;
+    aa:start_date "-450" ;
+    aa:style "Free Style" ;
+    aa:summary "Two Amazons" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.697" ;
+    crm:P48_has_preferred_identifier "Boston 27.697" .
+
+aa:aa_1814 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.698" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.02 m., W. 0.016 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-400" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:material_description "Smoky" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 67" ;
+    aa:start_date "-450" ;
+    aa:style "Free Style" ;
+    aa:summary "A race horse walking with broken reins" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.698" ;
+    crm:P48_has_preferred_identifier "Boston 27.698" .
+
+aa:aa_1815 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.699" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.017 m., W. 0.009 m., Th. 0.007 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-380" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Agate" ;
+    aa:material_description "Banded, black streaked with grey" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Sliced barrel intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 77" ;
+    aa:start_date "-450" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Sandal, three-quarter view" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.699" ;
+    crm:P48_has_preferred_identifier "Boston 27.699" .
+
+aa:aa_1816 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.700" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.022 m., W. 0.019 m., Th. 0.01 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-380" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Amethystine chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 56" ;
+    aa:start_date "-420" ;
+    aa:style "Free Style" ;
+    aa:summary "An Eros seated on the ground playing with a goose, which lifts its wings" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.700" ;
+    crm:P48_has_preferred_identifier "Boston 27.700" .
+
+aa:aa_1817 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.701" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.02 m., W. 0.012 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-350" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Gold" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 83" ;
+    aa:start_date "-400" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Poor old donkey" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.701" ;
+    crm:P48_has_preferred_identifier "Boston 27.701" .
+
+aa:aa_1818 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.702" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.024 m., W. 0.018 m., Th. 0.008 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-300" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 78" ;
+    aa:start_date "-450" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Coiled snake" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.702" ;
+    crm:P48_has_preferred_identifier "Boston 27.702" .
+
+aa:aa_1819 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.703" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.028 m., W. 0.024 m., Th. 0.012 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-350" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:material_description "Smoky" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 58" ;
+    aa:start_date "-400" ;
+    aa:style "Free Style" ;
+    aa:summary "Diomedes carrying off the Palladion" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.703" ;
+    crm:P48_has_preferred_identifier "Boston 27.703" .
+
+aa:aa_1820 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.704" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.023 m., W. 0.017 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-300" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Discolored" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 62" ;
+    aa:start_date "-400" ;
+    aa:style "Free Style" ;
+    aa:summary "Cassandra clasping the Palladion" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.704" ;
+    crm:P48_has_preferred_identifier "Boston 27.704" .
+
+aa:aa_1821 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.706" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.026 m., W. 0.019 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:period "Hellenistic" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 134" ;
+    aa:style "Hellenistic" ;
+    aa:summary "Woman with a vase at a fountain" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.706" ;
+    crm:P48_has_preferred_identifier "Boston 27.706" .
+
+aa:aa_1822 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.707" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.024 m., W. 0.019 m., Th. 0.01 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Beryl" ;
+    aa:material_description "Glaucous" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 94" ;
+    aa:style "Hellenistic" ;
+    aa:summary "Nude Cassandra clasping the Palladion" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.707" ;
+    crm:P48_has_preferred_identifier "Boston 27.707" .
+
+aa:aa_1823 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.709" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.018 m., W. 0.013 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-250" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Hyacinth" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 96" ;
+    aa:start_date "-300" ;
+    aa:start_mod "ca." ;
+    aa:style "Hellenistic" ;
+    aa:summary "Portrait of a Ptolemaic queen" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.709" ;
+    crm:P48_has_preferred_identifier "Boston 27.709" .
+
+aa:aa_1824 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.710" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.027 m., W. 0.022 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-200" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Garnet" ;
+    aa:material_description "Syriam" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 97" ;
+    aa:start_date "-300" ;
+    aa:style "Hellenistic" ;
+    aa:summary "Middle-aged man with fez-like cap" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.710" ;
+    crm:P48_has_preferred_identifier "Boston 27.710" .
+
+aa:aa_1825 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.711" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.033 m., W. 0.026 m., Th. 0.009 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-250" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 95" ;
+    aa:start_date "-300" ;
+    aa:style "Hellenistic" ;
+    aa:summary "Portrait of a Ptolemaic queen as Isis" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.711" ;
+    crm:P48_has_preferred_identifier "Boston 27.711" .
+
+aa:aa_1826 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.713" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.021 m., W. 0.019 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 93" ;
+    aa:style "Hellenistic" ;
+    aa:summary "Nude Cassandra clasping the Palladion" ;
+    aa:type "Gem" ;
+    aa:unitary_date "-300" ;
+    aa:unitary_mod "ca." ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.713" ;
+    crm:P48_has_preferred_identifier "Boston 27.713" .
+
+aa:aa_1827 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.714" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.018 m., W. 0.022 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Clear" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 100" ;
+    aa:style "Hellenistic" ;
+    aa:summary "Portrait of a clean-shaven man" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.714" ;
+    crm:P48_has_preferred_identifier "Boston 27.714" .
+
+aa:aa_1828 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.715" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.0 m., W. 0.0 m., Th. 0.00 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Jasper" ;
+    aa:material_description "Black" ;
+    aa:period "Hellenistic" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 101" ;
+    aa:style "Hellenistic" ;
+    aa:summary "Portrait head of an elderly Roman man" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.715" ;
+    crm:P48_has_preferred_identifier "Boston 27.715" .
+
+aa:aa_1829 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.716" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.018 m., W. 0.016 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Clear" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 98" ;
+    aa:style "Hellenistic" ;
+    aa:summary "Portrait of a man in eastern costume" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.716" ;
+    crm:P48_has_preferred_identifier "Boston 27.716" .
+
+aa:aa_1830 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.717" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.013 m., W. 0.011 m., Th. 0.008 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-475" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Murky" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 41" ;
+    aa:start_date "-500" ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, Ajax falling on his sword; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.717" ;
+    crm:P48_has_preferred_identifier "Boston 27.717" .
+
+aa:aa_1831 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.718" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.014 m., W. 0.011 m., Th. 0.007 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-475" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Agate" ;
+    aa:material_description "Banded" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 43" ;
+    aa:start_date "-500" ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, Herakles drawing water in a pointed amphora from a fountain, with club, bow, and inscription; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.718" ;
+    crm:P48_has_preferred_identifier "Boston 27.718" .
+
+aa:aa_1832 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.719" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.012 m., W. 0.01 m., Th. 0.006 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-475" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Agate" ;
+    aa:material_description "Banded" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Pseudo-scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 44" ;
+    aa:start_date "-500" ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, a warrior running and looking round, with spear, shield, chiton, and helmet; on the convex, a siren in relief" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.719" ;
+    crm:P48_has_preferred_identifier "Boston 27.719" .
+
+aa:aa_1833 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.720" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.013 m., W. 0.01 m., Th. 0.007 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-480" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Agate" ;
+    aa:material_description "Banded" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 39" ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, Achilles with cloak and helmet, and inscription; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.720" ;
+    crm:P48_has_preferred_identifier "Boston 27.720" .
+
+aa:aa_1834 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.722" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.019 m., W. 0.012 m., Th. 0.01 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Translucent" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 86" ;
+    aa:style "Free Style" ;
+    aa:summary "On the flat, Herakles and the Nemean lion; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    aa:unitary_date "-450" ;
+    aa:unitary_mod "ca." ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.722" ;
+    crm:P48_has_preferred_identifier "Boston 27.722" .
+
+aa:aa_1835 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.723" ;
+    aa:culture "Etruscan/Italiote" ;
+    aa:dimensions "L. 0.019 m., W. 0.014 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-380" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Murky" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 89" ;
+    aa:start_date "-400" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Herakles throttling the Nemean lion" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.723" ;
+    crm:P48_has_preferred_identifier "Boston 27.723" .
+
+aa:aa_1836 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.724" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.016 m., W. 0.012 m., Th. 0.009 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-380" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 88" ;
+    aa:start_date "-400" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "On the flat, Herakles standing on rocky ground and shouldering the heavens, represented by crescent moon and stars, with the Hesperian tree, club, quiver, a rock, a plant, and inscription; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.724" ;
+    crm:P48_has_preferred_identifier "Boston 27.724" .
+
+aa:aa_1837 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.725" ;
+    aa:culture "Italiote" ;
+    aa:dimensions "L. 0.018 m., W. 0.015 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Translucent" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 91" ;
+    aa:style "Free Style" ;
+    aa:summary "Centaur about to hurl a krater" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.725" ;
+    crm:P48_has_preferred_identifier "Boston 27.725" .
+
+aa:aa_1838 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.726" ;
+    aa:culture "Italiote" ;
+    aa:dimensions "L. 0.018 m., W. 0.012 m., Th. 0.005 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-200" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Translucent" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 92" ;
+    aa:start_date "-300" ;
+    aa:style "Free Style" ;
+    aa:summary "Silen and goat" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.726" ;
+    crm:P48_has_preferred_identifier "Boston 27.726" .
+
+aa:aa_1839 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.731" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.024 m., W. 0.02 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Clear" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 107" ;
+    aa:summary "Theseus examining his father's sword" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.731" ;
+    crm:P48_has_preferred_identifier "Boston 27.731" .
+
+aa:aa_1840 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.733" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.021 m., W. 0.016 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-27" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 105" ;
+    aa:start_date "-31" ;
+    aa:start_mod "ca." ;
+    aa:summary "Augustus, as Neptune, mounting a chariot drawn by four sea-horses over a troubled sea: he is escorted by a young Triton and a dolphin" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.733" ;
+    crm:P48_has_preferred_identifier "Boston 27.733" .
+
+aa:aa_1841 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.734" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.024 m., W. 0.017 m., Th. 0.008 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Garnet" ;
+    aa:material_description "Syriam" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 114" ;
+    aa:summary "Sirius; head and shoulders of a dog" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.734" ;
+    crm:P48_has_preferred_identifier "Boston 27.734" .
+
+aa:aa_1842 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.735" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.023 m., W. 0.020 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 99" ;
+    aa:style "Hellenistic" ;
+    aa:summary "Portrait of an Eastern ruler" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.735" ;
+    crm:P48_has_preferred_identifier "Boston 27.735" .
+
+aa:aa_1843 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.736" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.019 m., W. 0.016 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 111" ;
+    aa:summary "Centaur carrying a maenad on his back" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.736" ;
+    crm:P48_has_preferred_identifier "Boston 27.736" .
+
+aa:aa_1844 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.737" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.013 m., W. 0.017 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:period "Augustan" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 135" ;
+    aa:summary "Bellerphon mastering Pegasos" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.737" ;
+    crm:P48_has_preferred_identifier "Boston 27.737" .
+
+aa:aa_1845 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.738" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.016 m., W. 0.014 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Golden" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 108" ;
+    aa:summary "Comic actor, masked, in the part of an old gentleman, holding a long knotted stick and stroking his beard" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.738" ;
+    crm:P48_has_preferred_identifier "Boston 27.738" .
+
+aa:aa_1846 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.739" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.017 m., W. 0.014 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 117" ;
+    aa:summary "Portrait head of Julius Caesar" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.739" ;
+    crm:P48_has_preferred_identifier "Boston 27.739" .
+
+aa:aa_1847 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.740" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.018 m., W. 0.015 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Translucent" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 110" ;
+    aa:summary "Death of Dolon, between Diomedes and Odyssesus" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.740" ;
+    crm:P48_has_preferred_identifier "Boston 27.740" .
+
+aa:aa_1848 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.741" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.015 m., W. 0.012 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Translucent" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 116" ;
+    aa:summary "Portrait of an elderly Roman man" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.741" ;
+    crm:P48_has_preferred_identifier "Boston 27.741" .
+
+aa:aa_1849 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.749" ;
+    aa:dimensions "L. 0.032 m., W. 0.014 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Glass" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Cameo" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 129" ;
+    aa:summary "Leda and the swan" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.749" ;
+    crm:P48_has_preferred_identifier "Boston 27.749" .
+
+aa:aa_1850 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.750" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.021 m., W. 0.016 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-100" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sardonyx" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Cameo" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 128" ;
+    aa:start_date "-200" ;
+    aa:style "Hellenistic" ;
+    aa:summary "Aphrodite and Eros" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.750" ;
+    crm:P48_has_preferred_identifier "Boston 27.750" .
+
+aa:aa_1851 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.754" ;
+    aa:dimensions "L. 0.024 m., W. 0.022 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sardonyx" ;
+    aa:material_description "White on brown" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Cameo" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 133" ;
+    aa:summary "Concert in the open air: a faun and a nymph watching a dancing satyr" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.754" ;
+    crm:P48_has_preferred_identifier "Boston 27.754" .
+
+aa:aa_1852 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.755" ;
+    aa:dimensions "L. 0.02 m., W. 0.016 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sardonyx" ;
+    aa:material_description "White on brown" ;
+    aa:period "Early Imperial" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Cameo" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 131" ;
+    aa:summary "Young satyr pushing or supporting the shoulder of a bearded Silenus" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.755" ;
+    crm:P48_has_preferred_identifier "Boston 27.755" .
+
+aa:aa_1853 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.762" ;
+    aa:culture "Phoenician" ;
+    aa:dimensions "L. 0.017 m., W. 0.012 m., Th. 0.009 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-580" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 9" ;
+    aa:start_date "-600" ;
+    aa:start_mod "ca." ;
+    aa:summary "On the flat, a helmeted king holding a lion by the mane and brandishing a mace, with a naked man crawling away up a hill, a flying bird of prey, and a cartouche with irregular markings; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.762" ;
+    crm:P48_has_preferred_identifier "Boston 27.762" .
+
+aa:aa_1854 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.763" ;
+    aa:culture "Phoenician" ;
+    aa:dimensions "L. 0.013 m., W. 0.01 m., Th. 0.00 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-540" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Translucent" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 10" ;
+    aa:start_date "-560" ;
+    aa:start_mod "ca." ;
+    aa:summary "On the flat, Bes, clad in a lionskin, running with a wild goat in either hand; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.763" ;
+    crm:P48_has_preferred_identifier "Boston 27.763" .
+
+aa:aa_1855 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.764" ;
+    aa:culture "Greco-Phoenician" ;
+    aa:dimensions "L. 0.014 m., W. 0.01 m., Th. 0.006 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-480" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Jasper" ;
+    aa:material_description "Green" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 12" ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:summary "On the flat, the head of a youth wearing a helmet compounded of a silen's head, in front, and a lion's head behind; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.764" ;
+    crm:P48_has_preferred_identifier "Boston 27.764" .
+
+aa:aa_1856 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.765" ;
+    aa:culture "Greco-Phoenician" ;
+    aa:dimensions "L. 0.016 m., W. 0.012 m., Th. 0.008 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-480" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Jasper" ;
+    aa:material_description "Green" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 13 bis." ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:summary "On the flat, Herakles holding his club and a bow with two arrows; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.765" ;
+    crm:P48_has_preferred_identifier "Boston 27.765" .
+
+aa:aa_1857 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.766" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.011 m., W. 0.008 m., Th. 0.005 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-500" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Steatite" ;
+    aa:material_description "Black" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Pseudo-scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 23" ;
+    aa:start_date "-550" ;
+    aa:style "Archaic" ;
+    aa:summary "On the flat, a man driving a biga; on the convex, a youthful face wearing a cap or helmet" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.766" ;
+    crm:P48_has_preferred_identifier "Boston 27.766" .
+
+aa:aa_1858 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.767" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.015 m., W. 0.011 m., Th. 0.007 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-480" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Discolored" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 33" ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:style "Archaic" ;
+    aa:summary "Eros flying with a wreath in one hand and a lyre in the other" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.767" ;
+    crm:P48_has_preferred_identifier "Boston 27.767" .
+
+aa:aa_1859 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.768" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.016 m., W. 0.0 m., Th. 0.00 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-400" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Streaked" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 69" ;
+    aa:start_date "-450" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Mule walking" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.768" ;
+    crm:P48_has_preferred_identifier "Boston 27.768" .
+
+aa:aa_1860 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.769" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.023 m., W. 0.018 m., Th. 0.009 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-300" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Jasper" ;
+    aa:material_description "Red, black and yellowish-brown mottled" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 84" ;
+    aa:start_date "-400" ;
+    aa:style "Free Style" ;
+    aa:summary "Tripod with a spiked cover" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.769" ;
+    crm:P48_has_preferred_identifier "Boston 27.769" .
+
+aa:aa_1861 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.770" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.016 m., W. 0.011 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-300" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Silver" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 82" ;
+    aa:start_date "-400" ;
+    aa:style "Free Style" ;
+    aa:summary "Nemean lion with a club " ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.770" ;
+    crm:P48_has_preferred_identifier "Boston 27.770" .
+
+aa:aa_1862 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.771" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.027 m., W. 0.015 m., Th. 0.006 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "-300" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Bronze" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 85" ;
+    aa:start_date "-500" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "Griffin sitting on a club" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.771" ;
+    crm:P48_has_preferred_identifier "Boston 27.771" .
+
+aa:aa_1863 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.780" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.02 m., W. 0.013 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Amethystine paste" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 112" ;
+    aa:summary "Maenad, rushing with head thrown back" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.780" ;
+    crm:P48_has_preferred_identifier "Boston 27.780" .
+
+aa:aa_1864 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.781" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.015 m., W. 0.011 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Nicolo" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 123" ;
+    aa:summary "Theseus examining his sword" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.781" ;
+    crm:P48_has_preferred_identifier "Boston 27.781" .
+
+aa:aa_1865 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.782" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.011 m., W. 0.01 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "300" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Plasma" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 125" ;
+    aa:start_date "200" ;
+    aa:summary "Diomedes with the Palladion" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.782" ;
+    crm:P48_has_preferred_identifier "Boston 27.782" .
+
+aa:aa_1866 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.783" ;
+    aa:culture "Greco-Roman" ;
+    aa:dimensions "L. 0.013 m., W. 0.009 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "300" ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Plasma" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio Ring" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 124" ;
+    aa:start_date "200" ;
+    aa:summary "Woman dancing and playing the flutes" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.783" ;
+    crm:P48_has_preferred_identifier "Boston 27.783" .
+
+aa:aa_1867 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 27.784" ;
+    aa:culture "Renaissance" ;
+    aa:dimensions "L. 0.021 m., W. 0.017 m." ;
+    aa:donor "Gift of E.P. Warren" ;
+    aa:end_date "1600" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Chalcedony" ;
+    aa:material_description "Almost colorless" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Intaglio" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. 126" ;
+    aa:start_date "1500" ;
+    aa:start_mod "ca." ;
+    aa:summary "Triton and Nereid" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 27.784" ;
+    crm:P48_has_preferred_identifier "Boston 27.784" .
+
+aa:aa_1868 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 98.736" ;
+    aa:culture "Etruscan" ;
+    aa:dimensions "L. 0.019 m., W. 0.015 m., Th. 0.006 m." ;
+    aa:donor "Francis Bartlett Donation" ;
+    aa:end_date "-350" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scarab" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. pl. A, 21" ;
+    aa:start_date "-400" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "On the flat, Herakles, with his club, holding up the heavens, with Atlas, plucking the apples from a tree around which twines a three-headed serpent; on the convex, a beetle" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 98.736" ;
+    crm:P48_has_preferred_identifier "Boston 98.736" .
+
+aa:aa_1869 a aat:300011172,
+        crm:E22_Human-Made_Object ;
+    rdfs:label "Boston 99.357" ;
+    aa:culture "Greek" ;
+    aa:dimensions "L. 0.015 m., W. 0.012 m." ;
+    aa:donor "Henry Lillie Pierce Fund" ;
+    aa:end_date "-400" ;
+    aa:end_mod "ca." ;
+    aa:entered_by "Alan E. Kaiser/Josh Kallen" ;
+    aa:location "Perseus" ;
+    aa:material "Sard" ;
+    aa:material_description "Pale golden" ;
+    aa:perseus_version "4.6" ;
+    aa:sculpture_type "Scaraboid" ;
+    aa:sources_used "<bibl>Lewes 1920</bibl>, no. pl. A, 30" ;
+    aa:start_date "-420" ;
+    aa:start_mod "ca." ;
+    aa:style "Free Style" ;
+    aa:summary "A deer grazing" ;
+    aa:type "Gem" ;
+    crm:P10_has_current_keeper <https://www.wikidata.org/wiki/Q49133> ;
+    crm:P1i_is_identified_by "Boston 99.357" ;
+    crm:P48_has_preferred_identifier "Boston 99.357" .
+
