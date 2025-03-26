@@ -1,0 +1,153 @@
+@prefix aa: <http://perseus.tufts.edu/ns/aa/> .
+@prefix schema: <https://schema.org/> .
+
+aa:aa_3873 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.08.1401/full/max/0/default.jpg" .
+
+aa:aa_3874 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1994.01.0025/full/max/0/default.jpg" .
+
+aa:aa_3875 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.08.3003/full/max/0/default.jpg" .
+
+aa:aa_3876 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.08.3002/full/max/0/default.jpg" .
+
+aa:aa_3877 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0733/full/max/0/default.jpg" .
+
+aa:aa_3878 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.01.0111/full/max/0/default.jpg" .
+
+aa:aa_3879 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.08.3115/full/max/0/default.jpg" .
+
+aa:aa_3880 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1368/full/max/0/default.jpg" .
+
+aa:aa_3881 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.09.0038/full/max/0/default.jpg" .
+
+aa:aa_3882 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.08.0434/full/max/0/default.jpg" .
+
+aa:aa_3883 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0920/full/max/0/default.jpg" .
+
+aa:aa_3884 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.2111/full/max/0/default.jpg" .
+
+aa:aa_3885 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1999.09.0006/full/max/0/default.jpg" .
+
+aa:aa_3886 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1997.99.0237/full/max/0/default.jpg" .
+
+aa:aa_3887 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.08.4529/full/max/0/default.jpg" .
+
+aa:aa_3888 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0287/full/max/0/default.jpg" .
+
+aa:aa_3889 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1999.09.0023/full/max/0/default.jpg" .
+
+aa:aa_3890 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0155/full/max/0/default.jpg" .
+
+aa:aa_3891 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1439/full/max/0/default.jpg" .
+
+aa:aa_3892 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1318/full/max/0/default.jpg" .
+
+aa:aa_3893 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1993.01.0577/full/max/0/default.jpg" .
+
+aa:aa_3894 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0423/full/max/0/default.jpg" .
+
+aa:aa_3895 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0217/full/max/0/default.jpg" .
+
+aa:aa_3896 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0786/full/max/0/default.jpg" .
+
+aa:aa_3897 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0888/full/max/0/default.jpg" .
+
+aa:aa_3898 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0894/full/max/0/default.jpg" .
+
+aa:aa_3899 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1254/full/max/0/default.jpg" .
+
+aa:aa_3900 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.09.0625/full/max/0/default.jpg" .
+
+aa:aa_3901 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1286/full/max/0/default.jpg" .
+
+aa:aa_3902 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1990.30.0068/full/max/0/default.jpg" .
+
+aa:aa_3903 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1692/full/max/0/default.jpg" .
+
+aa:aa_3904 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1139/full/max/0/default.jpg" .
+
+aa:aa_3905 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1041/full/max/0/default.jpg" .
+
+aa:aa_3906 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1999.09.0002/full/max/0/default.jpg" .
+
+aa:aa_3907 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1999.09.0012/full/max/0/default.jpg" .
+
+aa:aa_3908 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0286/full/max/0/default.jpg" .
+
+aa:aa_3909 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0898/full/max/0/default.jpg" .
+
+aa:aa_3910 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1998.09.0112/full/max/0/default.jpg" .
+
+aa:aa_3911 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.09.2306/full/max/0/default.jpg" .
+
+aa:aa_3912 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1087/full/max/0/default.jpg" .
+
+aa:aa_3913 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.08.2419/full/max/0/default.jpg" .
+
+aa:aa_3914 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.09.0569/full/max/0/default.jpg" .
+
+aa:aa_3915 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1444/full/max/0/default.jpg" .
+
+aa:aa_3916 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0446/full/max/0/default.jpg" .
+
+aa:aa_3917 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1199/full/max/0/default.jpg" .
+
+aa:aa_3918 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1384/full/max/0/default.jpg" .
+
+aa:aa_3919 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1260/full/max/0/default.jpg" .
+
+aa:aa_3920 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1999.09.0013/full/max/0/default.jpg" .
+
+aa:aa_3921 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0208/full/max/0/default.jpg" .
+
+aa:aa_3922 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0264/full/max/0/default.jpg" .
+
+aa:aa_3923 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.09.0606/full/max/0/default.jpg" .
+
+aa:aa_3925 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1987.09.2282/full/max/0/default.jpg" .
+
+aa:aa_3926 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1183/full/max/0/default.jpg" .
+
+aa:aa_3927 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1179/full/max/0/default.jpg" .
+
+aa:aa_3928 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1419/full/max/0/default.jpg" .
+
+aa:aa_3929 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1990.33.1061/full/max/0/default.jpg" .
+
+aa:aa_3930 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.2116/full/max/0/default.jpg" .
+
+aa:aa_3931 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.0258/full/max/0/default.jpg" .
+
+aa:aa_3932 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1847/full/max/0/default.jpg" .
+
+aa:aa_3933 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1991.09.0882/full/max/0/default.jpg" .
+
+aa:aa_3934 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1999.09.0028/full/max/0/default.jpg" .
+
+aa:aa_3935 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.1958/full/max/0/default.jpg" .
+
+aa:aa_3936 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1991.09.0991/full/max/0/default.jpg" .
+
+aa:aa_3937 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1996.01.0001/full/max/0/default.jpg" .
+
+aa:aa_3938 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1999.09.0025/full/max/0/default.jpg" .
+
+aa:aa_3940 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1999.04.0311/full/max/0/default.jpg" .
+
+aa:aa_3941 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1990.27.0224/full/max/0/default.jpg" .
+
+aa:aa_3942 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1999.09.0004/full/max/0/default.jpg" .
+
+aa:aa_3943 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1992.02.0179/full/max/0/default.jpg" .
+
+aa:aa_3944 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1999.04.0378/full/max/0/default.jpg" .
+
+aa:aa_3945 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2000.04.2114/full/max/0/default.jpg" .
+
+aa:aa_3946 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1990.23.0114/full/max/0/default.jpg" .
+
+aa:aa_3947 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1992.02.0001/full/max/0/default.jpg" .
+
+aa:aa_3949 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/2002.01.0001/full/max/0/default.jpg" .
+
+aa:aa_3950 schema:thumbnail "https://iiif.perseus.tufts.edu/iiif/3/1999.04.0293/full/max/0/default.jpg" .
+
