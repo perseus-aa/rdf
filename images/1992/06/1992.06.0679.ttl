@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0679 a crm:E38_Image ;
+    rdfs:label "1992.06.0679" ;
+    crm:P1i_is_identified_by "1992.06.0679" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0679" ;
+    schema:caption "Detail of side B, left: an athlete, standing in a frontal pose, with his head profile to the right, holds a strigil in his lowered right hand and a pick (shown upside down) in his left hand; next to him stands another nude athlete, in a frontal pose, with his left hand on his hip and his right hand held up to his head" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

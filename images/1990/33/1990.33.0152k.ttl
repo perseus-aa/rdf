@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0152k a crm:E38_Image ;
+    rdfs:label "1990.33.0152k" ;
+    crm:P1i_is_identified_by "1990.33.0152k" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0152k" ;
+    schema:caption "Plan, Delphi, Treasury of the Corinthians (XXIV)" ;
+    schema:creditText "copyright D. Neel Smith 1988 drawn by M. W. Cutler and C. H. Smith based on  P. de la Coste Messelière, Au Musée de Delphes, Editions E. de Boccard 1970 plate L, in Coulton 1977 69 fig. 22 and also based on A. Tournaire, Bulletin de correspondance hellénique 1897 plate 14,  in N.D. Papachadzi 1981 287 fig.327 Temple of Apollo plan based on F. Courby, Relevés et restaurations, Fouilles de Delphes 1927, in N.D. Papachadzi 1981 366-367 fig. 405" .
+

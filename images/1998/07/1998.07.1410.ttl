@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.07.1410 a crm:E38_Image ;
+    rdfs:label "1998.07.1410" ;
+    crm:P1i_is_identified_by "1998.07.1410" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.07.1410" ;
+    schema:caption "Column of Trajan, looking NW across the remains of the Basilica Ulpia,  cupolas of the churches of Saint Mary of Loreto and of the Holy Name of Mary visible in the background, Imperial Fora, Forum of Trajan" ;
+    schema:creditText "Photograph by Maria Daniels" .
+

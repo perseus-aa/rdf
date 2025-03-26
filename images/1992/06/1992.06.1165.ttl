@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1165 a crm:E38_Image ;
+    rdfs:label "1992.06.1165" ;
+    crm:P1i_is_identified_by "1992.06.1165" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1165" ;
+    schema:caption "Detail of side B, right: a youthful satyr, running (or dancing?) to the left, shown in 3/4-view; he wears short boots (slippers?) and a white wreath on his head; in his upraised right hand he holds a basket from which vegetation protrudes" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

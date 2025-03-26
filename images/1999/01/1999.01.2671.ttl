@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.2671 a crm:E38_Image ;
+    rdfs:label "1999.01.2671" ;
+    crm:P1i_is_identified_by "1999.01.2671" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.2671" ;
+    schema:caption "Detail of the niche in the north wall of the shop (II IX 2, Hadrianic) fronting the reception hall of the Hall of Mars and Venus (4th century A.D.). Ostia, Botteghe." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

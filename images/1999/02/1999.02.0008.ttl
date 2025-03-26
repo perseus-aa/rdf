@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.02.0008 a crm:E38_Image ;
+    rdfs:label "1999.02.0008" ;
+    crm:P1i_is_identified_by "1999.02.0008" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.02.0008" ;
+    schema:caption "East side of the Plaza of the Corporations, a complex built originally in the Augustan period and modified several times during the Empire, and the Via delle Corporazioni (right), view from the cavea of the Theater facing north. Ostia, Via delle Corporazioni, Plaza of the Corporations, Via delle Corporazioni, Piazzale delle Corporazioni." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

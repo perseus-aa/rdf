@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2001.32.0001 a crm:E38_Image ;
+    rdfs:label "2001.32.0001" ;
+    crm:P1i_is_identified_by "2001.32.0001" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2001.32.0001" ;
+    schema:caption "Plan of the Giza Necropolis showing the excavation concession of the Boston Museum of Fine Arts (based on G.A. Reisner, A History of the Giza Necropolis I, 1942, General Map of the Giza Necropolis)" ;
+    schema:creditText "None" .
+

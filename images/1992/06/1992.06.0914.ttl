@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0914 a crm:E38_Image ;
+    rdfs:label "1992.06.0914" ;
+    crm:P1i_is_identified_by "1992.06.0914" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0914" ;
+    schema:caption "Figural scene on side A, right of center: another youthful hunter, shown in 3/4-back view, wearing leather boots, a chlamys, and a pilos (which falls from his head), drops his club and flees to the right, pursued by a hunting dog" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

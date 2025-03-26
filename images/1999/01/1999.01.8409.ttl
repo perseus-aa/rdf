@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.8409 a crm:E38_Image ;
+    rdfs:label "1999.01.8409" ;
+    crm:P1i_is_identified_by "1999.01.8409" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.8409" ;
+    schema:caption "Hadrianic basin at the south end of the Courtyard of Dionysus, originally the peristyle garden of a late republican domus, view from the west end facing east towards the House of the Sacellum. Ostia, Cortile del Dioniso, Insula del Sacello, IV V 4." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

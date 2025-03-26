@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1401 a crm:E38_Image ;
+    rdfs:label "1992.06.1401" ;
+    crm:P1i_is_identified_by "1992.06.1401" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1401" ;
+    schema:caption "Detail of neck, side A, left: a bearded man wearing a himation draped diagonally, holding a spear upright in his left hand, stands profile to the right; a bearded man, wearing a himation over a floral undergarment, holding a spear upright in his left hand, stands profile to the right; an armed warrior, holding a spear diagonally in his right hand, and a shield on his left arm, runs profile to the right; a folding stool is below him" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2000.11.0513 a crm:E38_Image ;
+    rdfs:label "2000.11.0513" ;
+    crm:P1i_is_identified_by "2000.11.0513" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2000.11.0513" ;
+    schema:caption "Platform of the Roman temple (Capitolium?) at Aosta, where it disappears under the Piazza della Cattedrale: view from the Northeast, Forum, Aosta." ;
+    schema:creditText "Photograph by Amy C. Smith" .
+

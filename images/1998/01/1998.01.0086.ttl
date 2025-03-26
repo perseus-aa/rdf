@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0086 a crm:E38_Image ;
+    rdfs:label "1998.01.0086" ;
+    crm:P1i_is_identified_by "1998.01.0086" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0086" ;
+    schema:caption "Relief showing male and a female figure feasting, a snake below the couch, and two worshippers approaching (top left); Relief showing a male figure on a bed and a female figure on a stool, at a banquet (top right); Relief depicting a male and a female figure feasting, attended by two worshippers (bottom left); Relief depicting a male and a female figure feasting, attended by seven (?) worshippers (bottom right)" ;
+    schema:creditText "From Svoronos 1903-12, pl. 86" .
+

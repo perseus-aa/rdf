@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0196 a crm:E38_Image ;
+    rdfs:label "1992.06.0196" ;
+    crm:P1i_is_identified_by "1992.06.0196" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0196" ;
+    schema:caption "Detail of side B, right: a cavalryman wearing a red tunic and a white pilos, carrying a spear, rides his horse profile to the right; a hoplite, with a white bee emblazoned on his shield, runs profile to the right, but turns his head profile to the left, and aims his spear horizontally, at the cavalryman behind him; a palmette" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

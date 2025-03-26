@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0666 a crm:E38_Image ;
+    rdfs:label "1992.06.0666" ;
+    crm:P1i_is_identified_by "1992.06.0666" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0666" ;
+    schema:caption "View of side B, from below: a woman standing in 3/4-view to the right, in front of a klismos (chair), wearing a himation over a chiton, holds a unidentifiable object in her left hand; she faces another woman, who stands 3/4-view to the left, and reaches her right hand our in front of her; an Ionic column divides this woman from a third woman, who, dressed similarly to the first two, but also wears a sakkos on her head, stands in a frontal view, with her head turned profile to the left, and raises her arms, as if in fright" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

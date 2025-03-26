@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0492B.lg a crm:E38_Image ;
+    rdfs:label "1990.33.0492B.lg" ;
+    crm:P1i_is_identified_by "1990.33.0492B.lg" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0492B.lg" ;
+    schema:caption "Side B: drawing of Pan pursuing goatherd (large)" ;
+    schema:creditText "copyright C.H. Smith 1988, based on Reichhold (artist) 1909 in FR pl. 115" .
+

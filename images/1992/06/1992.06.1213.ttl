@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1213 a crm:E38_Image ;
+    rdfs:label "1992.06.1213" ;
+    crm:P1i_is_identified_by "1992.06.1213" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1213" ;
+    schema:caption "Close-up view of neck, side A: naked woman, with long hair and a wreath, standing profile to the right, holding (in her right hand) a flower to her nose, while her left hand reaches down to a dog" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

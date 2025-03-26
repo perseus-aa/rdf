@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0101 a crm:E38_Image ;
+    rdfs:label "1998.01.0101" ;
+    crm:P1i_is_identified_by "1998.01.0101" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0101" ;
+    schema:caption "Top: Votive relief to Herakles depicting Herakles and worshippers at a shrine; Bottom left: A Palladion inscribed on a column drum showing Athena Promachos standing in a frontal pose; Bottom right: Tyche (of Melos) under a baldacchino, inscribed on a column drum." ;
+    schema:creditText "From Svoronos 1903-12, pl. 101" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1997.03.2758 a crm:E38_Image ;
+    rdfs:label "1997.03.2758" ;
+    crm:P1i_is_identified_by "1997.03.2758" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1997.03.2758" ;
+    schema:caption "Reverse: Constantine II, with a trophy and a panther at his feet, presents Constantine the Great, enthroned and holding a scepter, with a phoenix on a globe" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Museum of Fine Arts, Boston" .
+

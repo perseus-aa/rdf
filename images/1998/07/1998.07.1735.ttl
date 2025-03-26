@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.07.1735 a crm:E38_Image ;
+    rdfs:label "1998.07.1735" ;
+    crm:P1i_is_identified_by "1998.07.1735" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.07.1735" ;
+    schema:caption "So-called \"Grove of Marsyas\", looking N past copy of Lacus Curtius relief, Roman Forum Square" ;
+    schema:creditText "Photograph by Maria Daniels" .
+

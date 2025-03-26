@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.8434 a crm:E38_Image ;
+    rdfs:label "1999.01.8434" ;
+    crm:P1i_is_identified_by "1999.01.8434" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.8434" ;
+    schema:caption "South bench (with mosaic decoration) of the Mithraeum of the Seven Gates, built ca. A.D. 160-170, view from the entrance facing southeast. Ostia, IV V 13, Mitreo delle Sette Porte." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

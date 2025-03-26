@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0054.sm a crm:E38_Image ;
+    rdfs:label "1990.33.0054.sm" ;
+    crm:P1i_is_identified_by "1990.33.0054.sm" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0054.sm" ;
+    schema:caption "Plan showing locations of statue bases and rock cuttings in the vicinity of the Parthenon, composite of periods (sm.), Athens, Parthenon" ;
+    schema:creditText "copyright Perseus Project 1989, drawn by C. H. Smith and M. W. Cutler Parthenon based on J.A. Bundgaard 1976 plate J, and on Marquand, Handbook of Greeka Architecture fig. 307, in A.W. Lawrence 1983 202 fig. 169 cuttings north of the Parthenon based on Stevens (artist) in G.P. Stevens 1940 41 fig. 32 East steps from entrance court based on Stevens (artist) in G.P. Stevens 1940 26 fig. 20" .
+

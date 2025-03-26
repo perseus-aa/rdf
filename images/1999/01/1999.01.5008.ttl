@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.5008 a crm:E38_Image ;
+    rdfs:label "1999.01.5008" ;
+    crm:P1i_is_identified_by "1999.01.5008" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.5008" ;
+    schema:caption "Southeast corner of room 8 of the Hadrianic Insula of the Yellow Walls, with paintings executed in the late 3rd or early 4th century A.D. (south wall) and the Severan period (east wall).    Ostia, III IX 12, Insula delle Pareti Gialle, Insula of the Yellow Walls." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

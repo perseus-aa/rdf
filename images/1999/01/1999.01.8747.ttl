@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.8747 a crm:E38_Image ;
+    rdfs:label "1999.01.8747" ;
+    crm:P1i_is_identified_by "1999.01.8747" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.8747" ;
+    schema:caption "Detail of the columns at the south end of the peristyle of the House of the Stucco Capitals, originally constructed in the 2nd cent., B.C. side column in tufa (left) and corner column in travertine (right). Ostia, Domus dei Capitelli di stucco, V VII 4." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

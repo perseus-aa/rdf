@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.3974 a crm:E38_Image ;
+    rdfs:label "1999.01.3974" ;
+    crm:P1i_is_identified_by "1999.01.3974" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.3974" ;
+    schema:caption "Detail of a Greek inscription (ca. 100-75 B.C.) on one of the three travertine blocks beneath the podium of the Temple of the Round Altar (built ca. 100 B.C. and rebuilt ca. A.D. 100), indicating that the block was the base for a portrait statue of Greek origin. Ostia, I XV 6, Tempio dell'Ara rotonda, Temple of the Round Altar." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

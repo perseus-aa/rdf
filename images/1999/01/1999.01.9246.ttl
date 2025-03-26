@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.9246 a crm:E38_Image ;
+    rdfs:label "1999.01.9246" ;
+    crm:P1i_is_identified_by "1999.01.9246" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.9246" ;
+    schema:caption "North rooms of the House of the Dog Monnus, a Trajanic building/ workshop built into the east block of the Republican Stores (with some additions in the early 3rd cent. A.D.), view from the east wall facing southwest. Ostia, Caseggiato del Cane Monnus, II I 1." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

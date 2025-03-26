@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1299 a crm:E38_Image ;
+    rdfs:label "1992.06.1299" ;
+    crm:P1i_is_identified_by "1992.06.1299" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1299" ;
+    schema:caption "Detail of side B, left: Two satyrs, one profile to the left, with his head frontally posed, and one profile to the right; Dionysos, standing profile to the right, wearing a himation over an undergarment, and an ivy wreath, and holding a rhyton in his left hand" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

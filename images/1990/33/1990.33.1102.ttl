@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1102 a crm:E38_Image ;
+    rdfs:label "1990.33.1102" ;
+    crm:P1i_is_identified_by "1990.33.1102" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1102" ;
+    schema:caption "Phaistos, Palace, plan, composite of Protopalatial, First Palace and Second Palace phases' remains including Geometric houses to the west" ;
+    schema:creditText "copyright Perseus Project 1990, drawn by M.W. Cutler, based on Doro Levi, Festos e la civilta minoica 1, plan B, Incunabula Graeca 60, Rome 1976, and Luigi Pernier, Il Palazzo Minoico di Festos 1, plate 5 Rome, 1935, in <PBibRef>G.C. Gesell1985</PBibRef> 122,123,126 plates 66,67,69, and also based on J.W. Graham (artist), based on Luigi Pernier, Il Palazzo Minoico di Festos 1, Plate 2 Rome, 1935, in <PBibRef>J.W. Graham 1969</PBibRef> plate 4" .
+

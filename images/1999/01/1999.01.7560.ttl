@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.7560 a crm:E38_Image ;
+    rdfs:label "1999.01.7560" ;
+    crm:P1i_is_identified_by "1999.01.7560" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.7560" ;
+    schema:caption "Shops on the west side of the House of the Windowed Shops, a late Trajanic commercial building built over a late-republican domus, view from the central corridor (aka angiportus) facing northwest. Ostia, Caseggiato delle Botteghe Finestrate, IV V 18." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

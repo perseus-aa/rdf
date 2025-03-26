@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.3644 a crm:E38_Image ;
+    rdfs:label "1999.01.3644" ;
+    crm:P1i_is_identified_by "1999.01.3644" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.3644" ;
+    schema:caption "Via delle Casette Reppublicane, formerly the internal pomerial road of the castrum (4th century B.C.), view from the west end facing east towards the Hadrianic Capitolium. Ostia, Capitolium, Via delle Casette Repubblicane." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

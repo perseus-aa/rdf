@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.3841 a crm:E38_Image ;
+    rdfs:label "1999.01.3841" ;
+    crm:P1i_is_identified_by "1999.01.3841" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.3841" ;
+    schema:caption "North end of the west portico of the House of the Port Mosaic built under Commodus and renovated in the mid-third century A.D., view from the Via della Foce facing northeast. Ostia, Casa del Mosaico del Porto, House of the Port Mosaic, I XIV 2." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

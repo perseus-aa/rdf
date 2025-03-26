@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.2570 a crm:E38_Image ;
+    rdfs:label "1999.01.2570" ;
+    crm:P1i_is_identified_by "1999.01.2570" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.2570" ;
+    schema:caption "Detail of the blocked doorway in the east wall of the entrance to the Shrine of Silvanus, built into the alley between the House of Diana and the House of the Mills in the Severan period. Ostia, I III 2, Sacello del Silvano, Shrine of Silvanus." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

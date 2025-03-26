@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0367a a crm:E38_Image ;
+    rdfs:label "1990.33.0367a" ;
+    crm:P1i_is_identified_by "1990.33.0367a" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0367a" ;
+    schema:caption "Plan, Thermon, Bouleuterion" ;
+    schema:creditText "copyright D. Neel Smith 1989, drawn by M. W. Cutler and C. H. Smith based on Coulton (artist) based on Greek Land Expropriation Survey, in J.J. Coulton 1976 293 fig. 119 Temple of Apollo area, based on Dinsmoor 1975 42 fig. 14 Temple of Apollo, based on W.B. Dinsmoor, The Architecture of Ancient Greece, London and New York, 1950, in A.W. Lawrence 1983 124 fig. 86" .
+

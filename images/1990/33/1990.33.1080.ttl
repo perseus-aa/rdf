@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1080 a crm:E38_Image ;
+    rdfs:label "1990.33.1080" ;
+    crm:P1i_is_identified_by "1990.33.1080" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1080" ;
+    schema:caption "Overview, site, Perachora" ;
+    schema:creditText "copyright D. Neel Smith 1989, drawn by M. W. Cutler based on Piet de Jong (artist)1939, in H. Payne 1940 Circular Building, based on R.A. Tomlinson (artist) and N. Zimbler (artist) in R.A. Tomlinson and K. Demakopoulou 1985 270 fig.6 Double-Apsidal Cistern and drain, based on B. Timmins (artist), in R.A. Tomlinson 1969 157 fig. 1 Fountainhouse, based on B. Timmins (artist), in R.A.Tomlinson 1969 204 fig. 19 Geometric Temple of Hera Akraia, based on Piet de Jong (artist), in H. Payne 1940 Harbor area based on Salviat (artist), in  H. Plommer and F Salviat 1966 208 fig. 1 Hestiatorion, based on Timmins (artist), in R.A. Tomlinson 1969 167 fig. 5 Stoa, based on Coulton (artist), in J.J. Coulton 1964 plate 26 Temple of Hera Akraia, based on Piet de Jong (artist), in H. Payne 1940 Triglyph Altar of Hera Akraia, based on F. Salviat (artist), in H. Plommer and F. Salviat 1966 211 fig. 3 West Court, (the Agora) all phases, based on Coulton (artist), in J.J. Coulton 1967 366 figs. 11-12D" .
+

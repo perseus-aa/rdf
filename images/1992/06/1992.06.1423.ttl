@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1423 a crm:E38_Image ;
+    rdfs:label "1992.06.1423" ;
+    crm:P1i_is_identified_by "1992.06.1423" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1423" ;
+    schema:caption "Detail of side B, top center: upper half of a youthful Lapith, shown in 3/4-back view to the right, wearing a cloth tied around his waist and an Attic helmet, holding a broad sword in his upraised right hand and a shield on his left arm" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

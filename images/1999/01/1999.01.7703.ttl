@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.7703 a crm:E38_Image ;
+    rdfs:label "1999.01.7703" ;
+    crm:P1i_is_identified_by "1999.01.7703" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.7703" ;
+    schema:caption "Southeast facade of the Insula of the Graffito (ca. A.D. 128), view from the upper level of the Insula of the Painted Vaults facing west. Ostia, III IX 21, Insula del Graffito." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

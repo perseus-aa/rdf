@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.6283 a crm:E38_Image ;
+    rdfs:label "1999.01.6283" ;
+    crm:P1i_is_identified_by "1999.01.6283" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.6283" ;
+    schema:caption "South porticoed facade of the market/warehouse at the north end of the Via della Foce (ca. A.D. 125), and the Baths (I XIX 5) built into it in the 4th cent. A.D. (roof at center), view from the intersection of the Via della Foce and the Via del Serapide facing northeast. Ostia, Horrea (I XX 1), Terme (I XIX 5)." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

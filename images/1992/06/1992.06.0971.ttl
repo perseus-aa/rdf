@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0971 a crm:E38_Image ;
+    rdfs:label "1992.06.0971" ;
+    crm:P1i_is_identified_by "1992.06.0971" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0971" ;
+    schema:caption "Detail of figural scene: the opened right half of a door reveals a bed piled high with pillows; beyond sits a woman, profile to the right on a klismos, wearing a himation over a medium-sleeved chiton, and a taenia; she holds a spindle in her left hand, reaches to her neck with her left hand, and turns her head to a frontal view; a similarly dressed woman stands 3/4-view to the left, holding a hand loom in her lowered right hand" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

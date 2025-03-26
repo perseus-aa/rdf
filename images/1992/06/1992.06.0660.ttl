@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0660 a crm:E38_Image ;
+    rdfs:label "1992.06.0660" ;
+    crm:P1i_is_identified_by "1992.06.0660" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0660" ;
+    schema:caption "View of side B, right: two youths, both wrapped in himation, stand together; the first, show profile to the left, tilts his head down slightly, and holds a staff beneath his right arm; the second, standing in a frontal pose, with his head turned profile to the right, reaches to touch the first youth on the shoulder" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.09.0002 a crm:E38_Image ;
+    rdfs:label "1998.09.0002" ;
+    crm:P1i_is_identified_by "1998.09.0002" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.09.0002" ;
+    schema:caption "Modern casing over ancient seats in theater, Sagunto (Saguntum)" ;
+    schema:creditText "Photograph by Alan Kaiser" .
+

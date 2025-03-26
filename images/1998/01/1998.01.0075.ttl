@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0075 a crm:E38_Image ;
+    rdfs:label "1998.01.0075" ;
+    crm:P1i_is_identified_by "1998.01.0075" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0075" ;
+    schema:caption "Top: Votive relief from Gytheion showing Demeter, Kerberos, Kore, Agathokleia, (So)sikrates (?), and Nike (?); Bottom: Heroized Youth on a Relief from Loukou showing youth in a frontal pose, wearing a chlamys, in a garden, with his horse, surrounded by a snake, a tree, and a slave boy" ;
+    schema:creditText "From Svoronos 1903-12, pl. 75" .
+

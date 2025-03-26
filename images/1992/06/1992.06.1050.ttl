@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1050 a crm:E38_Image ;
+    rdfs:label "1992.06.1050" ;
+    crm:P1i_is_identified_by "1992.06.1050" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1050" ;
+    schema:caption "Detail of the figural scene, center: within a naiskos sits a bearded, long-haired man, near profile to the right, on a klismos, playing a lyre; he wears calf-length boots, a himation around his lower body, and a narrow, white, wreath around his crown" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

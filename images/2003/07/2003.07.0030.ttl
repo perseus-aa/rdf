@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2003.07.0030 a crm:E38_Image ;
+    rdfs:label "2003.07.0030" ;
+    crm:P1i_is_identified_by "2003.07.0030" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2003.07.0030" ;
+    schema:caption "View of the Roman Forum from E of the Temple of Julius Caesar, within the Regia. Forum Romanum, Roma. Roman Forum, Rome." ;
+    schema:creditText "Courtesy of the UCLA Cultural Virtual Reality Laboratory" .
+

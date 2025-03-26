@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0968 a crm:E38_Image ;
+    rdfs:label "1992.06.0968" ;
+    crm:P1i_is_identified_by "1992.06.0968" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0968" ;
+    schema:caption "Detail of figural scene: a woman, seated profile to the right, wearing a himation over a sleeveless chiton, and a sphendone in her hair; a lekythos hangs (on the wall) above her; a woman standing in a frontal pose, with her head profile to the left, wears a sleevless chiton and a kekryphylon, and folds a sheet (?); another woman, standing profile to the left, wearing a peplos and a taenia, holds a footed box" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

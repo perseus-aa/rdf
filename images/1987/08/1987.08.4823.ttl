@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1987.08.4823 a crm:E38_Image ;
+    rdfs:label "1987.08.4823" ;
+    crm:P1i_is_identified_by "1987.08.4823" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1987.08.4823" ;
+    schema:caption "Collapsed stairway of house NE of Ship Fresco House, Akrotiri, Thera, Xeste 1" ;
+    schema:creditText "Photograph courtesy of Thomas Martin and Ivy S. Sun" .
+

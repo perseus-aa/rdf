@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1046 a crm:E38_Image ;
+    rdfs:label "1990.33.1046" ;
+    crm:P1i_is_identified_by "1990.33.1046" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1046" ;
+    schema:caption "Overview plan, Delphi" ;
+    schema:creditText "copyright D. Neel Smith 1989, drawn by M. W. Cutler and C. H. Smith based on Andrikakis (artist) in N.D. Papachadzi 1981 294-295 fig.331 Gymnasium based on Andrikakis (artist ) based on J. Jannoray, Le Gymnase, Fouilles de Delphes 1953 36-40, 83, in N.D. Papachadzi 1981 307 fig. 50 Kastalian fountains based on P. Amandry, Bulletin de correspondance hellénique 1978 222, in N.D. Papachadzi 1981 310 fig. 356 Sanctuary of Athena Pronaia, based on P. de la Coste Messelière 1943 332, and also based on Kontouri (artist), in N.D. Papachadzi 1981 299 fig 333 Sanctuary of Apollo, based on  P. de la Coste Messelière, Au Musée de Delphes, Editions E. de Boccard 1970 plate L, in Coulton 1977 69 fig. 22, and also based on A. Tournaire, Bulletin de correspondance hellénique 1897 plate 14,  in N.D. Papachadzi 1981 287 fig.327 Stadium, based on Bulletin de correspondance hellénique1972  fig. 16, in N.D. Papachadzi 1981 415  fig. 435 Temple of Apollo,  based on F. Courby, Relevés et restaurations, Fouilles de Delphes 1927, in N.D. Papachadzi 1981 366-367 fig. 405 Tholos, based on K. Gottlob, Relevés et restaurations, 1925, in N.D. Papachadzi 1981 305 fig.34 Treasury of the Athenians, based on Coulton (artist) based on R. Koldowey and O. Puchstein, Griechisches Tempel in Unteritalien und Sicilien, 1899  plates 17,23 and on J. Audiat, Le Trésor des Athéniens, Fouilles de Delphes, Écoles franᷗaise d'Athènes 1933 plate 3, in Coulton 1977 81 fig. 28c" .
+

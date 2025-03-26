@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.6496 a crm:E38_Image ;
+    rdfs:label "1999.01.6496" ;
+    crm:P1i_is_identified_by "1999.01.6496" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.6496" ;
+    schema:caption "Hadrianic shop (III VI 2, third from east) fronting the House of the Nymphaeum (4th cent. A.D.) on the Decumanus, view from the Decumanus facing north. Ostia, Botteghe (III VI 2), III VI 2." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

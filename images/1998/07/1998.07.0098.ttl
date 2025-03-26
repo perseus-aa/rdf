@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.07.0098 a crm:E38_Image ;
+    rdfs:label "1998.07.0098" ;
+    crm:P1i_is_identified_by "1998.07.0098" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.07.0098" ;
+    schema:caption "Apse for cult statue of Mars and five steps leading to it, with remains of cella walls at sides and boundary wall beyond, looking NE from NW side of Temple of Mars Ultor, Imperial Fora, Forum of Augustus" ;
+    schema:creditText "Photograph by Maria Daniels" .
+

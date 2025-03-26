@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.8809 a crm:E38_Image ;
+    rdfs:label "1999.01.8809" ;
+    crm:P1i_is_identified_by "1999.01.8809" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.8809" ;
+    schema:caption "East caldarium (with semicircular exedra) of the Baths of the Swimmer (built ca. A.D. 89-90, modified several times in the 2nd cent. A.D., and abandoned ca. A.D. 230-250), view from the laconicum facing east towards the cistern (background left). Ostia, Terme del Nuotatore, V X 3." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

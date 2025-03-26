@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2000.02.0013 a crm:E38_Image ;
+    rdfs:label "2000.02.0013" ;
+    crm:P1i_is_identified_by "2000.02.0013" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2000.02.0013" ;
+    schema:caption "Theseus examining his father's sword" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Museum of Fine Arts, Boston" .
+

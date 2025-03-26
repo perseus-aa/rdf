@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1090 a crm:E38_Image ;
+    rdfs:label "1990.33.1090" ;
+    crm:P1i_is_identified_by "1990.33.1090" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1090" ;
+    schema:caption "Overview, composite of phases, Sesklo" ;
+    schema:creditText "copyright Perseus Project 1989, drawn by M. W. Cutler based on Theocharis (artist) in D.R. Theocharis 1973 fig. 176 Acropolis, based on Theocharis (artist) after C. Tsountas, The Prehistoric Acropoleis of Dimini and Sesklo, Athens 1908, in D.R. Theocharis 1973 fig. 177 dwellings to SW, based on Theocharis (artist) in D.R. Theocharis 1973 fig. 179 " .
+

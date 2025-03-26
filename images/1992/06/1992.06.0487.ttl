@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0487 a crm:E38_Image ;
+    rdfs:label "1992.06.0487" ;
+    crm:P1i_is_identified_by "1992.06.0487" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0487" ;
+    schema:caption "Detail of the figural scene, right of center: Iolaos advancing profile to the left, grasping the Hydra with his upraised right hand; he wears greaves, a chlamys over a short tunic, a sword on his left hip, and a Corinthian helmet; he holds a torch in his upraised left hand, behind him" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

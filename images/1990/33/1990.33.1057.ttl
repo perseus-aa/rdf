@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1057 a crm:E38_Image ;
+    rdfs:label "1990.33.1057" ;
+    crm:P1i_is_identified_by "1990.33.1057" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1057" ;
+    schema:caption "Plan of Sanctuary of Apollo Maleates, Epidauros" ;
+    schema:creditText "copyright C. H. Smith 1989, based on Inscriptiones Graecae IV 1 plate 3, in N.D. Papachadzi 1976 214 fig. 243" .
+

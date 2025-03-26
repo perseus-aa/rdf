@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1425 a crm:E38_Image ;
+    rdfs:label "1992.06.1425" ;
+    crm:P1i_is_identified_by "1992.06.1425" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1425" ;
+    schema:caption "Detail of side B, top right: upper half of a bearded, balding centaur, with a wound on his right chest, crouched on the ground to the right, turning his head profile to the left" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

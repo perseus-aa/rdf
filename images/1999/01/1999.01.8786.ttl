@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.8786 a crm:E38_Image ;
+    rdfs:label "1999.01.8786" ;
+    crm:P1i_is_identified_by "1999.01.8786" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.8786" ;
+    schema:caption "Via del Mitreo dei Serpenti, including the east facade of an early Antonine building (V VI 3) of unknown function (left), view from the intersection with the Via della Fortuna Annonaria facing north. Ostia, Via del Mitreo dei Serpenti." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

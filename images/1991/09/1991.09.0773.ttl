@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1991.09.0773 a crm:E38_Image ;
+    rdfs:label "1991.09.0773" ;
+    crm:P1i_is_identified_by "1991.09.0773" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1991.09.0773" ;
+    schema:caption "View from Upper Gymnasium toward E and along city street leading down to East Gate, Priene" ;
+    schema:creditText "Photograph by Don Keller" .
+

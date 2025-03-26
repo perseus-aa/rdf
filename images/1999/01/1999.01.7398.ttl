@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.7398 a crm:E38_Image ;
+    rdfs:label "1999.01.7398" ;
+    crm:P1i_is_identified_by "1999.01.7398" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.7398" ;
+    schema:caption "Rooms fronting the republican house (2nd century B.C.) into which the Mithraeum of the Painted Walls was inserted in the Antonine period, internal view facing northeast towards the Via della Foce. Ostia, Casa repubblicana, III I 6." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

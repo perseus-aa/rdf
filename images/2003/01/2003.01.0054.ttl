@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2003.01.0054 a crm:E38_Image ;
+    rdfs:label "2003.01.0054" ;
+    crm:P1i_is_identified_by "2003.01.0054" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2003.01.0054" ;
+    schema:caption "View of the Roman Forum from E of the Temple of Julius Caesar, within the Regia (not shown), at 2:00 pm on December 21, AD 400. Arch of Augustus, Arcus Augusti, Basilica Emilia, Basilica Aemilia, Forum Romanum, Roma, Roman Forum, Rome, Temple of Castor, Aedes Castoris, Castor, Aedes, Templum, Temple of Divus Antoninus Pius and Diva Faustina, Aedes Divi Antonini et Divae Faustinae, Antoninus et Faustina, Templum, Temple of Julius Caesar, Aedes Divi Iulii, Iulius, Divus, Aedes, Temple of Vesta, Aedes Vestae, Vesta, Aedes." ;
+    schema:creditText "Courtesy of the UCLA Cultural Virtual Reality Laboratory" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.6558 a crm:E38_Image ;
+    rdfs:label "1999.01.6558" ;
+    crm:P1i_is_identified_by "1999.01.6558" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.6558" ;
+    schema:caption "Nymphaeum (3rd-4th century A.D., right) built onto the north end of the Sanctuary of the Bona Dea (Julio-Claudian, entrance at left) outside the Porta Marina, view from the Decumanus facing south. Ostia, IV VIII 3, IV VIII 4, Ninfeo, Santuario della Bona Dea." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

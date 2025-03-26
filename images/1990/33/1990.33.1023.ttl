@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1023 a crm:E38_Image ;
+    rdfs:label "1990.33.1023" ;
+    crm:P1i_is_identified_by "1990.33.1023" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1023" ;
+    schema:caption "Acropolis, Composite plan, Athens" ;
+    schema:creditText "copyright Perseus Project 1989, drawn by M. W. Cutler, C. H. Smith, and C. Ratté based on Perseus Project 1989, \"Architecture, Athens, Acrop, Acrop phases, Athens Acrop Periclean art\" based on N.D. Papachadzi 1974 314 fig. 178, and on Travlos (artist) in Travlos 61 fig. 71, and on G.P. Stevens 1940 89 fig. 66 and on G.P. Stevens 1936 519 fig. 66 480 B.C. remains, based on N.D. Papachadzi 1974 314 fig. 177, and on J. Travlos 1967 (artist) in Travlos 61 fig. 71 Acropolis Geometric and Archaic phase remains based on N.D. Papachadzi 1974 313 fig. 176 Acropolis remains of 2nd Mycenaean period (LH II) based on N.D. Papachadzi 1974 313 fig. 174 Acropolis remains of 1230-140 B.C phase, based on N.D. Papachadzi 1974 313 fig. 175 Archaic Propylon, based on Dinsmoor (artist)1977, in W.B. Dinsmoor 1980 plate 16 Chalkotheke, based on G.P. Stevens 1940 15 fig. 11 Pandion, based on G.P. Stevens (artist) in G.P. Stevens 1946 25 fig. 23 Parthenon, based on J.A. Bundgaard 1976 plate J, and on Marquand, Handbook of Greek Architecture fig. 307, in A.W. Lawrence 1983 202 fig. 169 and  on J. Travlos (artist) in Travlos 446 fig. 564 Propylaia, based on J. Travlos 1968 (artist) in Travlos 487 fig. 614 Pre-Parthenon, based on J. Travlos (artist) in Travlos 446 fig. 564, and on Dinsmoor (artist) in B.H. Hill 1912 535-558 plate 9 Sanctuary of Zeus Polieus, based on  G.P. Stevens 1940 79-87 figs. 62,64,65 Sanctuary of Artemis Brauronia, based on J. Travlos 1968 (artist) in Travlos 125 fig. 169 Temple of Athena Nike, based on J. Travlos (artist) in Travlos 153 fig. 205, and on N.D. Papachadzi 1974 322 fig 184 Temple of Athena Nike (early), based on J. Travlos 1968 (artist) in Travlos 150 fig. 200 Old Temple of Athena, based on N.D. Papachadzi 1974 354 fig. 210" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1033 a crm:E38_Image ;
+    rdfs:label "1992.06.1033" ;
+    crm:P1i_is_identified_by "1992.06.1033" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1033" ;
+    schema:caption "The figural scene on side B: three youths wearing himatia; the first and last holds strigils; the middle one, standing in a frontal pose, with his head turned profile to the right, is slightly shorter than the others" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

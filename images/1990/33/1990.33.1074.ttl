@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1074 a crm:E38_Image ;
+    rdfs:label "1990.33.1074" ;
+    crm:P1i_is_identified_by "1990.33.1074" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1074" ;
+    schema:caption "Plan of Sanctuary of Zeus (showing building south of the Temple which were bounded in by later defences against the Herulians), Olympia" ;
+    schema:creditText "copyright C. H. Smith 1988 basedon E. Mallwitz (artist), in A. Mallwitz 1972 112 fig. 87" .
+

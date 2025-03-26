@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0038 a crm:E38_Image ;
+    rdfs:label "1992.06.0038" ;
+    crm:P1i_is_identified_by "1992.06.0038" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0038" ;
+    schema:caption "Top frieze, part 2: behind the hoplites is a man on horseback, shown profile to the left, holding a shield on his left arm and a spear in his right arm; a flying bird follows him; to the right is the beginning of a battle between lapiths and centaurs" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0097 a crm:E38_Image ;
+    rdfs:label "1998.01.0097" ;
+    crm:P1i_is_identified_by "1998.01.0097" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0097" ;
+    schema:caption "Top: Relief in the form of a cavewith Pan, satyr, and the nymphs; Bottom left: Fragment of a nymph relief with the legs of Hermes, , wearing a chlamys, running in 3/4-view to the left; Bottom center: Fragment of a relief showing a nymph dancing in 3/4-view to the left; Lower right: Fragment of a nymph relief with Nude Pan advancing in 3/4-view to the right." ;
+    schema:creditText "From Svoronos 1903-12, pl. 97" .
+

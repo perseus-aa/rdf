@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0019 a crm:E38_Image ;
+    rdfs:label "1998.01.0019" ;
+    crm:P1i_is_identified_by "1998.01.0019" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0019" ;
+    schema:caption "(1, 7, 15): Marble arm (2):Marble arm without a hand (3, 4, 5): Marble elbow (6): Marble upper arm, with shoulder (8): Marble forearm and hand (9): Marble right hand and wrist, with some drapery (10): Marble right hand (11): Marble left hand with some drapery (12): Marble forearm with elbow (13): Marble hand and wrist (14): Marble right hand grasping some drapery (16): Marble left arm (17, 20, 26): Marble calf of leg (18, 19): Marble thigh and knee (21, 22): Marble calf, ankle, and foot (23): Marble calf of leg,  attached to part of a strut (24, 25): Marble calf with part of a foot (27): Marble forepart of a foot, with toes, (28): Marble right foot with part of a plinth (29): Marble left foot, (30): Marble fragment of a left foot with some plinth (31): Marble fragment of a child's foot with some plinth" ;
+    schema:creditText "From Svoronos 1903-12, pl. 19" .
+

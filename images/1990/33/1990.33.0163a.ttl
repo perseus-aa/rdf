@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0163a a crm:E38_Image ;
+    rdfs:label "1990.33.0163a" ;
+    crm:P1i_is_identified_by "1990.33.0163a" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0163a" ;
+    schema:caption "Plan, Delphi, Tholos" ;
+    schema:creditText "copyright C. H. Smith based on K. Gottlob, Relevés et restaurations, 1925, in N.D. Papachadzi 1981 305 fig.34" .
+

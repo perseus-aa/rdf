@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.07.1792 a crm:E38_Image ;
+    rdfs:label "1998.07.1792" ;
+    crm:P1i_is_identified_by "1998.07.1792" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.07.1792" ;
+    schema:caption "Detail of left half of S side: closer view of Hadrianic roundels depicting departure for the hunt (left) and sacrifice to Silvanus (right); below, relief depicting the siege of Verona, Colosseum Valley, Arch of Constantine" ;
+    schema:creditText "Photograph by Maria Daniels" .
+

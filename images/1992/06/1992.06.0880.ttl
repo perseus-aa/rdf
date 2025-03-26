@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0880 a crm:E38_Image ;
+    rdfs:label "1992.06.0880" ;
+    crm:P1i_is_identified_by "1992.06.0880" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0880" ;
+    schema:caption "View of the figural scene on side A (body), center: a woman seated profile to the right on a klismos, wearing a himation over a medium-sleeved chiton, with a sakkos on her hair, holding a  lebes gamikos on her lap" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

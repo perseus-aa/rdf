@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.02.0100 a crm:E38_Image ;
+    rdfs:label "1999.02.0100" ;
+    crm:P1i_is_identified_by "1999.02.0100" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.02.0100" ;
+    schema:caption "Detail of the east side of the Altar of the Twins, installed in the southwest corner of the Plaza of the Corporations (originally dedicated to Silvanus in A.D. 124), figures of Mars and Venus (right view). Ostia, Shrine of the Altar of the Twins, Sacello dell'Ara dei Gemelli." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

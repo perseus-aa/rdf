@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0189a a crm:E38_Image ;
+    rdfs:label "1990.33.0189a" ;
+    crm:P1i_is_identified_by "1990.33.0189a" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0189a" ;
+    schema:caption "Plan, Epidauros, Abaton (Dormitory)" ;
+    schema:creditText "copyright D. Neel Smith 1989  drawn by M. W. Cutler and C. H. Smith based on Buglass (artist) based on G. Roux, L'architecture de l'Argolide, Bibliothèque des Écoles franᷗaises d'Athènes et de Rome, Paris 1961, in R.A. Tomlinson 1976 fig. 16; also based on Coulton (artist), based on G. Roux, L'architecture de l'Argolide, Bibliothèque des Écoles franᷗaises d'Athènes et de Rome, Paris 1961, in J.J. Coulton 1976 239 fig. 65 Temple of Artemis, based on G. Roux, L'architecture de l'Argolide, Bibliothèque des Écoles franᷗaises d'Athènes et de Rome, Paris 1961 plate 54, in N.D. Papachadzi 1976 208 fig. 231 Temple of Asclepius, based on G. Roux, L'architecture de l'Argolide, Bibliothèque des Écoles franᷗaises d'Athènes et de Rome, Paris 1961 plate 28, in N.D. Papachadzi 1976 204 fig. 224 Tholos, based on Kavvadias, Fouilles d'Épidaure I, 1893 plate 4, in A.W. Lawrence 1983 243 fig. 216" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2002.14.0433 a crm:E38_Image ;
+    rdfs:label "2002.14.0433" ;
+    crm:P1i_is_identified_by "2002.14.0433" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2002.14.0433" ;
+    schema:caption "G 2110, Chapel, looking west: 1905-6. Tomb G 2110, Tomb of Nefer, Giza." ;
+    schema:creditText "Courtesy of the Museum of Fine Arts, Boston" .
+

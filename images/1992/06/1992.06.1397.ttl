@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1397 a crm:E38_Image ;
+    rdfs:label "1992.06.1397" ;
+    crm:P1i_is_identified_by "1992.06.1397" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1397" ;
+    schema:caption "Detail of body, side B, right of center: Hermes, running profile to the right, with his head turned profile to the left, wearing his winged boots, a chlamys, and a taenia on his head, holding his kerykeion in his upraised left hand; a dog advances profile to the left, beneath him" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

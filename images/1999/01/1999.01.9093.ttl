@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.9093 a crm:E38_Image ;
+    rdfs:label "1999.01.9093" ;
+    crm:P1i_is_identified_by "1999.01.9093" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.9093" ;
+    schema:caption "Large nymphaeum (V XVII 2, 4th cent. A.D.) south of the Decumanus in the Plaza of the Victory, an open area created in late antiquity just inside the Porta Romana, rear view facing northwest. Ostia, Ninfeo V XVII 2." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1093 a crm:E38_Image ;
+    rdfs:label "1990.33.1093" ;
+    crm:P1i_is_identified_by "1990.33.1093" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1093" ;
+    schema:caption "Overview of peninsula, composite of phases, Sounion" ;
+    schema:creditText "copyright C. H. Smith 1989, based on Ginopoulos (artist) in C. Davaras 1979 11 fig. 3, and on Moutopoulos (artist), in N.D.Papachadzi 1974 84 fig. 12 City walls, based on Vlachos (artist), based on H.F. Mussche, Note sur les fortifications de Sounion, BCH 88, 1964 423 ff., in C. Davaras 1979 23 fig. 6 Sounion, peninsula and site overview, composite of periods Old Temple of Athena, based on C.A. Doxiadis 1972 fig. 52, and based on Orlandos in C. Davaras 1979 51 figs. 23-24 Sanctuary of Poseidon, based on C.A. Doxiadis 1972 fig. 52 ship slips, based on Vlachos (artist) based on E.A. Kenny, The Ancient Docks on the Promontory of Sunion, BSA 42, 1947 194 ff., in C. Davaras 1979 27 fig. 9 Temple of Athena, c. 470 B.C., based on Vlachos (artist) in C. Davaras 1979 55 fig. 25 Temple of Poseidon, based on H. Berve and G. Gruben, Griechisher Tempel und Heiligtümer, München 1961, in C. Davaras 1979 33 fig. 12" .
+

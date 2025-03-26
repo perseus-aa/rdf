@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.7850 a crm:E38_Image ;
+    rdfs:label "1999.01.7850" ;
+    crm:P1i_is_identified_by "1999.01.7850" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.7850" ;
+    schema:caption "Northwest facade of the House of the Dioscuri, a Hadrianic house modified in the 4th century A.D., view from the central garden of III IX facing southwest (with Garden Houses fountains). Ostia, Case a Giardino, Domus dei Dioscuri." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

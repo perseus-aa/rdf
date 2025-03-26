@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.7878 a crm:E38_Image ;
+    rdfs:label "1999.01.7878" ;
+    crm:P1i_is_identified_by "1999.01.7878" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.7878" ;
+    schema:caption "House of the Nymphaeum (4th century A.D.) on the far left and the House of the Dioscuri (Hadrianic with 4th century A.D. modifications), view from staircase 2 of the Insula of the Yellow Walls facing southwest. Ostia, Domus dei Dioscuri, Domus del Ninfeo." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

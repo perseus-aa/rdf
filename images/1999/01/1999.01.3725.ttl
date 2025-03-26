@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.3725 a crm:E38_Image ;
+    rdfs:label "1999.01.3725" ;
+    crm:P1i_is_identified_by "1999.01.3725" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.3725" ;
+    schema:caption "Brick pier of the north portico of the Small Market (ca. A.D. 119-120 and restored under Septimius Severus), now used as the Lapidaria of Ostia, view from the Via dei Misuratori del grano facing south. Ostia, I VIII 1, Piccolo Mercato, Small Market." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.6937 a crm:E38_Image ;
+    rdfs:label "1999.01.6937" ;
+    crm:P1i_is_identified_by "1999.01.6937" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.6937" ;
+    schema:caption "Remains of a peristyle house of the Augustan period preserved beneath the north end of the courtyard of the Schola of Trajan, a guild seat (of the fabri navales?) built ca. A.D. 145-155, view from the north end of the courtyard fountain facing northwest towards the columns of the central hall. Ostia, Domus a peristilio, IV V 15, IV V 16, Schola del Traiano." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

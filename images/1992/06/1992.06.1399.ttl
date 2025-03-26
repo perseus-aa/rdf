@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1399 a crm:E38_Image ;
+    rdfs:label "1992.06.1399" ;
+    crm:P1i_is_identified_by "1992.06.1399" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1399" ;
+    schema:caption "Left handle, figural scenes: a draped man on foot follows a youthful warrior on horseback, both advancing profile to the right (above); Pegasos follows the Chimaera, standng on his hind legs (below)" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

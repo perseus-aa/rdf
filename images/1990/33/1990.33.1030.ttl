@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1030 a crm:E38_Image ;
+    rdfs:label "1990.33.1030" ;
+    crm:P1i_is_identified_by "1990.33.1030" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1030" ;
+    schema:caption "Agora, plan, ca. 500 BC, Athens" ;
+    schema:creditText "copyright D. Neel Smith 1989, drawn by M. W. Cutler based on J. Travlos (artist)1974, in Camp 1986 37 fig. 21 Altar of the 12 Gods, based on Travlos 1966 (artist) in Travlos 461 fig. 584 Old Bouleterion, based on Dinsmoor 1984 (artist) in Camp 1986 52 fig. 31 Enneakrounos, based on Travlos 1968 (artist) in Travlos 206 fig. 269,  and on Camp 1986 43 fig. 25 Eschara, based on Travlos 1952 (artist) in H.A. Thompson 1953 fig. 2 Helaia, based on Travlos 1967 (artist) in Travlos 236 fig. 303 Prytanikon, based on Travlos 1966 (artist) in Travlos 192 figs. 252-253 Stoa Basileios 6th century, based on Dinsmoor 1970 (artist) in T.L. Shear 1971 246 fig. 2" .
+

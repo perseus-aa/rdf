@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1103 a crm:E38_Image ;
+    rdfs:label "1990.33.1103" ;
+    crm:P1i_is_identified_by "1990.33.1103" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1103" ;
+    schema:caption "Plan of Classical and Hellenistic phase remains, ca. 5th-1st century B.C., over previous phases' remains, Samos, Heraion" ;
+    schema:creditText "copyright Perseus Project 1990, drawn by M.W. Cutler based on Irini Lilge-Elisawitou (artist) in <PBibRef>Kyrieleis 1981</PBibRef> fig. 100 Geometric and early Archaic phase based on Perseus Drawing PS0333. Archaic phase remains based on Perseus Drawing PS0334. Rectangular building based on Perseus Drawing PS0324." .
+

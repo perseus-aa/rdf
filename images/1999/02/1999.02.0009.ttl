@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.02.0009 a crm:E38_Image ;
+    rdfs:label "1999.02.0009" ;
+    crm:P1i_is_identified_by "1999.02.0009" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.02.0009" ;
+    schema:caption "Block II.VI east of the Via delle Corporazioni, including the House of the Kilns (far left) and the House of the Painted Ceiling (red rooves, right), view from the cavea of the Theater facing northeast. Ostia, Via delle Corporazioni, House of the Painted Ceiling, Via delle Corporazioni, Insula del Soffitto Dipinto." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

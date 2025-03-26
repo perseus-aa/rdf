@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.6630 a crm:E38_Image ;
+    rdfs:label "1999.01.6630" ;
+    crm:P1i_is_identified_by "1999.01.6630" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.6630" ;
+    schema:caption "South side of the peristyle of the Building of the Opus Sectile, a Hadrianic guild building (?) built on the coastline and modified substantially in the 4th cent. A.D., internal view facing southwest (note late-antique fountain basin at center). Ostia, Edificio dell'Opus Sectile, III VII 8." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

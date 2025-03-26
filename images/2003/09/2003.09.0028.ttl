@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2003.09.0028 a crm:E38_Image ;
+    rdfs:label "2003.09.0028" ;
+    crm:P1i_is_identified_by "2003.09.0028" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2003.09.0028" ;
+    schema:caption "View of the Roman Forum from outside the NW corner, adjacent to the Arch of Septimius Severus and the Temple of Concord, at 4:00 pm on June 21, AD 400. Arch of Septimius Severus, Arcus Septimii Severi, Curia Julia, Curia Iulia, Forum Romanum, Roma, Roman Forum, Rome, Temple of Concord, Aedes Concordiae, Concordia, Aedes, Templum, Temple of Saturn, Aedes Saturni, Saturnus, Aedes. " ;
+    schema:creditText "Courtesy of the UCLA Cultural Virtual Reality Laboratory" .
+

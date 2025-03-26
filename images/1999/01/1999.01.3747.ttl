@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.3747 a crm:E38_Image ;
+    rdfs:label "1999.01.3747" ;
+    crm:P1i_is_identified_by "1999.01.3747" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.3747" ;
+    schema:caption "Podium of the collegial temple (late Severan, but never finished) on the Via del Pomerio, converted into a mithraeum ca. A.D. 250-300, view from the southeast corner of the building facing northwest. Ostia, I X 4, Tempio Collegiale, Collegial Temple." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

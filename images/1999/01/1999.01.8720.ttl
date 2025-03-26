@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.8720 a crm:E38_Image ;
+    rdfs:label "1999.01.8720" ;
+    crm:P1i_is_identified_by "1999.01.8720" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.8720" ;
+    schema:caption "Mithraeum of Felicissimus, built in the mid-3rd century A.D. by a devotee ex voto, view from the staircase at the southwest end of the Via del Felicissimo facing northeast. Ostia, Mitreo di Felicissimo, V IX 1." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

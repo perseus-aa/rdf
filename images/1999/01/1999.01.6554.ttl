@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.6554 a crm:E38_Image ;
+    rdfs:label "1999.01.6554" ;
+    crm:P1i_is_identified_by "1999.01.6554" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.6554" ;
+    schema:caption "Tract of the western Decumanus just outside the Porta Marina, including the Severan Inn of Alexander (background left) and the northwest facade of the Hadrianic Forum of the Porta Marina (right), view facing northeast. Ostia, Caupona di Alexander, Foro della Porta Marina." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

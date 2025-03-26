@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1151 a crm:E38_Image ;
+    rdfs:label "1992.06.1151" ;
+    crm:P1i_is_identified_by "1992.06.1151" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1151" ;
+    schema:caption "Detail of side A, center: Herakles, seated 3/4-view to the left, on a stool covered with a lion skin, wearing a white wreath; his quiver is draped across his left side, and he holds his club, between his legs" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

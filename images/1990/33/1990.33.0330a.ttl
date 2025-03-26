@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0330a a crm:E38_Image ;
+    rdfs:label "1990.33.0330a" ;
+    crm:P1i_is_identified_by "1990.33.0330a" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0330a" ;
+    schema:caption "Plan, Samos, Temple B" ;
+    schema:creditText "copyright Perseus Project 1989, drawn by M.W. Cutler based on Kyrieleis 1981 107 fig. 81" .
+

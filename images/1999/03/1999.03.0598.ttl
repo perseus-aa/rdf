@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.03.0598 a crm:E38_Image ;
+    rdfs:label "1999.03.0598" ;
+    crm:P1i_is_identified_by "1999.03.0598" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.03.0598" ;
+    schema:caption "Interior of gate complex with two monumental stone arches (center) flanked by two pedestrian arches, looking E, with modern bronze replica of statue of Prima Porta Augustus (left foreground), and church of St. Baudile (background)Nîmes, Porte d'Auguste." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0672 a crm:E38_Image ;
+    rdfs:label "1992.06.0672" ;
+    crm:P1i_is_identified_by "1992.06.0672" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0672" ;
+    schema:caption "Detail of the tondo, top: Mousaios, a nude youth wearing a white taenia, stands profile to the right, with his right hand on his hip, and holds a tablet in his upraised left hand; in front of him, on a klismos, sits Linos, a bearded man wearing a himation around his lower body and a wreath; he unrolls a book scroll on which letters are barely distinguishable (note the dipinti labelling both figures)" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

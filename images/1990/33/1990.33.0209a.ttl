@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0209a a crm:E38_Image ;
+    rdfs:label "1990.33.0209a" ;
+    crm:P1i_is_identified_by "1990.33.0209a" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0209a" ;
+    schema:caption "Plan, Mallia, House Delta alpha" ;
+    schema:creditText "copyright Perseus Project 1989, drawn by M. W. Cutler based on P. Demargne and H.G. de Santerre, Fouilles exécutées à Mallia. Exploration des maisions et quartiers d'habitation (1921-48) premier fascicule, Études crétoises 9, Paris 1953 plate 66, in G.C. Gesell 1985 108 fig. 50" .
+

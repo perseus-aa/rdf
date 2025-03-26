@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.5908 a crm:E38_Image ;
+    rdfs:label "1999.01.5908" ;
+    crm:P1i_is_identified_by "1999.01.5908" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.5908" ;
+    schema:caption "East side of the private horrea (III XVII 1, Hadrianic) at the south end of the Serapeum block, view from the central corridor facing east. Ostia, Horrea (III XVII 1)." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

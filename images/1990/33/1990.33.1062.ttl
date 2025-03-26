@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1062 a crm:E38_Image ;
+    rdfs:label "1990.33.1062" ;
+    crm:P1i_is_identified_by "1990.33.1062" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1062" ;
+    schema:caption "Overview, showing early Helladic remains and the later shaft graves and grave circle, Lerna" ;
+    schema:creditText "copyright Perseus Project 1989, drawn by M. W. Cutler based on Bikaki 1957 (artist) in J.L. Caskey 1958 125-144 fig. 1" .
+

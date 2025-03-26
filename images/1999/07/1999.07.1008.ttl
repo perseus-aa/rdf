@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.07.1008 a crm:E38_Image ;
+    rdfs:label "1999.07.1008" ;
+    crm:P1i_is_identified_by "1999.07.1008" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.07.1008" ;
+    schema:caption "View looking E up Fleet Street from site of Temple Bar, marked by Victorian monument designed by Sir Horace Jones (1880) topped with bronze dragon; tower of St. Dunstan's in the West visible in distance Fleet Street, Temple Bar Monument. (London)." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

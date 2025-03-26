@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.5414 a crm:E38_Image ;
+    rdfs:label "1999.01.5414" ;
+    crm:P1i_is_identified_by "1999.01.5414" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.5414" ;
+    schema:caption "Detail of the ceiling of the chamber on the southeast side of the frigidarium of the Baths of the Seven Sages, a late Hadrianic bathing establishment built into a Trajanic structure as part of a residential complex. Ostia, III X 2, Terme dei Sette Sapienti." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

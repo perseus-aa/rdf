@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1104 a crm:E38_Image ;
+    rdfs:label "1990.33.1104" ;
+    crm:P1i_is_identified_by "1990.33.1104" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1104" ;
+    schema:caption "Overview, composite of phases, Samos, Heraion" ;
+    schema:creditText "copyright Perseus Project 1990, drawn by M.W. Cutler Geometric and early Archaic phase based on Perseus Drawing PS0333. Archaic phase remains based on Perseus Drawing PS0334. Classical and Hellenistic phase remains based on Perseus Drawing PS0584." .
+

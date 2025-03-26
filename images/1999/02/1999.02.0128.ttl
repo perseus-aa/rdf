@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.02.0128 a crm:E38_Image ;
+    rdfs:label "1999.02.0128" ;
+    crm:P1i_is_identified_by "1999.02.0128" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.02.0128" ;
+    schema:caption "Rear view of the sarcophagus, supposedly of the martyr Cyriacus, in the Christian Oratory (late 4th-early 5th century A.D.) built into a Domitianic nymphaeum on the Decumanus east of the Theater, view facing south east towards the Horrea of Hortensius. Ostia, Christian Oratory, Horrea of Hortensius, Oratorio Cristiano, Horrea di Ortensio." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

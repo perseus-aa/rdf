@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.7926 a crm:E38_Image ;
+    rdfs:label "1999.01.7926" ;
+    crm:P1i_is_identified_by "1999.01.7926" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.7926" ;
+    schema:caption "Detail of the statuette of Jupiter (inv. no. 1229) in the shrine against the south side of the central wall in the garden of the Caseggiato of the Paintings (ca. A.D. 128-138), front view. Ostia, Caseggiato dei Dipinti." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

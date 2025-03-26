@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1991.05.0003 a crm:E38_Image ;
+    rdfs:label "1991.05.0003" ;
+    crm:P1i_is_identified_by "1991.05.0003" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1991.05.0003" ;
+    schema:caption "Schematic diagram of the Parthenon Frieze" ;
+    schema:creditText "Based on Perseus drawing 1990.33.0051, copyright Candace Smith 1990. Architecture based on based on J.A. Bundgaard 1976 plate J, and on Marquand, Handbook of Greek Architecture fig. 307, in A.W. Lawrence 1983 202 fig. 169, and  on J. Travlos (artist) in Travlos 446 fig. 564. Sculpture based on Brommer 1979 fig. 18, and on Boardman 1985 fig. 95." .
+

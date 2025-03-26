@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0058 a crm:E38_Image ;
+    rdfs:label "1998.01.0058" ;
+    crm:P1i_is_identified_by "1998.01.0058" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0058" ;
+    schema:caption "Top left: votive relief showing Athena standing before a votive pinax; Top middle: Votive relief, with probable representations of Philia and Tyche; Top right: Votive relief with horse and rider; Lower left: votive relief to Amphiaraos showing a patient in a bed, watched by Amphiaraos and a youth; Lower right: votive relief with horse, rider, slave, and dog" ;
+    schema:creditText "From Svoronos 1903-12, pl. 58" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1064 a crm:E38_Image ;
+    rdfs:label "1990.33.1064" ;
+    crm:P1i_is_identified_by "1990.33.1064" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1064" ;
+    schema:caption "Citadel, Mycenae" ;
+    schema:creditText "copyright Perseus Project 1989, drawn by M. W. Cutler based on Schaar (?) 1974 (artist), courtesy of G.E. Mylonas, in S.E. Iakovidis 1983 25 plan 4 Cult Center, based on S.E. Iakovidis 1983 46 plan 7 Grave Circle A, based on S.E. Iakovidis 1983 41 plan 8 NE Extension, based on G.E. Mylonas in S.E. Iakovidis 1983 53 plan 10 NW slope, based on G.E. Mylonas in S.E. Iakovidis 1983 51 plan 9 Palace, based on (courtesy G.E. Mylonas) S.E. Iakovidis 1983 56 plans 11-13 SE quarter, based on (courtesy G.E. Mylonas) S.E. Iakovidis 1983 49 plan 8" .
+

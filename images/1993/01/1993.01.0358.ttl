@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1993.01.0358 a crm:E38_Image ;
+    rdfs:label "1993.01.0358" ;
+    crm:P1i_is_identified_by "1993.01.0358" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1993.01.0358" ;
+    schema:caption "Euphronios krater depicting an Amazonomachy: Drawing of side A (top), frieze showing a komos" ;
+    schema:creditText "From Furtwängler-Reichhold, Griechische Vasenmalerei: Auswahl hervorragender Vasenbilder, Tafeln 61-70. München: Bruckmann, 1905. pl. 61" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0212 a crm:E38_Image ;
+    rdfs:label "1992.06.0212" ;
+    crm:P1i_is_identified_by "1992.06.0212" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0212" ;
+    schema:caption "Detail of the figural scene, left of center: Hermes, standing to the left, with his head turned profile to the right, wearing his winged boots, a chlamys over a short tunic, a beard and a petasos, holds his kerykeion, or herald's staff, horizontally, in front of his body (note the artist's signature, to the right of him)" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

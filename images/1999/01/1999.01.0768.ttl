@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.0768 a crm:E38_Image ;
+    rdfs:label "1999.01.0768" ;
+    crm:P1i_is_identified_by "1999.01.0768" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.0768" ;
+    schema:caption "Shop (15, second from north) in the west facade of the House of Diana, an apartment building or inn of the mid-2nd century A.D., internal view facing west. Ostia, Casa di Diana, I III 3, I III 4." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0035 a crm:E38_Image ;
+    rdfs:label "1998.01.0035" ;
+    crm:P1i_is_identified_by "1998.01.0035" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0035" ;
+    schema:caption "Top left: Votive relief showing Asklepios and his daughters; Top center: Votive relief to Asklepios and Epione or Hygieia; Top right: Votive relief to Asklepios and Hygieia; Lower left: Votive relief showing Asklepios and his children with a family of worshippers; Lower right: relief showing Asklepios' sons, a dog, and two female worshippers" ;
+    schema:creditText "From Svoronos 1903-12, pl. 35" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.7034 a crm:E38_Image ;
+    rdfs:label "1999.01.7034" ;
+    crm:P1i_is_identified_by "1999.01.7034" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.7034" ;
+    schema:caption "Eponymous portrait of Trajan in the niche in the east wall of the central aulaof the east wing at the north end of the Schola of Trajan, a guild seat (of the fabri navales?) built ca. A.D. 145-155 over two Augustan houses, front view. Ostia, IV V 15, Schola del Traiano." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

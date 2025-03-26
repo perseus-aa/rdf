@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1051 a crm:E38_Image ;
+    rdfs:label "1992.06.1051" ;
+    crm:P1i_is_identified_by "1992.06.1051" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1051" ;
+    schema:caption "Detail of the figural scene, right: on a pedestal to the right of the naiskos stands a youth, in a frontal pose, with his head turned profile to the left; he is nude, except for a chlamys draped over his left arm and a white wreath around his crown; a fillet dangles from his right elbow, while an object (what appears to be the top of two spears) emerges from his clasped right hand" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

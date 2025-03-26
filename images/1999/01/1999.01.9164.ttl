@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.9164 a crm:E38_Image ;
+    rdfs:label "1999.01.9164" ;
+    crm:P1i_is_identified_by "1999.01.9164" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.9164" ;
+    schema:caption "Marble pilaster and capital (3rd cent. A.D.) on the west side of the large heated hall on the west side of the Baths of the Cart Drivers, a bath/guild house inserted into a late republican commercial building (the Republican Stores) in the Hadrianic period, view facing northwest. Ostia, II II 3, Terme dei Cisiarii." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.4181 a crm:E38_Image ;
+    rdfs:label "1999.01.4181" ;
+    crm:P1i_is_identified_by "1999.01.4181" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.4181" ;
+    schema:caption "Southwest corner of the Temple of Hercules, one of Ostia's oldest cult buildings built ca. 100 B.C. and restored under Trajan and in the late 4th century A.D., view from the Via della Foce facing northeast (west wall of the Temple of the Round Altar at right). Ostia, I XV 5, I XV 6, Tempio dell'Ara rotonda, Temple of the Round Altar, Tempio di Ercole, Temple of Hercules." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

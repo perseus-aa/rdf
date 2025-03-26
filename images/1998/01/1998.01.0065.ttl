@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0065 a crm:E38_Image ;
+    rdfs:label "1998.01.0065" ;
+    crm:P1i_is_identified_by "1998.01.0065" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0065" ;
+    schema:caption "Top left: Relief depicting a family of worshippers approach Asklepios and his snake; Top right: Votive depicting a hero, his wife and his horse, and five worshippers; Lower left: Votive relief to Zeus Melichios? showing five worshippers approaching a god on a throne; Lower right: Relief of hero with horse and adorant" ;
+    schema:creditText "From Svoronos 1903-12, pl. 65" .
+

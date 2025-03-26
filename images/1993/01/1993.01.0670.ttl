@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1993.01.0670 a crm:E38_Image ;
+    rdfs:label "1993.01.0670" ;
+    crm:P1i_is_identified_by "1993.01.0670" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1993.01.0670" ;
+    schema:caption "Name vase of the Pronomos Painter: Drawing of side A (left), showing the cast of a satyr play" ;
+    schema:creditText "From Furtwängler-Reichhold, Griechische Vasenmalerei: Auswahl hervorragender Vasenbilder, Tafeln 141-150. München: Bruckmann, 1921. pl. 143/144" .
+

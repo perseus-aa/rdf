@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0039 a crm:E38_Image ;
+    rdfs:label "1992.06.0039" ;
+    crm:P1i_is_identified_by "1992.06.0039" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0039" ;
+    schema:caption "Top frieze, part 3: Centauromachy (battle betwen Lapiths, armed with swords, helmets, and shields, and centaurs); to the left are two centaurs throwing stones on Kaineus, to beat him into the ground" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

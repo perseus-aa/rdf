@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.3022 a crm:E38_Image ;
+    rdfs:label "1999.01.3022" ;
+    crm:P1i_is_identified_by "1999.01.3022" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.3022" ;
+    schema:caption "Corridor between the shop in the southwest corner of the Insula of Invidiosus (early Antonine, renovated in the early 3rd century A.D.) and the Baths of Invidiosus (built ca. A.D. 50 and renovated in the early Antonine period), view from the Baths facing west. Ostia, Terme dell'Invidioso, Insula dell'Invidioso, V V 1, V V 2." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

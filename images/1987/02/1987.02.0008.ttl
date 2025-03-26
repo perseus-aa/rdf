@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1987.02.0008 a crm:E38_Image ;
+    rdfs:label "1987.02.0008" ;
+    crm:P1i_is_identified_by "1987.02.0008" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1987.02.0008" ;
+    schema:caption "South Frieze Slab 40: South frieze:  three drivers lead a struggling ox to sacrifice" ;
+    schema:creditText "Photograph courtesy of the British Museum, London" .
+

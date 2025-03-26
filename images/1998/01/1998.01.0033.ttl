@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0033 a crm:E38_Image ;
+    rdfs:label "1998.01.0033" ;
+    crm:P1i_is_identified_by "1998.01.0033" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0033" ;
+    schema:caption "Top: Triton, Nereid, and Cupid friezes; second row: relief showing hero on horseback; Dioskouros relief; Relief showing hero with horse and snake; bottom: three votive reliefs with heroes and horses" ;
+    schema:creditText "From Svoronos 1903-12, pl. 33" .
+

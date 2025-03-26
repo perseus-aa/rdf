@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1161 a crm:E38_Image ;
+    rdfs:label "1992.06.1161" ;
+    crm:P1i_is_identified_by "1992.06.1161" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1161" ;
+    schema:caption "Detail of side B, left: a woman, running to the left, shown in 3/4-view, although she turns her head profile to the right, holds a tympanon in her lowered right hand, and lifts some drapery above her shoulder with her upraised left hand; she wears a peplos belted over an overfold, and her hair is tied in a ponytail, with a stephane" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

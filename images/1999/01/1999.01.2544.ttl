@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.2544 a crm:E38_Image ;
+    rdfs:label "1999.01.2544" ;
+    crm:P1i_is_identified_by "1999.01.2544" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.2544" ;
+    schema:caption "West facades of the buildings (I I 2 and 3, Hadrianic) on the east side of the Via dei Lari, view facing northeast. Ostia, Caseggiato, I I 2, I I 3, Insula." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

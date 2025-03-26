@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.2406 a crm:E38_Image ;
+    rdfs:label "1999.01.2406" ;
+    crm:P1i_is_identified_by "1999.01.2406" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.2406" ;
+    schema:caption "Caseggiato (V IV 1, early Antonine) on the northeast corner of the intersection of the Semita dei Cippi and the Via della Fortuna Annonaria, view facing northeast. Ostia, Caseggiato (V IV 1), Building." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

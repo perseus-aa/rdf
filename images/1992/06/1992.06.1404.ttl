@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1404 a crm:E38_Image ;
+    rdfs:label "1992.06.1404" ;
+    crm:P1i_is_identified_by "1992.06.1404" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1404" ;
+    schema:caption "Detail of body, side A, far left: a draped, bearded man stands profile to the right, with his left foot advanced, and his left hand raised, perhaps in a speaking gesture; swags of cloth decorate the wall behind him" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

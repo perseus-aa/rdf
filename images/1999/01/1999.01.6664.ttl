@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.6664 a crm:E38_Image ;
+    rdfs:label "1999.01.6664" ;
+    crm:P1i_is_identified_by "1999.01.6664" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.6664" ;
+    schema:caption "West end of the Decumanus outside the Porta Marina, including a commercial building (III VII 6, early 2nd cent. A.D., left)  and the late Hadrianic Loggia of Cartilius (right), view from entrance to the Building of the Opus Sectile facing northeast. Ostia, Decumano." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

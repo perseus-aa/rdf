@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0356 a crm:E38_Image ;
+    rdfs:label "1992.06.0356" ;
+    crm:P1i_is_identified_by "1992.06.0356" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0356" ;
+    schema:caption "Detail of side B, center: another menage à trois; a nude youth stands profile to the right and thrusts his member into the mouth of a short-haired, nude woman, wearing a narrow taenia on her head, kneeling on a pillow profile to the left; the hand of another man above her back suggests that the missing part of the vase may have depicted her second partner" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

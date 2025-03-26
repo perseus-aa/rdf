@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0211b a crm:E38_Image ;
+    rdfs:label "1990.33.0211b" ;
+    crm:P1i_is_identified_by "1990.33.0211b" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0211b" ;
+    schema:caption "Plan of Palace, Mallia, Palace" ;
+    schema:creditText "copyright Perseus Project 1989, drawn by M. W. Cutler based on F. Chapouthier, P. Demargne and A. Dessenne, Fouilles exécutées à Mallia. Quatrième rapport. Exploration du palais (1929-35 et 1946-60), Études crétoises 12, Paris 1962 plan 1, in G.C. Gesell 1985 104 fig. 43" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.3003 a crm:E38_Image ;
+    rdfs:label "1999.01.3003" ;
+    crm:P1i_is_identified_by "1999.01.3003" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.3003" ;
+    schema:caption "West facade of the caseggiato (V IV 1, early Antonine) on the east side of the Semita dei Cippi, view from the staircase on the east side of a nearby caseggiato (I XII 5) facing southeast  Ostia, Building." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

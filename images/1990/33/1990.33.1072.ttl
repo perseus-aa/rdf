@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1072 a crm:E38_Image ;
+    rdfs:label "1990.33.1072" ;
+    crm:P1i_is_identified_by "1990.33.1072" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1072" ;
+    schema:caption "Plan, Archaic phase over previous phases' remains, Olympia" ;
+    schema:creditText "copyright C. H. Smith 1988 based on N. Yalouris 1979 100-101 fig. 40, and based on A. Mallwitz,  AA 1971 153 ff. fig. 3, in A. Mallwitz 1972 fig. 240, and also based on L. Drees, I. Konti, and C. Durantez, in N.D. Papachadzi 1979 237 fig. 212, 213 Bouleterion, based on E. Mallwitz (artist), in A. Mallwitz 1972 112 fig. 87 Temple of Hera, based on A. Mallwitz, JdI 81, 1966 fig. 17, in A.Mallwitz 1972 139 fig. 109 Treasuries, based on N. Yalouris 1979 100-101 fig. 40, and based on A. Mallwitz, AA 1971 153 ff fig. 3, in A. Mallwitz 1972 163-179 fig. 240" .
+

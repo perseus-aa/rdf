@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0005 a crm:E38_Image ;
+    rdfs:label "1998.01.0005" ;
+    crm:P1i_is_identified_by "1998.01.0005" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0005" ;
+    schema:caption "Bronze fragments from Antikythera shipwreck: 1. male right hand with lower arm; 2. male right arm; 3. male left arm without hand; 4. left arm of boxer; 5. female left hand; 6., 7. sword from statue; 8., 9. life-size right foot 10. life-size left foot; 11.right foot, larger than life size; 12. naked life-size left foot; 13. left foot of a girl" ;
+    schema:creditText "From Svoronos 1903-12, pl. 5" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.4157 a crm:E38_Image ;
+    rdfs:label "1999.01.4157" ;
+    crm:P1i_is_identified_by "1999.01.4157" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.4157" ;
+    schema:caption "East wall of a room (north of the pool with niche) of the Baths of Buticosus, a private bathing establishment built in the Trajanic period, view facing east. Ostia, I XIV 8, Terme di Buticoso, Baths of Buticosus." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.03.0798 a crm:E38_Image ;
+    rdfs:label "1999.03.0798" ;
+    crm:P1i_is_identified_by "1999.03.0798" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.03.0798" ;
+    schema:caption "Detail of naval scene on the first attic of the N face above the W arch, depicting a collection of ship parts (masts, anchors, prows, pulleys, and rigging), including a ship prow with a dragon's head decoration and an apotropaic eyeOrange, Triumphal Arch." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

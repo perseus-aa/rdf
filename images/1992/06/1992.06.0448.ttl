@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0448 a crm:E38_Image ;
+    rdfs:label "1992.06.0448" ;
+    crm:P1i_is_identified_by "1992.06.0448" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0448" ;
+    schema:caption "Detail of side B, right of center: head and chest of a nude, youthful athlete standing in a nearly frontal stride, with his head profile to the left (note the red wreath on his head)" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

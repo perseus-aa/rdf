@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1987.09.0215 a crm:E38_Image ;
+    rdfs:label "1987.09.0215" ;
+    crm:P1i_is_identified_by "1987.09.0215" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1987.09.0215" ;
+    schema:caption "Salamis Straits and Leros Islet from Eleusis" ;
+    schema:creditText "Photograph courtesy of the Department of Archaeology, Boston University, Saul S. Weinberg Collection" .
+

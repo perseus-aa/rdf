@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0655 a crm:E38_Image ;
+    rdfs:label "1992.06.0655" ;
+    crm:P1i_is_identified_by "1992.06.0655" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0655" ;
+    schema:caption "Detail of side A, center: a horse stands profile to the left, in front of a schematic Ionic capital, supporting a narrow entablature; the horse is somewhat agitated, as indicated by his advancing left foot and the open lips" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

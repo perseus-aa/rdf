@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.03.0800 a crm:E38_Image ;
+    rdfs:label "1999.03.0800" ;
+    crm:P1i_is_identified_by "1999.03.0800" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.03.0800" ;
+    schema:caption "Remains of trophy relief in N niche on W face of monument, depicting trophy and a pair of barbarian prisoners, flanked by fluted Corinthian columnsOrange, Triumphal Arch." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

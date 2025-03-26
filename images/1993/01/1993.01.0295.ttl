@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1993.01.0295 a crm:E38_Image ;
+    rdfs:label "1993.01.0295" ;
+    crm:P1i_is_identified_by "1993.01.0295" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1993.01.0295" ;
+    schema:caption "Douris psykter depicting Hermes and satyrs: drawing of the figural scene (center), showing Hermes in the middle" ;
+    schema:creditText "From Furtwängler-Reichhold, Griechische Vasenmalerei: Auswahl hervorragender Vasenbilder, Tafeln 41-50. München: Bruckmann, 1903. pl. 48" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1991.09.0744 a crm:E38_Image ;
+    rdfs:label "1991.09.0744" ;
+    crm:P1i_is_identified_by "1991.09.0744" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1991.09.0744" ;
+    schema:caption "View toward E up a city street with walls of private houses, NW of Temple of Athena, Priene, Houses	" ;
+    schema:creditText "Photograph by Don Keller" .
+

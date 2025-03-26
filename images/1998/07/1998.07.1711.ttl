@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.07.1711 a crm:E38_Image ;
+    rdfs:label "1998.07.1711" ;
+    crm:P1i_is_identified_by "1998.07.1711" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.07.1711" ;
+    schema:caption "View looking NW along paved area between Basilica Julia and Honorary Columns (right) toward the Capitoline Hill, with Temple of Saturn (left) and Temple of Deified Vespasian and Titus (background) visible, and Palazzo Senatorio in distance, Roman Forum Square" ;
+    schema:creditText "Photograph by Maria Daniels" .
+

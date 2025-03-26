@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0899 a crm:E38_Image ;
+    rdfs:label "1992.06.0899" ;
+    crm:P1i_is_identified_by "1992.06.0899" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0899" ;
+    schema:caption "Detail of the main scene: a light-haired, bearded man, wearing a short himation, advances to the right, with his left hand on his hip (?), and his right hand on a staff" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

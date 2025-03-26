@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.5660 a crm:E38_Image ;
+    rdfs:label "1999.01.5660" ;
+    crm:P1i_is_identified_by "1999.01.5660" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.5660" ;
+    schema:caption "North corridor of the House of the Charioteers (left, ca. A.D. 140), built to connect with the Baths of the Seven Sages (right, late Hadrianic), view from the forecourt of the Shrine of the Three Naves facing northwest. Ostia, Caseggiato degli Aurighi, III X 1, III X 2, Terme dei Sette Sapienti." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

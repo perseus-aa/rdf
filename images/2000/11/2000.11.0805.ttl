@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2000.11.0805 a crm:E38_Image ;
+    rdfs:label "2000.11.0805" ;
+    crm:P1i_is_identified_by "2000.11.0805" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2000.11.0805" ;
+    schema:caption "View South through Piazza dell'Erbe (formerly the Roman forum), following the route of the Roman cardo; at right is the Romanesque Domus Mercatorum (Piazza dell'Erbe 3), built by Alberto I della Scala (1301), restored in the 19th century, Domus Mercantorum, Verona." ;
+    schema:creditText "Photograph by Amy C. Smith" .
+

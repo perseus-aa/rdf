@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.8360 a crm:E38_Image ;
+    rdfs:label "1999.01.8360" ;
+    crm:P1i_is_identified_by "1999.01.8360" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.8360" ;
+    schema:caption "Entrance vestibule and south rooms of the Insula of Dionysus, a small dwelling inserted into the peristyle of a republican domus in the late 2nd century A.D., view from the north room facing southwest. Ostia, Insula del Dioniso, IV V 9." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

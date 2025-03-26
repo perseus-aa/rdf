@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0617a a crm:E38_Image ;
+    rdfs:label "1990.33.0617a" ;
+    crm:P1i_is_identified_by "1990.33.0617a" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0617a" ;
+    schema:caption "Capital profiles scaled to give uniform abacus height outer colonnade, pronaos, lower inner colonnade, upper inner colonnade, Aegina, Temple of Aphaia" ;
+    schema:creditText "copyright D.N. Smith 1989, drawn by R. Mattison based on A. Furtwängler, Aegina, in Coulton 1977 106 fig. 43" .
+

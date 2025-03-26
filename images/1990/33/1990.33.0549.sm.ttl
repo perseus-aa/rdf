@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0549.sm a crm:E38_Image ;
+    rdfs:label "1990.33.0549.sm" ;
+    crm:P1i_is_identified_by "1990.33.0549.sm" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0549.sm" ;
+    schema:caption "Olympia, Temple of Zeus, Augean stables metope, reconstruction  (small)" ;
+    schema:creditText "Copyright C.H. Smith 1990; based on F. Treu and N. Yalouris (artists) in Yalouris 1972, 14, and based on A. Frantz (photographer) in Ashmole and Yalouris 1967, plates 202-11, and based on Max Ku+hnert (artist), in Curtius and Adler, Olympia, Die Ergebnisse, Berlin 1890 Volume 3 plate 45, in Rodenwaldt 1936, 45 fig. 26" .
+

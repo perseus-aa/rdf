@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.5319 a crm:E38_Image ;
+    rdfs:label "1999.01.5319" ;
+    crm:P1i_is_identified_by "1999.01.5319" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.5319" ;
+    schema:caption "Upper level above the east side of the courtyard portico of the House of Serapis, a residential complex built ca. A.D. 126-127, view facing northeast. Ostia, Caseggiato del Serapide, III X 3." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

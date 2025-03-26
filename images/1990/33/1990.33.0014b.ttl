@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0014b a crm:E38_Image ;
+    rdfs:label "1990.33.0014b" ;
+    crm:P1i_is_identified_by "1990.33.0014b" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0014b" ;
+    schema:caption "Plan, Assos, Propylon" ;
+    schema:creditText "copyright D. Neel Smith 1989, drawn by M. W. Cutler based on J. Clarke and F. Bacon, Investigations at Assos, Archeological Institute of America, Boston 1902-1921 fig. 4, in A.W. Lawrence 1983 346 fig. 337; and also based on Coulton (artist), in J.J. Coulton 1976 219 fig.52 North Stoa, lower story, based on Coulton (artist), based on J. Clarke and F. Bacon, Investigations at Assos, Archeological Institute of America, Boston 1902-1921 27-51, in J.J. Coulton 1976 198 fig. 25" .
+

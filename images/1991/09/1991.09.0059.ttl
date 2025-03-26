@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1991.09.0059 a crm:E38_Image ;
+    rdfs:label "1991.09.0059" ;
+    crm:P1i_is_identified_by "1991.09.0059" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1991.09.0059" ;
+    schema:caption "Detail of drafted edges in square tower in NW section of city walls, from NW, Assos, Fortifications" ;
+    schema:creditText "Photograph by Don Keller" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.0557 a crm:E38_Image ;
+    rdfs:label "1999.01.0557" ;
+    crm:P1i_is_identified_by "1999.01.0557" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.0557" ;
+    schema:caption "Southeast corner of room 23 (northeast corner) of the House of Diana (ca. A.D. 150), converted to the antechamber of a mithraeum (room 24) at the end of the 2nd century, view facing southeast, Casa di Diana, Ostia" ;
+    schema:creditText "Photograph by Maria Daniels" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0085 a crm:E38_Image ;
+    rdfs:label "1998.01.0085" ;
+    crm:P1i_is_identified_by "1998.01.0085" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0085" ;
+    schema:caption "Two banquet reliefs: A male figure and a female figure feasting, attended by a serving boy (?), and six worshippers (top); A male figure reclining on a kline and feasting, attended by a female figure on a stool, a small serving boy in front of a volute krater, and perhaps a worshipper(bottom)" ;
+    schema:creditText "From Svoronos 1903-12, pl. 85" .
+

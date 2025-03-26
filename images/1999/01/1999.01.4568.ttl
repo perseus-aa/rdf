@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.4568 a crm:E38_Image ;
+    rdfs:label "1999.01.4568" ;
+    crm:P1i_is_identified_by "1999.01.4568" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.4568" ;
+    schema:caption "Detail of the painting on the east wall (ca. A.D. 240) of the Shrine of Silvanus (Severan) at the south end of the Angiporto del Silvano, figures of divinities (?). Ostia, I III 2, Sacello del Silvano, Shrine of Silvanus." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

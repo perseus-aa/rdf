@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1410 a crm:E38_Image ;
+    rdfs:label "1992.06.1410" ;
+    crm:P1i_is_identified_by "1992.06.1410" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1410" ;
+    schema:caption "Detail of body, side A, far right: a youthful god (perhaps Apollo) runs profile to the left; he wears a chlamys and a taenia on his hair, and holds a spear diagonally in his left hand; a basket is below him; behind him stands a small, bearded, draped, man, in a 3/4-view to the right, although he turns his head profile to the left" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

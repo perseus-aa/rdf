@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0146 a crm:E38_Image ;
+    rdfs:label "1998.01.0146" ;
+    crm:P1i_is_identified_by "1998.01.0146" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0146" ;
+    schema:caption "Top left: Relief with hoplites; Top, second from left: Votive relief with three worshippers; Top, second from right: Fragment of a treaty relief; Top right: Fragment of a grave stele; Bottom left: Fragment of a banquet relief; Bottom, second from left: Fragment of a votive relief with worshippers; Bottom, second from right: A relief with a female figure; Bottom right: Fragment of a votive relief" ;
+    schema:creditText "From Svoronos 1903-12, pl. 146" .
+

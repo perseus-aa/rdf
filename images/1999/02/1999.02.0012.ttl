@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.02.0012 a crm:E38_Image ;
+    rdfs:label "1999.02.0012" ;
+    crm:P1i_is_identified_by "1999.02.0012" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.02.0012" ;
+    schema:caption "Staircase (four doors west of northeast corner) from the cavea to the external portico of the Theater (Augustan, modified in the 2nd and 4th centuries A.D.), view facing southeast towards the Via delle Corporazioni. Ostia, Theater, Via delle Corporazioni, Teatro, Via delle Corporazioni." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

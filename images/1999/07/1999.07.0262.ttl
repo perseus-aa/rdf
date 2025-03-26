@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.07.0262 a crm:E38_Image ;
+    rdfs:label "1999.07.0262" ;
+    crm:P1i_is_identified_by "1999.07.0262" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.07.0262" ;
+    schema:caption "View towards square from outside Houses of Parliament on Abingdon Street, looking N. Westminster, Parliament Square. (London)." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

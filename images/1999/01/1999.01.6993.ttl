@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.6993 a crm:E38_Image ;
+    rdfs:label "1999.01.6993" ;
+    crm:P1i_is_identified_by "1999.01.6993" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.6993" ;
+    schema:caption "Detail of the painting at base of the east wall of the courtyard of the Schola of Trajan, a guild house (of the fabri navales?) built ca. A.D. 145-155, view from within the reconstructed peristyle of the Augustan house preserved beneath the courtyard facing northeast.  Ostia, Domus a peristilio, IV V 16, IV V 15, Schola del Traiano." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

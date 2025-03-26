@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.07.0738 a crm:E38_Image ;
+    rdfs:label "1992.07.0738" ;
+    crm:P1i_is_identified_by "1992.07.0738" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.07.0738" ;
+    schema:caption "Above the main panel: seated woman on the right, holding a harp (trigonon) with a bird support" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Staatliche Museen zu  Berlin, Preußischer Kulturbesitz: Antikensammlung" .
+

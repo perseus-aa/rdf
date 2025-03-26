@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.2760 a crm:E38_Image ;
+    rdfs:label "1999.01.2760" ;
+    crm:P1i_is_identified_by "1999.01.2760" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.2760" ;
+    schema:caption "East rooms of the commercial edifice (Hadrianic) surrounding the Mithraeum of the Serpents (ca. A.D. 250-300), view from the Via del Mitreo dei Serpenti facing west. Ostia, Edificio commerciale, commercial building, V VI 5." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

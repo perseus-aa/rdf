@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.2778 a crm:E38_Image ;
+    rdfs:label "1999.01.2778" ;
+    crm:P1i_is_identified_by "1999.01.2778" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.2778" ;
+    schema:caption "Detail of the paintings on the south wall of the late 3rd-century A.D. Mithraeum of the Serpents, serpent and vegetal decoration of a 2nd-century A.D. lararium incorporated into the mithraeum. Ostia, Mitreo dei Serpenti, Mithraeum of the Serpents, V VI 6." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

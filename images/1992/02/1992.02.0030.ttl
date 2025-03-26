@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.02.0030 a crm:E38_Image ;
+    rdfs:label "1992.02.0030" ;
+    crm:P1i_is_identified_by "1992.02.0030" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.02.0030" ;
+    schema:caption "Upper part of W front of temple, looking NE: column capitals, entablature, pediment, Poseidonia, Temple of Athena, Paestum" ;
+    schema:creditText "Photograph by Nick Cahill" .
+

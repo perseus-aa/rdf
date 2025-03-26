@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0701 a crm:E38_Image ;
+    rdfs:label "1992.06.0701" ;
+    crm:P1i_is_identified_by "1992.06.0701" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0701" ;
+    schema:caption "Detail of side B, left: a nude, youthful athlete runs toward the left, with his arms outstretched; his body is shown in 3/4-back view, although his head is turned profile to the right, and tilted down; he seems to run around narrow poles" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0247 a crm:E38_Image ;
+    rdfs:label "1992.06.0247" ;
+    crm:P1i_is_identified_by "1992.06.0247" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0247" ;
+    schema:caption "Detail of side A, top right: the triple-bodied monster, Geryon, wearing greaves, cuirasses over chitoniskoi, and helmets; two bodies are shown profile the left, aiming spears at Herakles, while the third, injured (note the red wound on his thigh) turns profile to the right, and points his shield down at the ground (note the labels naming Geryon, between the legs, and the kalos inscription, right)" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

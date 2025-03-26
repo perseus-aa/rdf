@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2003.01.0011 a crm:E38_Image ;
+    rdfs:label "2003.01.0011" ;
+    crm:P1i_is_identified_by "2003.01.0011" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2003.01.0011" ;
+    schema:caption "View of the Roman Forum from near the NE corner, before the Basilica Aemilia, at 10:00 am on June 21, AD 400. Arch of Septimius Severus, Arcus Septimii Severi, Basilica Emilia, Basilica Aemilia, Basilica Julia, Basilica Iulia, Diocletianic Columns, Columna Diocletiani, Forum Romanum, Roma, Imperial Rostra, Rostra Augusti, Roman Forum, Rome, Rostra of the Temple of Julius Caesar, Rostra ad Divi Iulii, Rostra Aedis Divi Iuli, Shrine of Venus Cloacina, Cloacina, Sacrum." ;
+    schema:creditText "Courtesy of the UCLA Cultural Virtual Reality Laboratory" .
+

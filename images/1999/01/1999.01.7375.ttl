@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.7375 a crm:E38_Image ;
+    rdfs:label "1999.01.7375" ;
+    crm:P1i_is_identified_by "1999.01.7375" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.7375" ;
+    schema:caption "Detail of the marble altar at the west end of the Antonine Mithraeum of the Painted Walls, left side with figure of Cautes (genius of the rising sun). Ostia, III I 6, Mitreo delle Pareti Dipinte." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

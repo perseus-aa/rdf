@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0665 a crm:E38_Image ;
+    rdfs:label "1992.06.0665" ;
+    crm:P1i_is_identified_by "1992.06.0665" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0665" ;
+    schema:caption "View of side A, from below: a woman standing in 3/4-view to the left, wearing a himation over a short-sleeved chiton, holds a hoop (wreath?) in her right hand, and turns her head profile to the right, to face another woman, who stands in a frontal pose, in front of a klismos (chair), is dressed like the first, but also wears a sakkos; she turns her head profile to the left to smell a rose; an Ionic column divides this woman from a third woman, who is entirely enveloped in a himation, draped over a chiton; she stands profile to the right and faces a cloth sack that hangs on the wall" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

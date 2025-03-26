@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0118 a crm:E38_Image ;
+    rdfs:label "1998.01.0118" ;
+    crm:P1i_is_identified_by "1998.01.0118" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0118" ;
+    schema:caption "Seated Kybele. Top left and bottom right: Votive relief in the form of a double naiskos with seated Kybele holding bowl with lion (left side of relief) and bowl and drum (right side); Top middle and bottom left: Naiskos of Kybele; Bottom middle: statuette of Kybele." ;
+    schema:creditText "From Svoronos 1903-12, pl. 118" .
+

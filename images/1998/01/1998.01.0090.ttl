@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0090 a crm:E38_Image ;
+    rdfs:label "1998.01.0090" ;
+    crm:P1i_is_identified_by "1998.01.0090" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0090" ;
+    schema:caption "Top: Banquet relief from Megara showing male and female figures feasting at a tripod table, with nude serving boy, krater, worshippers with a child, a temple slave, and a pig; Bottom: Banquet relief with six worshippers approach a banqueting god and goddess, attended by a nude serving boy with a horse's head" ;
+    schema:creditText "From Svoronos 1903-12, pl. 90" .
+

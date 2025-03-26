@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.07.1678 a crm:E38_Image ;
+    rdfs:label "1998.07.1678" ;
+    crm:P1i_is_identified_by "1998.07.1678" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.07.1678" ;
+    schema:caption "Detail of opus sectile marble floor, with stylized rosettes and cornucopiae, made of green and red porphyry on Numidian yellow limestone and Phrygian purple marble, Roman Forum, Curia" ;
+    schema:creditText "Photograph by Maria Daniels" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0966 a crm:E38_Image ;
+    rdfs:label "1992.06.0966" ;
+    crm:P1i_is_identified_by "1992.06.0966" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0966" ;
+    schema:caption "Detail of figural scene: a woman wearing a chiton with a long overfold, and a broad taenia, stands profile to the right and holds an alabastron in her outstretched right hand; on the other side of a footed box stands a woman draped in a himation and wearing a sakkos on her head, profile to the left; a bird, profile to the right; and a woman, seated profile to the right, wearing a himation over a sleeveless chiton, and a sphendone in her hair" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.5725 a crm:E38_Image ;
+    rdfs:label "1999.01.5725" ;
+    crm:P1i_is_identified_by "1999.01.5725" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.5725" ;
+    schema:caption "Rooms (29-32) on the west side of the courtyard of the House of the Charioteers, an apartment building constructed south of the Baths of the Seven Sages ca. A.D. 140, view from the upper level facing west. Ostia, Caseggiato degli Aurighi, III X 1." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

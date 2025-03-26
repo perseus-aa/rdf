@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2003.01.0065 a crm:E38_Image ;
+    rdfs:label "2003.01.0065" ;
+    crm:P1i_is_identified_by "2003.01.0065" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2003.01.0065" ;
+    schema:caption "The Roman Forum at 10:00 am on June 21, AD 400. Arch of Augustus, Arcus Augusti, Arch of Septimius Severus, Arcus Septimii Severi, Basilica Emilia, Basilica Aemilia, Basilica Julia, Basilica Iulia, Column of Phocas, Columna Phocae, Curia Julia, Curia Iulia, Diocletianic Columns, Columna Diocletiani, Fig, Olive, Vine, Ficus, Olea, Vitis, Forum Romanum, Roma, Imperial Rostra, Rostra Augusti, Lacus Curtius, Lapis Niger, Milliarium Aureum, Roman Forum, Rome, Rostra of the Temple of Julius Caesar, Rostra ad Divi Iulii, Rostra Aedis Divi Iuli, Shrine of Venus Cloacina, Cloacina, Sacrum, Temple of Castor, Aedes Castoris, Castor, Aedes, Templum, Temple of Concord, Aedes Concordiae, Concordia, Aedes, Templum, Temple of Julius Caesar, Aedes Divi Iulii, Iulius, Divus, Aedes, Temple of Saturn, Aedes Saturni, Saturnus, Aedes, Temple of Vesta, Aedes Vestae, Vesta, Aedes, Umbilicus Urbis Romae, Volcanal." ;
+    schema:creditText "Courtesy of the UCLA Cultural Virtual Reality Laboratory" .
+

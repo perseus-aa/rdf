@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1991.09.0141 a crm:E38_Image ;
+    rdfs:label "1991.09.0141" ;
+    crm:P1i_is_identified_by "1991.09.0141" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1991.09.0141" ;
+    schema:caption "East wall of building with butterfly clamp cuttings and rare use of marble blocks; steps along outside of wall, from S, Assos, Bouleuterion" ;
+    schema:creditText "Photograph by Don Keller" .
+

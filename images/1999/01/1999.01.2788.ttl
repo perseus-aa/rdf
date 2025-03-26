@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.2788 a crm:E38_Image ;
+    rdfs:label "1999.01.2788" ;
+    crm:P1i_is_identified_by "1999.01.2788" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.2788" ;
+    schema:caption "South facades of the Baths of Invidiosus (ca. A.D. 50, renovated under Antoninus Pius) and the early Antonine House of the Sun, view from the northwest corner of the caseggiato (V VI 4, Hadrianic) facing northwest. Ostia, Caseggiato del Sole, Building (V VI 2), Terme dell'Invidioso, Baths of Invidiosus." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

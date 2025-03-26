@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0345 a crm:E38_Image ;
+    rdfs:label "1992.06.0345" ;
+    crm:P1i_is_identified_by "1992.06.0345" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0345" ;
+    schema:caption "Close-up view of the tondo: a girl, wearing a medium-sleeved chiton and a narrow stephane, stands profile to the right, holding a lyre in her left hand and a plectrum in her right hand; a youth, wearing short pointed boots, a himation slung over his right shoulder, and a narrow taenia on his head, stands to her left (his face is shown in a rare frontal view), wraps his right arm around her shoulders, and holds a cup and a knotty staff or cane in his outstretched left hand" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.7423 a crm:E38_Image ;
+    rdfs:label "1999.01.7423" ;
+    crm:P1i_is_identified_by "1999.01.7423" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.7423" ;
+    schema:caption "Columns separating the east and west naves proper of the so-called Christian basilica on the western Decumanus, a building constructed for Christian use (xenodochium?) in the mid 4th century A.D., view from the east staircase facing southwest (note semicircular basin in west wall). Ostia, Basilica cristiana, III I 4." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

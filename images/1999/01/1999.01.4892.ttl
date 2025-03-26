@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.4892 a crm:E38_Image ;
+    rdfs:label "1999.01.4892" ;
+    crm:P1i_is_identified_by "1999.01.4892" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.4892" ;
+    schema:caption "Southeast corner of the great hall of the Hadrianic Insula of Jupiter and Ganymede, with painting executed under Commodus, lower registers. Ostia, I IV 2, Insula di Giove e Ganimede, Insula of Jupiter and Ganymede." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

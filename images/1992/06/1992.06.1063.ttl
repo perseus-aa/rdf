@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1063 a crm:E38_Image ;
+    rdfs:label "1992.06.1063" ;
+    crm:P1i_is_identified_by "1992.06.1063" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1063" ;
+    schema:caption "Detail of side A, center: a Samnite warrior, shown in 3/4-view to the left, wearing a himation over a belted, short-sleeved tunic, and a helmet, cross-legged, leaning his left arm on a white stele, and holding a gold phiale in his upraised left hand, with a white shield leaning against his right leg, and a spear leaning on his left shoulder" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

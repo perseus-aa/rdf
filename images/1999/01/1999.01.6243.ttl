@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.6243 a crm:E38_Image ;
+    rdfs:label "1999.01.6243" ;
+    crm:P1i_is_identified_by "1999.01.6243" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.6243" ;
+    schema:caption "Entrance from the Via del Serapide (right) to the Serapeum (left), a shrine to Egyptian Jupiter/Apis dedicated in A.D. 127 by Caltilius, view from atop the southeast corner of the precinct facing northeast. Ostia, III XVII 4, Serapeo, Via del Serapide." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

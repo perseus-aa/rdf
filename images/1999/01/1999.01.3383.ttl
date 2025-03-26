@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.3383 a crm:E38_Image ;
+    rdfs:label "1999.01.3383" ;
+    crm:P1i_is_identified_by "1999.01.3383" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.3383" ;
+    schema:caption "Northwest corner of the Isis shrine in the northeast corner of the Insula of the Isis Shrine (Hadrianic frame, with Commodan additions), internal view facing northwest. Ostia, Insula del Sacello di Iside, Insula of the Isis Shrine, IV V 4." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

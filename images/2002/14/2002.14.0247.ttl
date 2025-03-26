@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2002.14.0247 a crm:E38_Image ;
+    rdfs:label "2002.14.0247" ;
+    crm:P1i_is_identified_by "2002.14.0247" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2002.14.0247" ;
+    schema:caption "G 2110: reconstruction by W.S. Smith of west wall of chapel from parts of wall in position and fragments in the Glyptothèque Ny Carlsberg, Copenhagen, and the Barracco Collection in Rome. Barracco A 8032, Copenhagen 819, Harvard University - Museum of Fine Arts Expedition glass plate negative A 5753, Tomb G 2110.Tomb of Nefer, Giza." ;
+    schema:creditText "Courtesy of the Museum of Fine Arts, Boston" .
+

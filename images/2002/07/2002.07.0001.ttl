@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2002.07.0001 a crm:E38_Image ;
+    rdfs:label "2002.07.0001" ;
+    crm:P1i_is_identified_by "2002.07.0001" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2002.07.0001" ;
+    schema:caption "Overall view of the anonymous funerary monument SW of the Porta Marina with the Decumanus Maximus in foreground, from S, Funerary Monument, Monumento funerario, Ostia." ;
+    schema:creditText "Image by Marzia Vinci" .
+

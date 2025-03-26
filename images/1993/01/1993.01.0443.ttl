@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1993.01.0443 a crm:E38_Image ;
+    rdfs:label "1993.01.0443" ;
+    crm:P1i_is_identified_by "1993.01.0443" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1993.01.0443" ;
+    schema:caption "Hypsis' hydria: Drawing of  the shoulder scene, showing two nude boys on horseback following an older charioteer mounting a chariot (quadriga) drawn by four horses" ;
+    schema:creditText "From Furtwängler-Reichhold, Griechische Vasenmalerei: Auswahl hervorragender Vasenbilder, Tafeln 81-90. München: Bruckmann, 1906. pl. 82" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.4263 a crm:E38_Image ;
+    rdfs:label "1999.01.4263" ;
+    crm:P1i_is_identified_by "1999.01.4263" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.4263" ;
+    schema:caption "Statue of Mithras slaying the Bull, signed by Kriton the Athenian and dating to the early 2nd century A.D., at the south end of the Antonine mithraeum built into a subterranean corridor in the northwest corner of the Baths of Mithras, front view. Ostia, I XVII 2, Terme del Mitra, Baths of Mithras." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

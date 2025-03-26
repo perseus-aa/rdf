@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.7787 a crm:E38_Image ;
+    rdfs:label "1999.01.7787" ;
+    crm:P1i_is_identified_by "1999.01.7787" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.7787" ;
+    schema:caption "North facade of the Antonine House of the Trifore, view from the end of the Via delle Volte Dipinte facing south. Ostia, Caseggiato delle Trifore, III III 1." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

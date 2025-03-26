@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2000.04.2122 a crm:E38_Image ;
+    rdfs:label "2000.04.2122" ;
+    crm:P1i_is_identified_by "2000.04.2122" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2000.04.2122" ;
+    schema:caption "Sanctuary from 700 B.C.E. to 300 C.E., Troy." ;
+    schema:creditText "Photograph by Amy C. Smith" .
+

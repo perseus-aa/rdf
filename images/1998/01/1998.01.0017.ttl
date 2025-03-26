@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0017 a crm:E38_Image ;
+    rdfs:label "1998.01.0017" ;
+    crm:P1i_is_identified_by "1998.01.0017" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0017" ;
+    schema:caption "Top left: Headless marble statue of a seated figure; Top center: Upper half of a seated male statue, perhaps Asklepios or Poseidon; Top right: Marble statue of a seated god, perhaps Zeus, Poseidon, or Asklepios; Bottom left: Lower half of a seated statue; Bottom center: Lower half of a seated, draped statue; Bottom right: Lower portion of a seated figure, from a marble statue" ;
+    schema:creditText "From Svoronos 1903-12, pl. 17" .
+

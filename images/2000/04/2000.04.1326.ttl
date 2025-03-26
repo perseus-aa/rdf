@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:2000.04.1326 a crm:E38_Image ;
+    rdfs:label "2000.04.1326" ;
+    crm:P1i_is_identified_by "2000.04.1326" ;
+    crm:P48_has_preferred_identifier "Perseus:image:2000.04.1326" ;
+    schema:caption "View of the theater (c. 4th to 3rd Century B.C.E.) with a 6.5 meter wide orchestra, Ambracia (Arta)." ;
+    schema:creditText "Photograph by Amy C. Smith" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.9014 a crm:E38_Image ;
+    rdfs:label "1999.01.9014" ;
+    crm:P1i_is_identified_by "1999.01.9014" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.9014" ;
+    schema:caption "Detail of the white-ground painting (3rd cent. A.D.) on the north wall of the room (second from south) on the east side of the House of Annius, a commercial structure built ca. A.D. 128-129 and converted into a house in the 3rd cent. A.D., central panel with fragmentary vignette. Ostia, Casa di Annio, III XIV 4." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

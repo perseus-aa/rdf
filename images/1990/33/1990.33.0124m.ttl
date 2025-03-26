@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0124m a crm:E38_Image ;
+    rdfs:label "1990.33.0124m" ;
+    crm:P1i_is_identified_by "1990.33.0124m" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0124m" ;
+    schema:caption "Plan, Delos, Treasury 4" ;
+    schema:creditText "copyright D. Neel Smith 1989, drawn by M. W. Cutler and C. H. Smith based on Coulton (artist), based on P. Bruneau and J. Ducat, Guide de Délos, École franᷗaise d' Athènes, Paris 1965, in J.J. Coulton 1976 230-234 fig. 60, and also based on Buglass (artist), after Exploration archéologique de Délos, in R.A. Tomlinson 1976 overleaf fig. 12 Agora of the Italians, based on N.M. Kontoleontos  1950 77 fig. 35 Hypostyle Hall, based on N.M. Kontoleontos 1950 81 fig. 38 Neorium, based on P. Bruneau and J. Ducat, Guide de Délos fig. 2, École franᷗaise d'Athènes, Paris 1965, in A.W. Lawrence 1983 345 fig. 335 Temple of Athenian Apollo, based on N.M. Kontoleontos 1950 42 fig. 15 Temple of Delian Apollo, based on N.M. Kontoleontos 1950 40 fig. 13 Thesmophorium, based on BCH 53 1929 pl. 9, in A.W. Lawrence 1983 171 fig. 137" .
+

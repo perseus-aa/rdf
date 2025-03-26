@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.1049 a crm:E38_Image ;
+    rdfs:label "1992.06.1049" ;
+    crm:P1i_is_identified_by "1992.06.1049" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.1049" ;
+    schema:caption "Detail of the figural scene, left: a woman, wearing slippers, a sleeveless chiton, white bracelets, a white beaded necklace, a pony tail and a rayed sphendone, stands in 3/4-view to the right, holds a fillet in her right hand, and her drapery over her left shoulder, in her upraised left hand" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

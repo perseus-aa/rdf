@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0041 a crm:E38_Image ;
+    rdfs:label "1998.01.0041" ;
+    crm:P1i_is_identified_by "1998.01.0041" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0041" ;
+    schema:caption "Top left: Top of a woman's head (perhaps that of Leda); Top middle: Head of a young woman (perhaps Helen); Top right: Head of a woman wearing a veil (Nemesis?); Top, right: Torso of a man wearing a himation (Tyndareos?); Second row, left: Upper torso of a female figure (perhaps Leda); Center, left: unidentified fragment of drapery; Center, right: Lower torso of a woman dressed in a chiton (Nemesis?); Third row, left: Lower torso (drapery) of Leda?; Bottom, left: Lower hem of standing woman (perhaps Helen); Bottom, right: unidentified fragment of drapery" ;
+    schema:creditText "From Svoronos 1903-12, pl. 41" .
+

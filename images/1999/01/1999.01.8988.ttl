@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.8988 a crm:E38_Image ;
+    rdfs:label "1999.01.8988" ;
+    crm:P1i_is_identified_by "1999.01.8988" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.8988" ;
+    schema:caption "Southwest corner of the central courtyard of the building south of the Baths of the Porta Marina, originally constructed in the Hadrianic period as the service area for the Baths but converted to an independent thermal complex in the 4th cent. A.D., internal view facing south. Ostia, Edificio IV X 2." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

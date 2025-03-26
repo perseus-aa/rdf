@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.1085 a crm:E38_Image ;
+    rdfs:label "1990.33.1085" ;
+    crm:P1i_is_identified_by "1990.33.1085" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.1085" ;
+    schema:caption "Plan of Geometric to early Archaic phase (8th - 7th c. BC), with Second Hekatompedon Temple, Samos, Heraion" ;
+    schema:creditText "copyright Perseus Project 1990drawn by M.W. Cutler based on Irini Lilge-Elisawitou (artist) in <PBibRef>Kyrieleis 1981</PBibRef> fig. 100, and also based on J. Coulton (artist), based  on H. Schlief, AM 58, 1933 229 plate 29, E. Buschor, AM 55, 1930 22-30,53-56 plate 13, E. Buschor and O. Ziegehaus, AM 74, 1959 2-3, G. Gruben, AM 72, 1957 52-62, E. Buschor, Neue deutsche Ausgrabungen im Mittlemeergebiet und im Vorderen Orient 1959 200, plate1, in <PBibRef>J. Coulton 1976</PBibRef> 281 fig. 105, and also based on Hans Walter, Das Heraion von Samos, R.Piper and Co. Verlag, Munich 1976 55 fig. 45 in <PBibRef>W.R. Biers 1987</PBibRef> 134 fig. 6.9 2nd Hekatompedon based on Perseus Drawing 1990.33.0328; South Stoa based on Perseus Drawing 1990.33.0325" .
+

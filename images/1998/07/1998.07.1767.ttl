@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.07.1767 a crm:E38_Image ;
+    rdfs:label "1998.07.1767" ;
+    crm:P1i_is_identified_by "1998.07.1767" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.07.1767" ;
+    schema:caption "Detail of left half of N side: closer view of Hadrianic roundels depicting a boar hunt (left) and a sacrifice to Apollo (right), Colosseum Valley, Arch of Constantine" ;
+    schema:creditText "Photograph by Maria Daniels" .
+

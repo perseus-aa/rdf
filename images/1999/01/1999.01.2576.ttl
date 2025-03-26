@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.2576 a crm:E38_Image ;
+    rdfs:label "1999.01.2576" ;
+    crm:P1i_is_identified_by "1999.01.2576" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.2576" ;
+    schema:caption "Detail of the counter in the shop (3rd-4th century A.D., second from the west) in the south facade of the House of the Mills (ca. A.D. 127), internal view facing southwest  Ostia, Caseggiato dei Molini, House of the Mills, I III 1." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0250 a crm:E38_Image ;
+    rdfs:label "1992.06.0250" ;
+    crm:P1i_is_identified_by "1992.06.0250" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0250" ;
+    schema:caption "Detail of side B, left: a charioteer and Anchippos (behind) standing on a chariotbox (note Anchippos' name, to the right of his head); the charioteer wears a nebris (animal skin), belted, over a long, sleeveless charioteer's tunic, while Anchippos wears a cuirass over a tunic, and a helmet, and holds a shield on his left arm and a spear in his left hand" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

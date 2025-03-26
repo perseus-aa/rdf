@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.4214 a crm:E38_Image ;
+    rdfs:label "1999.01.4214" ;
+    crm:P1i_is_identified_by "1999.01.4214" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.4214" ;
+    schema:caption "Apse of an internal fountain (3rd-4th century A.D.) in the east facade of the Baths of Mithras (ca. A.D. 125), possibly a private bathing establishment, view from the Via delle Terme del Mitra facing south. Ostia, I XVII 2, Terme del Mitra, Baths of Mithras." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

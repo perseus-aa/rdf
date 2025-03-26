@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.4396 a crm:E38_Image ;
+    rdfs:label "1999.01.4396" ;
+    crm:P1i_is_identified_by "1999.01.4396" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.4396" ;
+    schema:caption "Entrance on the eat side of the Fortress of Julius II, completed between A.D. 1483 and 1486 under the direction of the Florentine architect Baccio Pontelli, view from the interior of the Borgo of Ostia facing west. Ostia, Castello Giulio II, Fortress of Julius II." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

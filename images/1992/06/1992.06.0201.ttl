@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0201 a crm:E38_Image ;
+    rdfs:label "1992.06.0201" ;
+    crm:P1i_is_identified_by "1992.06.0201" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0201" ;
+    schema:caption "Detail of side A, right: a nude, bearded man, standing profile to the right, holding a cock, faces a nude girl (?), who wears a taenia on her head and holds a flower in her upraised right hand and a wreath in her left hand, at waist level; another nude, bearded man, standing profile to the right, holding a crane in his upraised left hand, faces a nude youth, who wears a taenia on his head and holds an aryballos and a spear in his right hand; under the handle is crouched a nude, bearded man, profile to the right, who wears a taenia on his head and holds a small panther in his hands. Note also the holes in the wall of the cup, which evidence ancient repairs." ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

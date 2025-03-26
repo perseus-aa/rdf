@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.5447 a crm:E38_Image ;
+    rdfs:label "1999.01.5447" ;
+    crm:P1i_is_identified_by "1999.01.5447" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.5447" ;
+    schema:caption "Detail of the threshold of the doorway in the north wall of the chamber on the northeast side of the circular frigidarium of the Baths of the Seven Sages, a late Hadrianic bathing establishment built into a Trajanic structure as part of a residential complex, view facing north. Ostia, III X 2, Terme dei Sette Sapienti." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

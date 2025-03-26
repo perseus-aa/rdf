@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1997.99.0446 a crm:E38_Image ;
+    rdfs:label "1997.99.0446" ;
+    crm:P1i_is_identified_by "1997.99.0446" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1997.99.0446" ;
+    schema:caption "Marble sculpture head of Demeter (fragment of a cult statue group by Damophon of Messene, from the Temple of Demeter at Lykosoura)\"" ;
+    schema:creditText "Photograph by Amy C. Smith" .
+

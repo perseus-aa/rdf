@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0625b a crm:E38_Image ;
+    rdfs:label "1990.33.0625b" ;
+    crm:P1i_is_identified_by "1990.33.0625b" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0625b" ;
+    schema:caption "Cross-section of NE end of adyton, with great flight of stairs (lg.), Didyma, Hellenistic Temple of Apollo" ;
+    schema:creditText "Drawn by M.W. Cutler, after Gruben 1966, p. 347 fig. 377, after H. Knackfuss, Didyma 1: Die Baubeschreibung (1940)" .
+

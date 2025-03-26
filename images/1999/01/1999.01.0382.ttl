@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.0382 a crm:E38_Image ;
+    rdfs:label "1999.01.0382" ;
+    crm:P1i_is_identified_by "1999.01.0382" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.0382" ;
+    schema:caption "Base of an early cut-stone pier (left) and Severan brick span (right) at N end of the W facade of Ponte Lupo, looking E, Aqua Marcia" ;
+    schema:creditText "Photograph by Maria Daniels" .
+

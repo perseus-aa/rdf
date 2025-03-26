@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.9168 a crm:E38_Image ;
+    rdfs:label "1999.01.9168" ;
+    crm:P1i_is_identified_by "1999.01.9168" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.9168" ;
+    schema:caption "Detail of the interior of the marble fountain basin (3rd cent. A.D., discovered in the frigidarium) reconstructed in the  large heated hall on the west side of the Hadrianic Baths of the Cart Drivers. Ostia, II II 3, Terme dei Cisiarii." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

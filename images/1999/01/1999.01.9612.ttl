@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.9612 a crm:E38_Image ;
+    rdfs:label "1999.01.9612" ;
+    crm:P1i_is_identified_by "1999.01.9612" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.9612" ;
+    schema:caption "Detail of the mosaic (A.D. 190-200) in the statio of the naviculari Syllectini in the northeast corner of the Plaza of the Corporations, grain ship and lighthouse (right side). Ostia, II VII 4, Piazzale delle Corporazioni." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0488 a crm:E38_Image ;
+    rdfs:label "1992.06.0488" ;
+    crm:P1i_is_identified_by "1992.06.0488" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0488" ;
+    schema:caption "Detail of the figural scene, right: Iolaos' left hand, grasping a torch which he has lit on a fire, behind him" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

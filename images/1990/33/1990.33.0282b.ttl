@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.33.0282b a crm:E38_Image ;
+    rdfs:label "1990.33.0282b" ;
+    crm:P1i_is_identified_by "1990.33.0282b" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.33.0282b" ;
+    schema:caption "Plan, Amphiaraion, Terrace of Dedications" ;
+    schema:creditText "copyright C. H. Smith 1989, based on V. Petrakou 1968 supplementary plate A Klepshydra, based on V. Petrakou 1968 113-117 figs. 29-32 Stoa, based on V. Petrakou 1968 77-84 fig. 4,5 Temple of Amphiareios, based on V. Petrakou 1968 99-107 figs. 20-23 Theater, based on V. Petrakou 1968 84-93 figs. 11-13" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0628 a crm:E38_Image ;
+    rdfs:label "1992.06.0628" ;
+    crm:P1i_is_identified_by "1992.06.0628" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0628" ;
+    schema:caption "Detail of side B, right: a nude youth running to the left, with his head turned profile to the right, and both hands held behind him; another nude youth dancing over a lekythos; another nude youth dancing to the right, over a stamnos; he wears a chlamys draped over both arms and holds noise makers in both upraised hands" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0195 a crm:E38_Image ;
+    rdfs:label "1992.06.0195" ;
+    crm:P1i_is_identified_by "1992.06.0195" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0195" ;
+    schema:caption "Detail of side B, center: two hoplites running profile toward each other, aiming spears at each other; the warrior on the left wears a white cuirass over a red tunic, and a Corinthian helmet; the warrior on the right wears a dark cuirass, carries a spear at his left side, and his shield is emblazoned with a white sunburst" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

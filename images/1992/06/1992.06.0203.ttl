@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0203 a crm:E38_Image ;
+    rdfs:label "1992.06.0203" ;
+    crm:P1i_is_identified_by "1992.06.0203" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0203" ;
+    schema:caption "Detail of side A, far left: under the handle is seated a nude, bearded man, on a stool, profile to the left, holding a cock on his lap; a nude, bearded man, standing profile to the right, holds a stag; he faces a nude youth, who wears a taenia on his head, and holds a spear in his right hand; another nude, bearded man, standing profile to the right, holding a cock, faces a nude girl (?)" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

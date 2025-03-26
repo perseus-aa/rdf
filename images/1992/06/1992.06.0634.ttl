@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1992.06.0634 a crm:E38_Image ;
+    rdfs:label "1992.06.0634" ;
+    crm:P1i_is_identified_by "1992.06.0634" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1992.06.0634" ;
+    schema:caption "Detail of side A, right: Prokrustes, nude, with long hair and a long beard, running to the left, although he turns his head profile to the right, facing Theseus, who pursues  him, profile to the left, wielding an axe; Theseus is nude, except for a red wreath on his head" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Musée du Louvre" .
+

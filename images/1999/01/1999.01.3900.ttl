@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.3900 a crm:E38_Image ;
+    rdfs:label "1999.01.3900" ;
+    crm:P1i_is_identified_by "1999.01.3900" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.3900" ;
+    schema:caption "Detail of the altar (CIL xiv.S4280, Augustan, to Hercules and the Aqua Salvia) in the northwest corner of the cella of the Temple of Hercules, one of Ostia's oldest cult buildings built ca. 100 B.C. and restored under Trajan and in the late 4th century A.D. (later inscription at bottom, recording its reuse in a Severan period mithraeum). Ostia, I XV 5, Tempio di Ercole, Temple of Hercules." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

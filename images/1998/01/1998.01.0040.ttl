@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1998.01.0040 a crm:E38_Image ;
+    rdfs:label "1998.01.0040" ;
+    crm:P1i_is_identified_by "1998.01.0040" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1998.01.0040" ;
+    schema:caption "Top left: Relief of Asklepios' family and a family of worshippers; Top, middle: Votive relief of hero (perhaps a  son of Asklepios) with four worshippers; Top right: Part of a relief with Epione and two worshippers; Bottom left: Relief showing Asklepios and a worshipper; Bottom, middle: Votive relief showing Asklepios and two goddesses; Bottom right: Votive relief showing seven worshippers" ;
+    schema:creditText "From Svoronos 1903-12, pl. 40" .
+

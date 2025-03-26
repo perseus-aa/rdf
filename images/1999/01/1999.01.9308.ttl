@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.9308 a crm:E38_Image ;
+    rdfs:label "1999.01.9308" ;
+    crm:P1i_is_identified_by "1999.01.9308" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.9308" ;
+    schema:caption "Detail of the Hadrianic mosaic floor decoration on the west side of the Hall of Neptune at the south end of the bathing block of the Baths of Neptune, funded by Hadrian at the end of his reign and finished by Antoninus Pius: fragmentary sea griffin. Ostia, II IV 2, Terme di Nettuno, Baths of Neptune." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

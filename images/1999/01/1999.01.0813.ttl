@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.0813 a crm:E38_Image ;
+    rdfs:label "1999.01.0813" ;
+    crm:P1i_is_identified_by "1999.01.0813" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.0813" ;
+    schema:caption "Region I, including the House of the Infant Bacchus and the House of the Paintings (center, Hadrianic), view from the upper level of the Insula of Jupiter and Ganymede facing northwest (museum in right background). Ostia, I IV 3, I IV 4, Insula dei Dipinti, Insula of the Paintings, Insula di Bacco Fanciullo." ;
+    schema:creditText "Photograph by Maria Daniels" .
+

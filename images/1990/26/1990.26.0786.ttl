@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1990.26.0786 a crm:E38_Image ;
+    rdfs:label "1990.26.0786" ;
+    crm:P1i_is_identified_by "1990.26.0786" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1990.26.0786" ;
+    schema:caption "Reverse: River god Hypsas, holding laurel branch and phiale, pouring libation on altar; around the altar, a snake twines; in right field, selinon leaf (celery) and heron, at right" ;
+    schema:creditText "Photograph by Maria Daniels, courtesy of the Dewing Greek Numismatic Foundation" .
+

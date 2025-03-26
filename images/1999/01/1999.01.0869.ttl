@@ -1,0 +1,12 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix image: <https://iiif.perseus.tufts.edu/iiif/3/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+
+image:1999.01.0869 a crm:E38_Image ;
+    rdfs:label "1999.01.0869" ;
+    crm:P1i_is_identified_by "1999.01.0869" ;
+    crm:P48_has_preferred_identifier "Perseus:image:1999.01.0869" ;
+    schema:caption "East Portico of Pius IX built under Hadrian viewed from south end of Cardo Maximus. Ostia, I V 2, Portici di Pio IX, Porticoes of Pius IX" ;
+    schema:creditText "Photograph by Maria Daniels" .
+
